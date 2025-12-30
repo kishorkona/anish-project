@@ -1,0 +1,495 @@
+<Questions>
+	<Question>
+		<Id>1</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>G.8 Multiply fractions</SubSectionName>
+		<UrlKey>multiply-fractions</UrlKey>
+		<ResultsUrl>2001000443</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>2</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>HH</SectionId>
+		<SectionName>Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>HH.10 Make inferences from multiple samples</SubSectionName>
+		<UrlKey>make-inferences-from-multiple-samples</UrlKey>
+		<ResultsUrl>2020769617</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>3</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Perimeter and area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>BB.11 Area of compound figures made of rectangles</SubSectionName>
+		<UrlKey>area-of-compound-figures-made-of-rectangles</UrlKey>
+		<ResultsUrl>2020354617</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>4</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>U</SectionId>
+		<SectionName>One-variable inequalities</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>U.1 Solutions to inequalities</SubSectionName>
+		<UrlKey>solutions-to-inequalities</UrlKey>
+		<ResultsUrl>2001000595</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>5</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>U</SectionId>
+		<SectionName>One-variable inequalities</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>U.4 Solve one-step inequalities</SubSectionName>
+		<UrlKey>solve-one-step-inequalities</UrlKey>
+		<ResultsUrl>2001000596</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>6</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>13</SubSectionId>
+		<SubSectionName>G.13 Divide mixed numbers</SubSectionName>
+		<UrlKey>divide-mixed-numbers</UrlKey>
+		<ResultsUrl>2001000449</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>7</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>AA</SectionId>
+		<SectionName>Three-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>AA.2 Nets of three-dimensional figures</SubSectionName>
+		<UrlKey>nets-of-three-dimensional-figures</UrlKey>
+		<ResultsUrl>2001000549</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>8</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>S</SectionId>
+		<SectionName>Equivalent expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>S.11 Identify equivalent linear expressions using algebra tiles</SubSectionName>
+		<UrlKey>identify-equivalent-linear-expressions-using-algebra-tiles</UrlKey>
+		<ResultsUrl>2020040533</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>9</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>G.10 Multiply fractions and mixed numbers: word problems</SubSectionName>
+		<UrlKey>multiply-fractions-and-mixed-numbers-word-problems</UrlKey>
+		<ResultsUrl>2001000447</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>10</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>GG</SectionId>
+		<SectionName>Data and graphs</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>12</SubSectionId>
+		<SubSectionName>GG.12 Circle graphs and central angles</SubSectionName>
+		<UrlKey>circle-graphs-and-central-angles</UrlKey>
+		<ResultsUrl>2001000499</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>11</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>II.7 Use collected data to find probabilities and make predictions</SubSectionName>
+		<UrlKey>use-collected-data-to-find-probabilities-and-make-predictions</UrlKey>
+		<ResultsUrl>2020271217</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>12</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>D.10 Multi-step inequalities with decimals</SubSectionName>
+		<UrlKey>multi-step-inequalities-with-decimals</UrlKey>
+		<ResultsUrl>2001000412</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>13</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>A</SectionId>
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>A.1 Understanding integers</SubSectionName>
+		<UrlKey>understanding-integers</UrlKey>
+		<ResultsUrl>2001000415</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>14</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Two-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>Z.7 Graph triangles and quadrilaterals</SubSectionName>
+		<UrlKey>graph-triangles-and-quadrilaterals</UrlKey>
+		<ResultsUrl>2020019222</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>15</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>U</SectionId>
+		<SectionName>One-variable inequalities</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>U.5 Graph solutions to one-step inequalities</SubSectionName>
+		<UrlKey>graph-solutions-to-one-step-inequalities</UrlKey>
+		<ResultsUrl>2002025889</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>16</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Perimeter and area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>BB.6 Area of circles</SubSectionName>
+		<UrlKey>area-of-circles</UrlKey>
+		<ResultsUrl>2001000543</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>17</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>G.3 Add and subtract mixed numbers</SubSectionName>
+		<UrlKey>add-and-subtract-mixed-numbers</UrlKey>
+		<ResultsUrl>2001000441</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>18</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>L</SectionId>
+		<SectionName>Ratios rates and proportions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>L.10 Do the ratios form a proportion</SubSectionName>
+		<UrlKey>do-the-ratios-form-a-proportion</UrlKey>
+		<ResultsUrl>2001000566</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>19</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>S</SectionId>
+		<SectionName>Equivalent expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>S.10 Factors of linear expressions</SubSectionName>
+		<UrlKey>factors-of-linear-expressions</UrlKey>
+		<ResultsUrl>2020008022</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>20</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>II.3 Probability of simple events and opposite events</SubSectionName>
+		<UrlKey>probability-of-simple-events-and-opposite-events</UrlKey>
+		<ResultsUrl>2001000609</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>21</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>R</SectionId>
+		<SectionName>Expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>R.1 Write variable expressions: one operation</SubSectionName>
+		<UrlKey>write-variable-expressions-one-operation</UrlKey>
+		<ResultsUrl>2020035858</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>22</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>GG</SectionId>
+		<SectionName>Data and graphs</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>13</SubSectionId>
+		<SubSectionName>GG.13 Box plots</SubSectionName>
+		<UrlKey>box-plots</UrlKey>
+		<ResultsUrl>2001000502</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>23</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>U</SectionId>
+		<SectionName>One-variable inequalities</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>U.6 One-step inequalities: word problems</SubSectionName>
+		<UrlKey>one-step-inequalities-word-problems</UrlKey>
+		<ResultsUrl>2020039970</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>24</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>G.7 Multiply two fractions using models</SubSectionName>
+		<UrlKey>multiply-two-fractions-using-models</UrlKey>
+		<ResultsUrl>2009005423</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>25</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>R</SectionId>
+		<SectionName>Expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>R.8 Identify terms and coefficients</SubSectionName>
+		<UrlKey>identify-terms-and-coefficients</UrlKey>
+		<ResultsUrl>2020006487</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>26</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Y</SectionId>
+		<SectionName>Lines and angles</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>Y.5 Find measures of complementary, supplementary, vertical, and adjacent angles</SubSectionName>
+		<UrlKey>find-measures-of-complementary-supplementary-vertical-and-adjacent-angles</UrlKey>
+		<ResultsUrl>2001000526</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>27</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>H.4 Identify rational numbers</SubSectionName>
+		<UrlKey>identify-rational-numbers</UrlKey>
+		<ResultsUrl>2001000455</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>28</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>S</SectionId>
+		<SectionName>Equivalent expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>S.6 Write equivalent expressions using properties</SubSectionName>
+		<UrlKey>write-equivalent-expressions-using-properties</UrlKey>
+		<ResultsUrl>2001000600</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+	<Question>
+		<Id>29</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>17</SubSectionId>
+		<SubSectionName>G.17 Maps with fractional distances</SubSectionName>
+		<UrlKey>maps-with-fractional-distances</UrlKey>
+		<ResultsUrl>2001000453</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Monday Test-F</QuestionName>
+	</Question>
+</Questions>

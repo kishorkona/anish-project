@@ -1,0 +1,3953 @@
+<BuildQuestions>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>A.1 Understanding integers</SubSectionName>
+		<UrlKey>understanding-integers</UrlKey>
+		<ResultsUrl>2001000415</ResultsUrl>
+		<SetValue>0</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>A.2 Integers on number lines</SubSectionName>
+		<UrlKey>integers-on-number-lines</UrlKey>
+		<ResultsUrl>2001000416</ResultsUrl>
+		<SetValue>0</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>A.3 Graph integers on horizontal and vertical number lines</SubSectionName>
+		<UrlKey>graph-integers-on-horizontal-and-vertical-number-lines</UrlKey>
+		<ResultsUrl>2009005473</ResultsUrl>
+		<SetValue>0</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>A.4 Understanding absolute value</SubSectionName>
+		<UrlKey>understanding-absolute-value</UrlKey>
+		<ResultsUrl>2020040677</ResultsUrl>
+		<SetValue>0</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>A.5 Absolute value and opposite integers</SubSectionName>
+		<UrlKey>absolute-value-and-opposite-integers</UrlKey>
+		<ResultsUrl>2001000417</ResultsUrl>
+		<SetValue>0</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>A.6 Quantities that combine to zero: word problems</SubSectionName>
+		<UrlKey>quantities-that-combine-to-zero-word-problems</UrlKey>
+		<ResultsUrl>2020038639</ResultsUrl>
+		<SetValue>1</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>A.7 Compare and order integers</SubSectionName>
+		<UrlKey>compare-and-order-integers</UrlKey>
+		<ResultsUrl>2001000418</ResultsUrl>
+		<SetValue>0</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>A.8 Integer inequalities with absolute values</SubSectionName>
+		<UrlKey>integer-inequalities-with-absolute-values</UrlKey>
+		<ResultsUrl>2001000419</ResultsUrl>
+		<SetValue>0</SetValue>
+	</BuildQuestion>
+	<!-- B -->
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Decimals</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>C.1 Decimal numbers review</SubSectionName>
+		<UrlKey>decimal-numbers-review</UrlKey>
+		<ResultsUrl>2001000400</ResultsUrl>
+		<SetValue>0</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Decimals</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>C.2 Compare and order decimals</SubSectionName>
+		<UrlKey>compare-and-order-decimals</UrlKey>
+		<ResultsUrl>2001000401</ResultsUrl>
+		<SetValue>0</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Decimals</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>C.3 Round decimals</SubSectionName>
+		<UrlKey>round-decimals</UrlKey>
+		<ResultsUrl>2001000403</ResultsUrl>
+		<SetValue>0</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>D.1 Add and subtract decimals</SubSectionName>
+		<UrlKey>add-and-subtract-decimals</UrlKey>
+		<ResultsUrl>2001000404</ResultsUrl>
+		<SetValue>0</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>D.2 Add and subtract decimals: word problems</SubSectionName>
+		<UrlKey>add-and-subtract-decimals-word-problems</UrlKey>
+		<ResultsUrl>2001000405</ResultsUrl>
+		<SetValue>1</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>D.3 Multiply decimals</SubSectionName>
+		<UrlKey>multiply-decimals</UrlKey>
+		<ResultsUrl>2001000406</ResultsUrl>
+		<SetValue>0</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>D.4 Multiply decimals and whole numbers: word problems</SubSectionName>
+		<UrlKey>multiply-decimals-and-whole-numbers-word-problems</UrlKey>
+		<ResultsUrl>2001000407</ResultsUrl>
+		<SetValue>1</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>D.5 Divide decimals</SubSectionName>
+		<UrlKey>divide-decimals</UrlKey>
+		<ResultsUrl>2001000408</ResultsUrl>
+		<SetValue>0</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>D.6 Divide decimals by whole numbers: word problems</SubSectionName>
+		<UrlKey>divide-decimals-by-whole-numbers-word-problems</UrlKey>
+		<ResultsUrl>2001000409</ResultsUrl>
+		<SetValue>1</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>D.7 Estimate sums, differences, and products of decimals</SubSectionName>
+		<UrlKey>estimate-sums-differences-and-products-of-decimals</UrlKey>
+		<ResultsUrl>2001000410</ResultsUrl>
+		<SetValue>0</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>D.8 Add, subtract, multiply, or divide two decimals</SubSectionName>
+		<UrlKey>add-subtract-multiply-or-divide-two-decimals</UrlKey>
+		<ResultsUrl>2020161617</ResultsUrl>
+		<SetValue>0</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>D.9 Add, subtract, multiply, and divide decimals: word problems</SubSectionName>
+		<UrlKey>add-subtract-multiply-and-divide-decimals-word-problems</UrlKey>
+		<ResultsUrl>2001000411</ResultsUrl>
+		<SetValue>1</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>D.10 Multi-step inequalities with decimals</SubSectionName>
+		<UrlKey>multi-step-inequalities-with-decimals</UrlKey>
+		<ResultsUrl>2001000412</ResultsUrl>
+		<SetValue>0</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>D.11 Maps with decimal distances</SubSectionName>
+		<UrlKey>maps-with-decimal-distances</UrlKey>
+		<ResultsUrl>2001000413</ResultsUrl>
+		<SetValue>0</SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		
+		<SubSectionName>D.12 Evaluate numerical expressions involving decimals</SubSectionName>
+		<UrlKey>evaluate-numerical-expressions-involving-decimals</UrlKey>
+		<ResultsUrl>2001000414</ResultsUrl>
+		<SetValue>0</SetValue>
+	</BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Number theory</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>E.1 Prime factorization</SubSectionName>
+        <UrlKey>prime-factorization</UrlKey>
+        <ResultsUrl>2001000463</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Number theory</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>E.2 Greatest common factor</SubSectionName>
+        <UrlKey>greatest-common-factor</UrlKey>
+        <ResultsUrl>2001000466</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Number theory</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>E.3 Least common multiple</SubSectionName>
+        <UrlKey>least-common-multiple</UrlKey>
+        <ResultsUrl>2001000467</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Number theory</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>E.4 GCF and LCM: word problems</SubSectionName>
+        <UrlKey>gcf-and-lcm-word-problems</UrlKey>
+        <ResultsUrl>2001000468</ResultsUrl>
+        <SetValue>1#2</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>F.1 Understanding fractions: word problems</SubSectionName>
+        <UrlKey>understanding-fractions-word-problems</UrlKey>
+        <ResultsUrl>2001000431</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>F.2 Equivalent fractions</SubSectionName>
+        <UrlKey>equivalent-fractions</UrlKey>
+        <ResultsUrl>2001000429</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>F.3 Write fractions in lowest terms</SubSectionName>
+        <UrlKey>write-fractions-in-lowest-terms</UrlKey>
+        <ResultsUrl>2001000430</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>F.4 Fractions: word problems with graphs and tables</SubSectionName>
+        <UrlKey>fractions-word-problems-with-graphs-and-tables</UrlKey>
+        <ResultsUrl>2020023121</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>F.5 Least common denominator</SubSectionName>
+        <UrlKey>least-common-denominator</UrlKey>
+        <ResultsUrl>2001000432</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>F.6 Compare and order fractions</SubSectionName>
+        <UrlKey>compare-and-order-fractions</UrlKey>
+        <ResultsUrl>2001000433</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>F.7 Compare fractions: word problems</SubSectionName>
+        <UrlKey>compare-fractions-word-problems</UrlKey>
+        <ResultsUrl>2001000434</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>F.8 Convert between mixed numbers and improper fractions</SubSectionName>
+        <UrlKey>convert-between-mixed-numbers-and-improper-fractions</UrlKey>
+        <ResultsUrl>2001000435</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>F.9 Compare mixed numbers and improper fractions</SubSectionName>
+        <UrlKey>compare-mixed-numbers-and-improper-fractions</UrlKey>
+        <ResultsUrl>2001000436</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>F.10 Round mixed numbers</SubSectionName>
+        <UrlKey>round-mixed-numbers</UrlKey>
+        <ResultsUrl>2001000437</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>G.1 Add and subtract fractions</SubSectionName>
+        <UrlKey>add-and-subtract-fractions</UrlKey>
+        <ResultsUrl>2001000438</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>G.2 Add and subtract fractions: word problems</SubSectionName>
+        <UrlKey>add-and-subtract-fractions-word-problems</UrlKey>
+        <ResultsUrl>2001000439</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>G.3 Add and subtract mixed numbers</SubSectionName>
+        <UrlKey>add-and-subtract-mixed-numbers</UrlKey>
+        <ResultsUrl>2001000441</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>G.4 Add and subtract mixed numbers: word problems</SubSectionName>
+        <UrlKey>add-and-subtract-mixed-numbers-word-problems</UrlKey>
+        <ResultsUrl>2001000442</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>G.5 Inequalities with addition and subtraction of fractions and mixed numbers</SubSectionName>
+        <UrlKey>inequalities-with-addition-and-subtraction-of-fractions-and-mixed-numbers</UrlKey>
+        <ResultsUrl>2001000454</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>G.6 Estimate sums and differences of mixed numbers</SubSectionName>
+        <UrlKey>estimate-sums-and-differences-of-mixed-numbers</UrlKey>
+        <ResultsUrl>2001000440</ResultsUrl>
+        <SetValue>6</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>G.7 Multiply two fractions using models</SubSectionName>
+        <UrlKey>multiply-two-fractions-using-models</UrlKey>
+        <ResultsUrl>2009005423</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>G.8 Multiply fractions</SubSectionName>
+        <UrlKey>multiply-fractions</UrlKey>
+        <ResultsUrl>2001000443</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>G.9 Multiply mixed numbers</SubSectionName>
+        <UrlKey>multiply-mixed-numbers</UrlKey>
+        <ResultsUrl>2001000446</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>G.10 Multiply fractions and mixed numbers: word problems</SubSectionName>
+        <UrlKey>multiply-fractions-and-mixed-numbers-word-problems</UrlKey>
+        <ResultsUrl>2001000447</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>G.11 Multiplicative inverses</SubSectionName>
+        <UrlKey>multiplicative-inverses</UrlKey>
+        <ResultsUrl>2001000464</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>G.12 Divide fractions</SubSectionName>
+        <UrlKey>divide-fractions</UrlKey>
+        <ResultsUrl>2001000448</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>G.13 Divide mixed numbers</SubSectionName>
+        <UrlKey>divide-mixed-numbers</UrlKey>
+        <ResultsUrl>2001000449</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>G.14 Divide fractions and mixed numbers: word problems</SubSectionName>
+        <UrlKey>divide-fractions-and-mixed-numbers-word-problems</UrlKey>
+        <ResultsUrl>2001000450</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>G.15 Estimate products and quotients of fractions and mixed numbers</SubSectionName>
+        <UrlKey>estimate-products-and-quotients-of-fractions-and-mixed-numbers</UrlKey>
+        <ResultsUrl>2001000451</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>G.16 Add subtract multiply and divide fractions and mixed numbers word problems</SubSectionName>
+        <UrlKey>add-subtract-multiply-and-divide-fractions-and-mixed-numbers-word-problems</UrlKey>
+        <ResultsUrl>2001000452</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>G.17 Maps with fractional distances</SubSectionName>
+        <UrlKey>maps-with-fractional-distances</UrlKey>
+        <ResultsUrl>2001000453</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with fractions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>G.18 Evaluate numerical expressions involving fractions</SubSectionName>
+        <UrlKey>evaluate-numerical-expressions-involving-fractions</UrlKey>
+        <ResultsUrl>2020006508</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>H.1 Convert fractions or mixed numbers to decimals</SubSectionName>
+        <UrlKey>convert-fractions-or-mixed-numbers-to-decimals</UrlKey>
+        <ResultsUrl>2020036012</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>H.2 Convert decimals to fractions or mixed numbers</SubSectionName>
+        <UrlKey>convert-decimals-to-fractions-or-mixed-numbers</UrlKey>
+        <ResultsUrl>2020036004</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>H.3 Convert between decimals and fractions or mixed numbers</SubSectionName>
+        <UrlKey>convert-between-decimals-and-fractions-or-mixed-numbers</UrlKey>
+        <ResultsUrl>2001000456</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>H.4 Identify rational numbers</SubSectionName>
+        <UrlKey>identify-rational-numbers</UrlKey>
+        <ResultsUrl>2001000455</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>H.5 Classify rational numbers using a diagram</SubSectionName>
+        <UrlKey>classify-rational-numbers-using-a-diagram</UrlKey>
+        <ResultsUrl>2020039977</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>H.6 Classify rational numbers</SubSectionName>
+        <UrlKey>classify-rational-numbers</UrlKey>
+        <ResultsUrl>2020044668</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>H.7 Absolute value of rational numbers</SubSectionName>
+        <UrlKey>absolute-value-of-rational-numbers</UrlKey>
+        <ResultsUrl>2001000457</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>H.8 Rational numbers: find the sign</SubSectionName>
+        <UrlKey>rational-numbers-find-the-sign</UrlKey>
+        <ResultsUrl>2020036007</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>    
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>H.9 Compare rational numbers</SubSectionName>
+        <UrlKey>compare-rational-numbers</UrlKey>
+        <ResultsUrl>2001000458</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>H.10 Put rational numbers in order</SubSectionName>
+        <UrlKey>put-rational-numbers-in-order</UrlKey>
+        <ResultsUrl>2001000459</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>H.11 Classify real numbers</SubSectionName>
+        <UrlKey>classify-real-numbers</UrlKey>
+        <ResultsUrl>2001000471</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>I.1 Add and subtract positive and negative decimals</SubSectionName>
+        <UrlKey>add-and-subtract-positive-and-negative-decimals</UrlKey>
+        <ResultsUrl>2020036009</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>I.2 Add and subtract positive and negative fractions</SubSectionName>
+        <UrlKey>add-and-subtract-positive-and-negative-fractions</UrlKey>
+        <ResultsUrl>2020036008</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>I.3 Add and subtract rational numbers</SubSectionName>
+        <UrlKey>add-and-subtract-rational-numbers</UrlKey>
+        <ResultsUrl>2001000460</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>I.4 Rational numbers: find the sign</SubSectionName>
+        <UrlKey>rational-numbers-find-the-sign</UrlKey>
+        <ResultsUrl>2020036007</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>I.5 Apply addition and subtraction rules</SubSectionName>
+        <UrlKey>apply-addition-and-subtraction-rules</UrlKey>
+        <ResultsUrl>2020000183</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>I.6 Identify quotients of rational numbers: word problems</SubSectionName>
+        <UrlKey>identify-quotients-of-rational-numbers-word-problems</UrlKey>
+        <ResultsUrl>2020040276</ResultsUrl>
+        <SetValue>1#6</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>I.7 Multiply and divide positive and negative decimals</SubSectionName>
+        <UrlKey>multiply-and-divide-positive-and-negative-decimals</UrlKey>
+        <ResultsUrl>2020036011</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>I.8 Multiply and divide positive and negative fractions</SubSectionName>
+        <UrlKey>multiply-and-divide-positive-and-negative-fractions</UrlKey>
+        <ResultsUrl>2020036010</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>I.9 Multiply and divide rational numbers</SubSectionName>
+        <UrlKey>multiply-and-divide-rational-numbers</UrlKey>
+        <ResultsUrl>2001000461</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>I.10 Apply multiplication and division rules</SubSectionName>
+        <UrlKey>apply-multiplication-and-division-rules</UrlKey>
+        <ResultsUrl>2020000184</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Operations with rational numbers</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>I.11 Multi-step word problems with positive rational numbers</SubSectionName>
+        <UrlKey>multi-step-word-problems-with-positive-rational-numbers</UrlKey>
+        <ResultsUrl>2001000603</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Exponents</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>J.1 Understanding exponents</SubSectionName>
+        <UrlKey>understanding-exponents</UrlKey>
+        <ResultsUrl>2001000472</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Exponents</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>J.2 Evaluate powers</SubSectionName>
+        <UrlKey>evaluate-powers</UrlKey>
+        <ResultsUrl>2001000473</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Exponents</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>J.3 Solve equations with variable exponents</SubSectionName>
+        <UrlKey>solve-equations-with-variable-exponents</UrlKey>
+        <ResultsUrl>2001000474</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Exponents</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>J.4 Powers with negative bases</SubSectionName>
+        <UrlKey>powers-with-negative-bases</UrlKey>
+        <ResultsUrl>2001000475</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Exponents</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>J.5 Powers with decimal and fractional bases</SubSectionName>
+        <UrlKey>powers-with-decimal-and-fractional-bases</UrlKey>
+        <ResultsUrl>2001000476</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Exponents</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>J.6 Powers of ten</SubSectionName>
+        <UrlKey>powers-of-ten</UrlKey>
+        <ResultsUrl>2020037331</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Exponents</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>J.7 Evaluate numerical expressions involving exponents</SubSectionName>
+        <UrlKey>evaluate-numerical-expressions-involving-exponents</UrlKey>
+        <ResultsUrl>2001000479</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Exponents</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>J.8 Scientific notation</SubSectionName>
+        <UrlKey>scientific-notation</UrlKey>
+        <ResultsUrl>2001000469</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Exponents</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>J.9 Compare numbers written in scientific notation</SubSectionName>
+        <UrlKey>compare-numbers-written-in-scientific-notation</UrlKey>
+        <ResultsUrl>2001000470</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Square roots</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>K.1 Square roots of perfect squares</SubSectionName>
+        <UrlKey>square-roots-of-perfect-squares</UrlKey>
+        <ResultsUrl>2001000480</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Square roots</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>K.2 Estimate square roots</SubSectionName>
+        <UrlKey>estimate-square-roots</UrlKey>
+        <ResultsUrl>2001000481</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Ratios rates and proportions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>L.1 Understanding ratios</SubSectionName>
+        <UrlKey>understanding-ratios</UrlKey>
+        <ResultsUrl>2001000561</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Ratios rates and proportions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>L.2 Identify equivalent ratios</SubSectionName>
+        <UrlKey>identify-equivalent-ratios</UrlKey>
+        <ResultsUrl>2001000562</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Ratios rates and proportions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>L.3 Write an equivalent ratio</SubSectionName>
+        <UrlKey>write-an-equivalent-ratio</UrlKey>
+        <ResultsUrl>2020019242</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Ratios rates and proportions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>L.4 Equivalent ratios: word problems</SubSectionName>
+        <UrlKey>equivalent-ratios-word-problems</UrlKey>
+        <ResultsUrl>2001000563</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Ratios rates and proportions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>L.5 Unit rates</SubSectionName>
+        <UrlKey>unit-rates</UrlKey>
+        <ResultsUrl>2001000565</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Ratios rates and proportions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>L.6 Calculate unit rates with fractions</SubSectionName>
+        <UrlKey>calculate-unit-rates-with-fractions</UrlKey>
+        <ResultsUrl>2020039190</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade> 
+        <SectionName>Ratios rates and proportions</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>L.7 Solve word problems using unit rates</SubSectionName>
+        <UrlKey>solve-word-problems-using-unit-rates</UrlKey>
+        <ResultsUrl>2020076917</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>    
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Ratios rates and proportions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>L.8 Compare ratios word problems</SubSectionName>
+        <UrlKey>compare-ratios-word-problems</UrlKey>
+        <ResultsUrl>2001000564</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Ratios rates and proportions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>L.9 Compare rates word problems</SubSectionName>
+        <UrlKey>compare-rates-word-problems</UrlKey>
+        <ResultsUrl>2020040973</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Ratios rates and proportions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>L.10 Do the ratios form a proportion</SubSectionName>
+        <UrlKey>do-the-ratios-form-a-proportion</UrlKey>
+        <ResultsUrl>2001000566</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Ratios rates and proportions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>L.11 Do the ratios form a proportion word problems</SubSectionName>
+        <UrlKey>do-the-ratios-form-a-proportion-word-problems</UrlKey>
+        <ResultsUrl>2001000567</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Ratios rates and proportions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>L.12 Solve proportions</SubSectionName>
+        <UrlKey>solve-proportions</UrlKey>
+        <ResultsUrl>2001000568</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Ratios rates and proportions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>L.13 Solve proportions word problems</SubSectionName>
+        <UrlKey>solve-proportions-word-problems</UrlKey>
+        <ResultsUrl>2001000569</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Ratios rates and proportions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>L.14 Estimate population size using proportions</SubSectionName>
+        <UrlKey>estimate-population-size-using-proportions</UrlKey>
+        <ResultsUrl>2001000570</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Coordinate plane</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>M.1 Coordinate plane review</SubSectionName>
+        <UrlKey>coordinate-plane-review</UrlKey>
+        <ResultsUrl>2001000486</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Coordinate plane</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>M.2 Quadrants and axes</SubSectionName>
+        <UrlKey>quadrants-and-axes</UrlKey>
+        <ResultsUrl>2001000487</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Coordinate plane</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>M.3 Follow directions on a coordinate plane</SubSectionName>
+        <UrlKey>follow-directions-on-a-coordinate-plane</UrlKey>
+        <ResultsUrl>2001000488</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Coordinate plane</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>M.4 Distance between two points</SubSectionName>
+        <UrlKey>distance-between-two-points</UrlKey>
+        <ResultsUrl>2020006494</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Proportional relationships</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>N.1 Find the constant of proportionality from a table</SubSectionName>
+        <UrlKey>find-the-constant-of-proportionality-from-a-table</UrlKey>
+        <ResultsUrl>2020006552</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Proportional relationships</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>N.2 Write equations for proportional relationships from tables</SubSectionName>
+        <UrlKey>write-equations-for-proportional-relationships-from-tables</UrlKey>
+        <ResultsUrl>2020006503</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Proportional relationships</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>N.3 Identify proportional relationships by graphing</SubSectionName>
+        <UrlKey>identify-proportional-relationships-by-graphing</UrlKey>
+        <ResultsUrl>2020006569</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Proportional relationships</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>N.4 Find the constant of proportionality from a graph</SubSectionName>
+        <UrlKey>find-the-constant-of-proportionality-from-a-graph</UrlKey>
+        <ResultsUrl>2001000625</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Proportional relationships</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>N.5 Write equations for proportional relationships from graphs</SubSectionName>
+        <UrlKey>write-equations-for-proportional-relationships-from-graphs</UrlKey>
+        <ResultsUrl>2020006504</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Proportional relationships</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>N.6 Identify proportional relationships from graphs and equations</SubSectionName>
+        <UrlKey>identify-proportional-relationships-from-graphs-and-equations</UrlKey>
+        <ResultsUrl>2001000624</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Proportional relationships</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>N.7 Identify proportional relationships from tables</SubSectionName>
+        <UrlKey>identify-proportional-relationships-from-tables</UrlKey>
+        <ResultsUrl>2020035952</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Proportional relationships</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>N.8 Complete a table and graph a proportional relationship</SubSectionName>
+        <UrlKey>complete-a-table-and-graph-a-proportional-relationship</UrlKey>
+        <ResultsUrl>2020037328</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Proportional relationships</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>N.9 Graph a proportional relationship: word problems</SubSectionName>
+        <UrlKey>graph-a-proportional-relationship-word-problems</UrlKey>
+        <ResultsUrl>2020037329</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Proportional relationships</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>N.10 Interpret graphs of proportional relationships</SubSectionName>
+        <UrlKey>interpret-graphs-of-proportional-relationships</UrlKey>
+        <ResultsUrl>2020006645</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Proportional relationships</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>N.11 Write and solve equations for proportional relationships</SubSectionName>
+        <UrlKey>write-and-solve-equations-for-proportional-relationships</UrlKey>
+        <ResultsUrl>2020006643</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <CommingSoon>N.12 Checkpoint: Proportional relationships</CommingSoon>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Percents</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>O.1 What percentage is illustrated</SubSectionName>
+        <UrlKey>what-percentage-is-illustrated</UrlKey>
+        <ResultsUrl>2001000573</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Percents</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>O.2 Convert between percents fractions and decimals</SubSectionName>
+        <UrlKey>convert-between-percents-fractions-and-decimals</UrlKey>
+        <ResultsUrl>2001000574</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Percents</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>O.3 Compare percents to fractions and decimals</SubSectionName>
+        <UrlKey>compare-percents-to-fractions-and-decimals</UrlKey>
+        <ResultsUrl>2001000575</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Percents</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>O.4 Estimate percents of numbers</SubSectionName>
+        <UrlKey>estimate-percents-of-numbers</UrlKey>
+        <ResultsUrl>2001000576</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Percents</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>O.5 Solve percent problems using strip models</SubSectionName>
+        <UrlKey>solve-percent-problems-using-strip-models</UrlKey>
+        <ResultsUrl>2020042596</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Percents</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>O.6 Percents of numbers and money amounts</SubSectionName>
+        <UrlKey>percents-of-numbers-and-money-amounts</UrlKey>
+        <ResultsUrl>2001000577</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Percents</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>O.7 Percents of numbers word problems</SubSectionName>
+        <UrlKey>percents-of-numbers-word-problems</UrlKey>
+        <ResultsUrl>2001000578</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Percents</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>O.8 Solve percent equations</SubSectionName>
+        <UrlKey>solve-percent-equations</UrlKey>
+        <ResultsUrl>2001000579</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Percents</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>O.9 Solve percent equations word problems</SubSectionName>
+        <UrlKey>solve-percent-equations-word-problems</UrlKey>
+        <ResultsUrl>2001000580</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Percents</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>O.10 Percent of change</SubSectionName>
+        <UrlKey>percent-of-change</UrlKey>
+        <ResultsUrl>2001000581</ResultsUrl>
+        <SetValue>0</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Percents</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>O.11 Percent of change: word problems</SubSectionName>
+        <UrlKey>percent-of-change-word-problems</UrlKey>
+        <ResultsUrl>2001000582</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Percents</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>O.12 Percent of change: find the original amount word problems</SubSectionName>
+        <UrlKey>percent-of-change-find-the-original-amount-word-problems</UrlKey>
+        <ResultsUrl>2020036030</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Percents</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>O.13 Percent error: word problems</SubSectionName>
+        <UrlKey>percent-error-word-problems</UrlKey>
+        <ResultsUrl>2020304817</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Consumer math</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>P.1 Add subtract multiply and divide money amounts word problems</SubSectionName>
+        <UrlKey>add-subtract-multiply-and-divide-money-amounts-word-problems</UrlKey>
+        <ResultsUrl>2001000503</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Consumer math</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>P.2 Price lists</SubSectionName>
+        <UrlKey>price-lists</UrlKey>
+        <ResultsUrl>2001000504</ResultsUrl>
+        <SetValue>1#3</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Consumer math</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>P.3 Unit prices</SubSectionName>
+        <UrlKey>unit-prices</UrlKey>
+        <ResultsUrl>2001000505</ResultsUrl>
+        <SetValue>1#3</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Consumer math</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>P.4 Unit prices with unit conversions</SubSectionName>
+        <UrlKey>unit-prices-with-unit-conversions</UrlKey>
+        <ResultsUrl>2001000506</ResultsUrl>
+        <SetValue>1#3</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Consumer math</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>P.5 Unit prices: find the total price</SubSectionName>
+        <UrlKey>unit-prices-find-the-total-price</UrlKey>
+        <ResultsUrl>2001000507</ResultsUrl>
+        <SetValue>1#3</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Consumer math</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>P.6 Percent of a number tax discount and more</SubSectionName>
+        <UrlKey>percent-of-a-number-tax-discount-and-more</UrlKey>
+        <ResultsUrl>2001000508</ResultsUrl>
+        <SetValue>1#3</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Consumer math</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>P.7 Which is the better coupon</SubSectionName>
+        <UrlKey>which-is-the-better-coupon</UrlKey>
+        <ResultsUrl>2020037065</ResultsUrl>
+        <SetValue>1#3</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Consumer math</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>P.8 Find the percent tax discount and more</SubSectionName>
+        <UrlKey>find-the-percent-tax-discount-and-more</UrlKey>
+        <ResultsUrl>2001000509</ResultsUrl>
+        <SetValue>1#3</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Consumer math</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>P.9 Sale prices: find the original price</SubSectionName>
+        <UrlKey>sale-prices-find-the-original-price</UrlKey>
+        <ResultsUrl>2001000510</ResultsUrl>
+        <SetValue>1#3</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Consumer math</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>P.10 Multi-step problems with percents</SubSectionName>
+        <UrlKey>multi-step-problems-with-percents</UrlKey>
+        <ResultsUrl>2001000511</ResultsUrl>
+        <SetValue>1#3</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Consumer math</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>P.11 Estimate tips</SubSectionName>
+        <UrlKey>estimate-tips</UrlKey>
+        <ResultsUrl>2001000512</ResultsUrl>
+        <SetValue>1#3</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Consumer math</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>P.12 Simple interest</SubSectionName>
+        <UrlKey>simple-interest</UrlKey>
+        <ResultsUrl>2001000513</ResultsUrl>
+        <SetValue>1#3</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Consumer math</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>P.13 Compound interest</SubSectionName>
+        <UrlKey>compound-interest</UrlKey>
+        <ResultsUrl>2001000900</ResultsUrl>
+        <SetValue>1#3</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>  
+        <SectionName>Consumer math</SectionName>
+        <Enabled>0</Enabled>
+        <SubSectionName>P.14 Checkpoint: Unit rates, ratios, and percents</SubSectionName>
+        <UrlKey>checkpoint-unit-rates-ratios-and-percents</UrlKey>
+        <ResultsUrl>2020369711</ResultsUrl>
+        <SetValue>1#3</SetValue>
+    </BuildQuestion>    
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Units of measurement</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Q.1 Compare and convert customary units</SubSectionName>
+        <UrlKey>compare-and-convert-customary-units</UrlKey>
+        <ResultsUrl>2001000516</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Units of measurement</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Q.2 Mixed customary units</SubSectionName>
+        <UrlKey>mixed-customary-units</UrlKey>
+        <ResultsUrl>2001000517</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Units of measurement</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Q.3 Compare and convert metric units</SubSectionName>
+        <UrlKey>compare-and-convert-metric-units</UrlKey>
+        <ResultsUrl>2001000518</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Units of measurement</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Q.4 Convert between customary and metric systems</SubSectionName>
+        <UrlKey>convert-between-customary-and-metric-systems</UrlKey>
+        <ResultsUrl>2001000519</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Units of measurement</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Q.5 Celsius and Fahrenheit temperatures</SubSectionName>
+        <UrlKey>celsius-and-fahrenheit-temperatures</UrlKey>
+        <ResultsUrl>2001000521</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Expressions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>R.1 Write variable expressions: one operation</SubSectionName>
+        <UrlKey>write-variable-expressions-one-operation</UrlKey>
+        <ResultsUrl>2020035858</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Expressions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>R.2 Write variable expressions: two or three operations</SubSectionName>
+        <UrlKey>write-variable-expressions-two-or-three-operations</UrlKey>
+        <ResultsUrl>2001000583</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Expressions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>R.3 Write variable expressions: word problems</SubSectionName>
+        <UrlKey>write-variable-expressions-word-problems</UrlKey>
+        <ResultsUrl>2020006472</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Expressions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>R.4 Evaluate linear expressions</SubSectionName>
+        <UrlKey>evaluate-linear-expressions</UrlKey>
+        <ResultsUrl>2001000584</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Expressions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>R.5 Evaluate multi-variable expressions</SubSectionName>
+        <UrlKey>evaluate-multi-variable-expressions</UrlKey>
+        <ResultsUrl>2001000586</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Expressions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>R.6 Evaluate absolute value expressions</SubSectionName>
+        <UrlKey>evaluate-absolute-value-expressions</UrlKey>
+        <ResultsUrl>2001000585</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Expressions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>R.7 Evaluate nonlinear expressions</SubSectionName>
+        <UrlKey>evaluate-nonlinear-expressions</UrlKey>
+        <ResultsUrl>2001000587</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Expressions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>R.8 Identify terms and coefficients</SubSectionName>
+        <UrlKey>identify-terms-and-coefficients</UrlKey>
+        <ResultsUrl>2020006487</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Expressions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>R.9 Sort factors of variable expressions</SubSectionName>
+        <UrlKey>sort-factors-of-variable-expressions</UrlKey>
+        <ResultsUrl>2020023103</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Equivalent expressions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>S.1 Properties of addition and multiplication</SubSectionName>
+        <UrlKey>properties-of-addition-and-multiplication</UrlKey>
+        <ResultsUrl>2001000598</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Equivalent expressions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>S.2 Simplify expressions by combining like terms: with algebra tiles</SubSectionName>
+        <UrlKey>simplify-expressions-by-combining-like-terms-with-algebra-tiles</UrlKey>
+        <ResultsUrl>2020040710</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Equivalent expressions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>S.3 Simplify expressions by combining like terms</SubSectionName>
+        <UrlKey>simplify-expressions-by-combining-like-terms</UrlKey>
+        <ResultsUrl>2020040711</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Equivalent expressions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>S.4 Multiply using the distributive property: area models</SubSectionName>
+        <UrlKey>multiply-using-the-distributive-property-area-models</UrlKey>
+        <ResultsUrl>2020077517</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Equivalent expressions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>S.5 Multiply using the distributive property</SubSectionName>
+        <UrlKey>multiply-using-the-distributive-property</UrlKey>
+        <ResultsUrl>2001000599</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Equivalent expressions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>S.6 Write equivalent expressions using properties</SubSectionName>
+        <UrlKey>write-equivalent-expressions-using-properties</UrlKey>
+        <ResultsUrl>2001000600</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Equivalent expressions</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>S.7 Add and subtract linear expressions</SubSectionName>
+        <UrlKey>add-and-subtract-linear-expressions</UrlKey>
+        <ResultsUrl>2020006563</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Equivalent expressions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>S.8 Add and subtract like terms: with exponents</SubSectionName>
+        <UrlKey>add-and-subtract-like-terms-with-exponents</UrlKey>
+        <ResultsUrl>2001000588</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Equivalent expressions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>S.9 Factor linear expressions: area models</SubSectionName>
+        <UrlKey>factor-linear-expressions-area-models</UrlKey>
+        <ResultsUrl>2020229317</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Equivalent expressions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>S.10 Factors of linear expressions</SubSectionName>
+        <UrlKey>factors-of-linear-expressions</UrlKey>
+        <ResultsUrl>2020008022</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Equivalent expressions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>S.11 Identify equivalent linear expressions using algebra tiles</SubSectionName>
+        <UrlKey>identify-equivalent-linear-expressions-using-algebra-tiles</UrlKey>
+        <ResultsUrl>2020040533</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Equivalent expressions</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>S.12 Identify equivalent linear expressions I</SubSectionName>
+        <UrlKey>identify-equivalent-linear-expressions</UrlKey>
+        <ResultsUrl>2020035868</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Equivalent expressions</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>S.13 Identify equivalent linear expressions II</SubSectionName>
+        <UrlKey>identify-equivalent-linear-expressions-ii</UrlKey>
+        <ResultsUrl>2020008014</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Equivalent expressions</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>S.14 Identify equivalent linear expressions: word problems</SubSectionName>
+        <UrlKey>identify-equivalent-linear-expressions-word-problems</UrlKey>
+        <ResultsUrl>2020037177</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+    <CommingSoon>S.15 Checkpoint: Linear expressions</CommingSoon>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>T.1 Which x satisfies an equation?</SubSectionName>
+        <UrlKey>which-x-satisfies-an-equation</UrlKey>
+        <ResultsUrl>2001000589</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>T.2 Write an equation from words</SubSectionName>
+        <UrlKey>write-an-equation-from-words</UrlKey>
+        <ResultsUrl>2020002034</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>T.3 Solve equations using properties</SubSectionName>
+        <UrlKey>solve-equations-using-properties</UrlKey>
+        <ResultsUrl>2001000601</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>T.4 Model and solve equations using algebra tiles</SubSectionName>
+        <UrlKey>model-and-solve-equations-using-algebra-tiles</UrlKey>
+        <ResultsUrl>2001000590</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>T.5 Write and solve equations that represent diagrams</SubSectionName>
+        <UrlKey>write-and-solve-equations-that-represent-diagrams</UrlKey>
+        <ResultsUrl>2020002031</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>T.6 Solve one-step equations</SubSectionName>
+        <UrlKey>solve-one-step-equations</UrlKey>
+        <ResultsUrl>2001000591</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>T.7 Solve one-step equations with decimals and fractions</SubSectionName>
+        <UrlKey>solve-one-step-equations-with-decimals-and-fractions</UrlKey>
+        <ResultsUrl>2020193317</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>T.8 Solve two-step equations without parentheses</SubSectionName>
+        <UrlKey>solve-two-step-equations-no-parentheses</UrlKey>
+        <ResultsUrl>2020042856</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>T.9 Solve two-step equations with parentheses</SubSectionName>
+        <UrlKey>solve-two-step-equations-with-parentheses</UrlKey>
+        <ResultsUrl>2020042857</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>T.10 Solve two-step equations</SubSectionName>
+        <UrlKey>solve-two-step-equations</UrlKey>
+        <ResultsUrl>2001000592</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>T.11 Solve two-step equations with fractions</SubSectionName>
+        <UrlKey>solve-two-step-equations-with-fractions</UrlKey>
+        <ResultsUrl>2020918517</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>T.12 Choose two-step equations: word problems</SubSectionName>
+        <UrlKey>choose-two-step-equations-word-problems</UrlKey>
+        <ResultsUrl>2020222917</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>T.13 Solve two-step equations: word problems</SubSectionName>
+        <UrlKey>solve-two-step-equations-word-problems</UrlKey>
+        <ResultsUrl>2020006555</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>T.14 Solve equations involving like terms</SubSectionName>
+        <UrlKey>solve-equations-involving-like-terms</UrlKey>
+        <ResultsUrl>2001000593</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>T.15 Solve equations: complete the solution</SubSectionName>
+        <UrlKey>solve-equations-complete-the-solution</UrlKey>
+        <ResultsUrl>2020023143</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+        <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        <SectionName>One-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>T.16 Checkpoint: Solve two-step equations</SubSectionName>
+        <UrlKey>checkpoint-solve-two-step-equations</UrlKey>
+        <ResultsUrl>2020368811</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable inequalities</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>U.1 Solutions to inequalities</SubSectionName>
+        <UrlKey>solutions-to-inequalities</UrlKey>
+        <ResultsUrl>2001000595</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable inequalities</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>U.2 Graph inequalities on number lines</SubSectionName>
+        <UrlKey>graph-inequalities-on-number-lines</UrlKey>
+        <ResultsUrl>2002025888</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable inequalities</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>U.3 Write inequalities from number lines</SubSectionName>
+        <UrlKey>write-inequalities-from-number-lines</UrlKey>
+        <ResultsUrl>2001000594</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable inequalities</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>U.4 Solve one-step inequalities</SubSectionName>
+        <UrlKey>solve-one-step-inequalities</UrlKey>
+        <ResultsUrl>2001000596</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable inequalities</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>U.5 Graph solutions to one-step inequalities</SubSectionName>
+        <UrlKey>graph-solutions-to-one-step-inequalities</UrlKey>
+        <ResultsUrl>2002025889</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable inequalities</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>U.6 One-step inequalities: word problems</SubSectionName>
+        <UrlKey>one-step-inequalities-word-problems</UrlKey>
+        <ResultsUrl>2020039970</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable inequalities</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>U.7 Solve two-step inequalities</SubSectionName>
+        <UrlKey>solve-two-step-inequalities</UrlKey>
+        <ResultsUrl>2001000597</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>One-variable inequalities</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>U.8 Graph solutions to two-step inequalities</SubSectionName>
+        <UrlKey>graph-solutions-to-two-step-inequalities</UrlKey>
+        <ResultsUrl>2002025890</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        <SectionName>One-variable inequalities</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>U.9 Checkpoint: Solve two-step inequalities</SubSectionName>
+        <UrlKey>checkpoint-solve-two-step-inequalities</UrlKey>
+        <ResultsUrl>2021366117</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>    
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Sequences</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>V.1 Identify arithmetic and geometric sequences</SubSectionName>
+        <UrlKey>identify-arithmetic-and-geometric-sequences</UrlKey>
+        <ResultsUrl>2001000639</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+      <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Sequences</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>V.2 Arithmetic sequences</SubSectionName>
+        <UrlKey>arithmetic-sequences</UrlKey>
+        <ResultsUrl>2001000640</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+      <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Sequences</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>V.3 Geometric sequences</SubSectionName>
+        <UrlKey>geometric-sequences</UrlKey>
+        <ResultsUrl>2001000641</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+      <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Sequences</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>V.4 Sequences: mixed review</SubSectionName>
+        <UrlKey>sequences-mixed-review</UrlKey>
+        <ResultsUrl>2001000642</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+      <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Sequences</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>V.5 Sequences: word problems</SubSectionName>
+        <UrlKey>sequences-word-problems</UrlKey>
+        <ResultsUrl>2001000643</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+      <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Sequences</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>V.6 Evaluate variable expressions for sequences</SubSectionName>
+        <UrlKey>evaluate-variable-expressions-for-sequences</UrlKey>
+        <ResultsUrl>2001000644</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+      <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Sequences</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>V.7 Write variable expressions for arithmetic sequences</SubSectionName>
+        <UrlKey>write-variable-expressions-for-arithmetic-sequences</UrlKey>
+        <ResultsUrl>2001000645</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Slope</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>W.1 Find the slope from a graph</SubSectionName>
+        <UrlKey>find-the-slope-from-a-graph</UrlKey>
+        <ResultsUrl>2001000628</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Slope</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>W.2 Find the slope from two points</SubSectionName>
+        <UrlKey>find-the-slope-from-two-points</UrlKey>
+        <ResultsUrl>2001000629</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Slope</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>W.3 Find a missing coordinate using slope</SubSectionName>
+        <UrlKey>find-a-missing-coordinate-using-slope</UrlKey>
+        <ResultsUrl>2009005647</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Slope</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>W.4 Graph a line using slope</SubSectionName>
+        <UrlKey>grade-7/graph-a-line-using-slope</UrlKey>
+        <ResultsUrl>2001000631</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Slope</SectionName>
+        <Enabled>0</Enabled>
+        <SubSectionName>W.5 Constant rate of change: tables</SubSectionName>
+        <UrlKey>constant-rate-of-change-tables</UrlKey>
+        <ResultsUrl>2021066817</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Slope</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>W.6 Constant rate of change: graphs</SubSectionName>
+        <UrlKey>constant-rate-of-change-graphs</UrlKey>
+        <ResultsUrl>2001000655</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Slope</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>W.7 Rate of change: tables</SubSectionName>
+        <UrlKey>rate-of-change-tables</UrlKey>
+        <ResultsUrl>2001000571</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Slope</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>W.8 Rate of change: graphs</SubSectionName>
+        <UrlKey>rate-of-change-graphs</UrlKey>
+        <ResultsUrl>2020034587</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>X.1 Identify independent and dependent variables</SubSectionName>
+        <UrlKey>identify-independent-and-dependent-variables</UrlKey>
+        <ResultsUrl>2020002039</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>X.2 Find a value using two-variable equations</SubSectionName>
+        <UrlKey>find-a-value-using-two-variable-equations</UrlKey>
+        <ResultsUrl>2001000638</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>X.3 Evaluate two-variable equations: word problems</SubSectionName>
+        <UrlKey>evaluate-two-variable-equations-word-problems</UrlKey>
+        <ResultsUrl>2001000637</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>X.4 Complete a table for a two-variable relationship</SubSectionName>
+        <UrlKey>complete-a-table-for-a-two-variable-relationship</UrlKey>
+        <ResultsUrl>2001000627</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>X.5 Write a two-variable equation</SubSectionName>
+        <UrlKey>write-a-two-variable-equation</UrlKey>
+        <ResultsUrl>2001000633</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>X.6 Identify the graph of an equation</SubSectionName>
+        <UrlKey>identify-the-graph-of-an-equation</UrlKey>
+        <ResultsUrl>2001000635</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-variable equations</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>X.7 Graph a two-variable equation</SubSectionName>
+        <UrlKey>graph-a-two-variable-equation</UrlKey>
+        <ResultsUrl>2001000636</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>X.8 Interpret a graph: word problems</SubSectionName>
+        <UrlKey>interpret-a-graph-word-problems</UrlKey>
+        <ResultsUrl>2001000634</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-variable equations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>X.9 Write an equation from a graph using a table</SubSectionName>
+        <UrlKey>write-an-equation-from-a-graph-using-a-table</UrlKey>
+        <ResultsUrl>2020007290</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-variable equations</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>X.10 Write a linear equation from a graph</SubSectionName>
+        <UrlKey>write-a-linear-function-from-a-graph</UrlKey>
+        <ResultsUrl>2020006644</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Lines and angles</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Y.1 Name, measure, and classify angles</SubSectionName>
+        <UrlKey>name-measure-and-classify-angles</UrlKey>
+        <ResultsUrl>2001000524</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Lines and angles</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Y.2 Lines, line segments, and rays</SubSectionName>
+        <UrlKey>lines-line-segments-and-rays</UrlKey>
+        <ResultsUrl>2001000522</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Lines and angles</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Y.3 Parallel, perpendicular, and intersecting lines</SubSectionName>
+        <UrlKey>parallel-perpendicular-and-intersecting-lines</UrlKey>
+        <ResultsUrl>2001000523</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Lines and angles</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Y.4 Identify complementary, supplementary, vertical, and adjacent angles</SubSectionName>
+        <UrlKey>identify-complementary-supplementary-vertical-and-adjacent-angles</UrlKey>
+        <ResultsUrl>2001000525</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Lines and angles</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Y.5 Find measures of complementary, supplementary, vertical, and adjacent angles</SubSectionName>
+        <UrlKey>find-measures-of-complementary-supplementary-vertical-and-adjacent-angles</UrlKey>
+        <ResultsUrl>2001000526</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Lines and angles</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>Y.6 Write and solve equations using angle relationships</SubSectionName>
+        <UrlKey>write-and-solve-equations-using-angle-relationships</UrlKey>
+        <ResultsUrl>2020398717</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Lines and angles</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>Y.7 Identify alternate interior and alternate exterior angles</SubSectionName>
+        <UrlKey>identify-alternate-interior-and-alternate-exterior-angles</UrlKey>
+        <ResultsUrl>2020035725</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Lines and angles</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>Y.8 Transversals of parallel lines: name angle pairs</SubSectionName>
+        <UrlKey>transversals-of-parallel-lines-name-angle-pairs</UrlKey>
+        <ResultsUrl>2020035726</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Lines and angles</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>Y.9 Transversals of parallel lines: find angle measures</SubSectionName>
+        <UrlKey>transversals-of-parallel-lines-find-angle-measures</UrlKey>
+        <ResultsUrl>2001000527</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Lines and angles</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Y.10 Find lengths and measures of bisected line segments and angles</SubSectionName>
+        <UrlKey>find-lengths-and-measures-of-bisected-line-segments-and-angles</UrlKey>
+        <ResultsUrl>2001000546</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-dimensional figures</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Z.1 Identify and classify polygons</SubSectionName>
+        <UrlKey>identify-and-classify-polygons</UrlKey>
+        <ResultsUrl>2001000531</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-dimensional figures</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Z.2 Classify triangles</SubSectionName>
+        <UrlKey>classify-triangles</UrlKey>
+        <ResultsUrl>2001000528</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-dimensional figures</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Z.3 Triangle inequality</SubSectionName>
+        <UrlKey>triangle-inequality</UrlKey>
+        <ResultsUrl>2020035986</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-dimensional figures</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Z.4 Identify trapezoids</SubSectionName>
+        <UrlKey>identify-trapezoids</UrlKey>
+        <ResultsUrl>2020023626</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-dimensional figures</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Z.5 Classify quadrilaterals I</SubSectionName>
+        <UrlKey>classify-quadrilaterals</UrlKey>
+        <ResultsUrl>2001000529</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-dimensional figures</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Z.6 Classify quadrilaterals II</SubSectionName>
+        <UrlKey>classify-quadrilaterals-ii</UrlKey>
+        <ResultsUrl>2020035946</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-dimensional figures</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Z.7 Graph triangles and quadrilaterals</SubSectionName>
+        <UrlKey>graph-triangles-and-quadrilaterals</UrlKey>
+        <ResultsUrl>2020019222</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-dimensional figures</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Z.8 Find missing angles in triangles</SubSectionName>
+        <UrlKey>find-missing-angles-in-triangles</UrlKey>
+        <ResultsUrl>2001000530</ResultsUrl>
+        <SetValue>6</SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-dimensional figures</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Z.9 Find missing angles in triangles using ratios</SubSectionName>
+        <UrlKey>find-missing-angles-in-triangles-using-ratios</UrlKey>
+        <ResultsUrl>2020035730</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-dimensional figures</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Z.10 Find missing angles in quadrilaterals I</SubSectionName>
+        <UrlKey>find-missing-angles-in-quadrilaterals</UrlKey>
+        <ResultsUrl>2020019642</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-dimensional figures</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Z.11 Find missing angles in quadrilaterals II</SubSectionName>
+        <UrlKey>find-missing-angles-in-quadrilaterals-ii</UrlKey>
+        <ResultsUrl>2020035949</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-dimensional figures</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Z.12 Interior angles of polygons</SubSectionName>
+        <UrlKey>interior-angles-of-polygons</UrlKey>
+        <ResultsUrl>2001000532</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-dimensional figures</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Z.13 Parts of a circle</SubSectionName>
+        <UrlKey>parts-of-a-circle</UrlKey>
+        <ResultsUrl>2001000538</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Two-dimensional figures</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>Z.14 Central angles of circles</SubSectionName>
+        <UrlKey>central-angles-of-circles</UrlKey>
+        <ResultsUrl>2020040055</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Three-dimensional figures</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>AA.1 Bases of three-dimensional figures</SubSectionName>
+        <UrlKey>bases-of-three-dimensional-figures</UrlKey>
+        <ResultsUrl>2001000548</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Three-dimensional figures</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>AA.2 Nets of three-dimensional figures</SubSectionName>
+        <UrlKey>nets-of-three-dimensional-figures</UrlKey>
+        <ResultsUrl>2001000549</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Three-dimensional figures</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>AA.3 Front, side, and top view</SubSectionName>
+        <UrlKey>front-side-and-top-view</UrlKey>
+        <ResultsUrl>2001000547</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Three-dimensional figures</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>AA.4 Cross sections of three-dimensional figures</SubSectionName>
+        <UrlKey>cross-sections-of-three-dimensional-figures</UrlKey>
+        <ResultsUrl>2020024197</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <CommingSoon>AA.5 Checkpoint: Geometric reasoning</CommingSoon>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Perimeter and area</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>BB.1 Perimeter</SubSectionName>
+        <UrlKey>perimeter</UrlKey>
+        <ResultsUrl>2001000539</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Perimeter and area</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>BB.2 Area of rectangles and parallelograms</SubSectionName>
+        <UrlKey>area-of-rectangles-and-parallelograms</UrlKey>
+        <ResultsUrl>2001000540</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Perimeter and area</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>BB.3 Area of triangles and trapezoids</SubSectionName>
+        <UrlKey>area-of-triangles-and-trapezoids</UrlKey>
+        <ResultsUrl>2001000541</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Perimeter and area</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>BB.4 Area and perimeter: word problems</SubSectionName>
+        <UrlKey>area-and-perimeter-word-problems</UrlKey>
+        <ResultsUrl>2001000542</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Perimeter and area</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>BB.5 Circumference of circles</SubSectionName>
+        <UrlKey>circumference-of-circles</UrlKey>
+        <ResultsUrl>2020040068</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Perimeter and area</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>BB.6 Area of circles</SubSectionName>
+        <UrlKey>area-of-circles</UrlKey>
+        <ResultsUrl>2001000543</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Perimeter and area</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>BB.7 Circles: word problems</SubSectionName>
+        <UrlKey>circles-word-problems</UrlKey>
+        <ResultsUrl>2001000545</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Perimeter and area</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>BB.8 Area of semicircles and quarter circles</SubSectionName>
+        <UrlKey>area-of-semicircles-and-quarter-circles</UrlKey>
+        <ResultsUrl>2020042581</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Perimeter and area</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>BB.9 Semicircles: calculate area, perimeter, radius, and diameter</SubSectionName>
+        <UrlKey>semicircles-calculate-area-perimeter-radius-and-diameter</UrlKey>
+        <ResultsUrl>2004009905</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Perimeter and area</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>BB.10 Quarter circles: calculate area, perimeter, and radius</SubSectionName>
+        <UrlKey>quarter-circles-calculate-area-perimeter-and-radius</UrlKey>
+        <ResultsUrl>2004009906</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Perimeter and area</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>BB.11 Area of compound figures made of rectangles</SubSectionName>
+        <UrlKey>area-of-compound-figures-made-of-rectangles</UrlKey>
+        <ResultsUrl>2020354617</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Perimeter and area</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>BB.12 Area of compound figures with triangles</SubSectionName>
+        <UrlKey>area-of-compound-figures-with-triangles</UrlKey>
+        <ResultsUrl>2020036027</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Perimeter and area</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>BB.13 Area of compound figures with triangles, semicircles, and quarter circles</SubSectionName>
+        <UrlKey>area-of-compound-figures-with-triangles-semicircles-and-quarter-circles</UrlKey>
+        <ResultsUrl>2004009907</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Perimeter and area</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>BB.14 Area between two shapes</SubSectionName>
+        <UrlKey>area-between-two-shapes</UrlKey>
+        <ResultsUrl>2005009376</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Surface area and volume</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>CC.1 Surface area of cubes and prisms</SubSectionName>
+        <UrlKey>surface-area-of-cubes-and-prisms</UrlKey>
+        <ResultsUrl>2001000550</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Surface area and volume</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>CC.2 Surface area of pyramids</SubSectionName>
+        <UrlKey>surface-area-of-pyramids</UrlKey>
+        <ResultsUrl>2020035988</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Surface area and volume</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>CC.3 Lateral area of prisms and pyramids</SubSectionName>
+        <UrlKey>lateral-area-of-prisms-and-pyramids</UrlKey>
+        <ResultsUrl>2020711017</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Surface area and volume</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>CC.4 Surface area of cylinders</SubSectionName>
+        <UrlKey>surface-area-of-cylinders</UrlKey>
+        <ResultsUrl>2020037320</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Surface area and volume</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>CC.5 Volume of cubes and prisms</SubSectionName>
+        <UrlKey>volume-of-cubes-and-prisms</UrlKey>
+        <ResultsUrl>2001000551</ResultsUrl>
+        <SetValue>6</SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Surface area and volume</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>CC.6 Volume of cubes and rectangular prisms: word problems</SubSectionName>
+        <UrlKey>volume-of-cubes-and-rectangular-prisms-word-problems</UrlKey>
+        <ResultsUrl>2020037321</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Surface area and volume</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>CC.7 Volume of prisms: advanced</SubSectionName>
+        <UrlKey>volume-of-prisms-advanced</UrlKey>
+        <ResultsUrl>2020264417</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Surface area and volume</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>CC.8 Volume of pyramids</SubSectionName>
+        <UrlKey>volume-of-pyramids</UrlKey>
+        <ResultsUrl>2020035987</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        <SectionName>Surface area and volume</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>CC.9 Volume of cylinders</SubSectionName>
+        <UrlKey>volume-of-cylinders</UrlKey>
+        <ResultsUrl>2020037319</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        <SectionName>Surface area and volume</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>CC.10 Checkpoint: Area, circumference, surface area, and volume</SubSectionName>
+        <UrlKey>checkpoint-area-circumference-surface-area-and-volume</UrlKey>
+        <ResultsUrl>2021365717</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+	<BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Scale drawings</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>DD.1 Scale drawings of polygons</SubSectionName>
+        <UrlKey>scale-drawings-of-polygons</UrlKey>
+        <ResultsUrl>2020369717</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+	<BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Scale drawings</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>DD.2 Scale drawings: word problems</SubSectionName>
+        <UrlKey>scale-drawings-word-problems</UrlKey>
+        <ResultsUrl>2001000572</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+	<BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Scale drawings</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>DD.3 Scale drawings: scale factor word problems</SubSectionName>
+        <UrlKey>scale-drawings-scale-factor-word-problems</UrlKey>
+        <ResultsUrl>2020035736</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+	<BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        <SectionName>Scale drawings</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>DD.4 Perimeter and area: changes in scale</SubSectionName>
+        <UrlKey>perimeter-and-area-changes-in-scale</UrlKey>
+        <ResultsUrl>2001000552</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+	<BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        <SectionName>Scale drawings</SectionName>
+        <Enabled>0</Enabled>
+        <SubSectionName>DD.5 Checkpoint: Scale drawings</SubSectionName>
+        <UrlKey>checkpoint-scale-drawings</UrlKey>
+        <ResultsUrl>2020368711</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>    
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Transformations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>EE.1 Identify reflections, rotations, and translations</SubSectionName>
+        <UrlKey>identify-reflections-rotations-and-translations</UrlKey>
+        <ResultsUrl>2001000553</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Transformations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>EE.2 Translations: graph the image</SubSectionName>
+        <UrlKey>translations-graph-the-image</UrlKey>
+        <ResultsUrl>2001000554</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Transformations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>EE.3 Translations: find the coordinates</SubSectionName>
+        <UrlKey>translations-find-the-coordinates</UrlKey>
+        <ResultsUrl>2001000555</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Transformations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>EE.4 Reflections over the x- and y-axes: graph the image</SubSectionName>
+        <UrlKey>reflections-over-the-x-and-y-axes-graph-the-image</UrlKey>
+        <ResultsUrl>2020035719</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Transformations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>EE.5 Reflections over the x- and y-axes: find the coordinates</SubSectionName>
+        <UrlKey>reflections-over-the-x-and-y-axes-find-the-coordinates</UrlKey>
+        <ResultsUrl>2020035720</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Transformations</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>EE.6 Reflections: graph the image</SubSectionName>
+        <UrlKey>reflections-graph-the-image</UrlKey>
+        <ResultsUrl>2001000556</ResultsUrl>
+        <SetValue>6</SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Transformations</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>EE.7 Reflections: find the coordinates</SubSectionName>
+        <UrlKey>reflections-find-the-coordinates</UrlKey>
+        <ResultsUrl>2001000557</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Transformations</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>EE.8 Rotations: graph the image</SubSectionName>
+        <UrlKey>rotations-graph-the-image</UrlKey>
+        <ResultsUrl>2001000558</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Transformations</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>EE.9 Rotations: find the coordinates</SubSectionName>
+        <UrlKey>rotations-find-the-coordinates</UrlKey>
+        <ResultsUrl>2001000559</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Congruence and similarity</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>FF.1 Similar and congruent figures</SubSectionName>
+        <UrlKey>similar-and-congruent-figures</UrlKey>
+        <ResultsUrl>2001000533</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Congruence and similarity</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>FF.2 Congruence statements and corresponding parts</SubSectionName>
+        <UrlKey>congruence-statements-and-corresponding-parts</UrlKey>
+        <ResultsUrl>2001000537</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Congruence and similarity</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>FF.3 Side lengths and angle measures of congruent figures</SubSectionName>
+        <UrlKey>side-lengths-and-angle-measures-of-congruent-figures</UrlKey>
+        <ResultsUrl>2001000536</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Congruence and similarity</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>FF.4 Side lengths and angle measures of similar figures</SubSectionName>
+        <UrlKey>side-lengths-and-angle-measures-of-similar-figures</UrlKey>
+        <ResultsUrl>2001000534</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Congruence and similarity</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>FF.5 Similar figures and indirect measurementt</SubSectionName>
+        <UrlKey>similar-figures-and-indirect-measurement</UrlKey>
+        <ResultsUrl>2001000535</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Data and graphs</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>GG.1 Create line plots</SubSectionName>
+        <UrlKey>create-line-plots</UrlKey>
+        <ResultsUrl>2001000492</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Data and graphs</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>GG.2 Interpret line plots</SubSectionName>
+        <UrlKey>interpret-line-plots</UrlKey>
+        <ResultsUrl>2001000491</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Data and graphs</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>GG.3 Create and interpret line plots with fractions</SubSectionName>
+        <UrlKey>create-and-interpret-line-plots-with-fractions</UrlKey>
+        <ResultsUrl>2009005220</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Data and graphs</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>GG.4 Create stem-and-leaf plots</SubSectionName>
+        <UrlKey>create-stem-and-leaf-plots</UrlKey>
+        <ResultsUrl>2020035790</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Data and graphs</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>GG.5 Interpret stem-and-leaf plots</SubSectionName>
+        <UrlKey>interpret-stem-and-leaf-plots</UrlKey>
+        <ResultsUrl>2001000493</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Data and graphs</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>GG.6 Create bar graphs</SubSectionName>
+        <UrlKey>create-bar-graphs</UrlKey>
+        <ResultsUrl>2001000495</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Data and graphs</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>GG.7 Interpret bar graphs</SubSectionName>
+        <UrlKey>interpret-bar-graphs</UrlKey>
+        <ResultsUrl>2001000494</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Data and graphs</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>GG.8 Create histograms</SubSectionName>
+        <UrlKey>create-histograms</UrlKey>
+        <ResultsUrl>2001000497</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Data and graphs</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>GG.9 Interpret histograms</SubSectionName>
+        <UrlKey>interpret-histograms</UrlKey>
+        <ResultsUrl>2001000496</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Data and graphs</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>GG.10 Create frequency charts</SubSectionName>
+        <UrlKey>create-frequency-charts</UrlKey>
+        <ResultsUrl>2001000490</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Data and graphs</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>GG.11 Interpret circle graphs</SubSectionName>
+        <UrlKey>interpret-circle-graphs</UrlKey>
+        <ResultsUrl>2001000498</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Data and graphs</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>GG.12 Circle graphs and central angles</SubSectionName>
+        <UrlKey>circle-graphs-and-central-angles</UrlKey>
+        <ResultsUrl>2001000499</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Data and graphs</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>GG.13 Box plots</SubSectionName>
+        <UrlKey>box-plots</UrlKey>
+        <ResultsUrl>2001000502</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Statistics</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>HH.1 Calculate mean, median, mode, and range</SubSectionName>
+        <UrlKey>calculate-mean-median-mode-and-range</UrlKey>
+        <ResultsUrl>2001000619</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Statistics</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>HH.2 Interpret charts and graphs to find mean, median, mode, and range</SubSectionName>
+        <UrlKey>interpret-charts-and-graphs-to-find-mean-median-mode-and-range</UrlKey>
+        <ResultsUrl>2001000620</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Statistics</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>HH.3 Mean, median, mode, and range: find the missing number</SubSectionName>
+        <UrlKey>mean-median-mode-and-range-find-the-missing-number</UrlKey>
+        <ResultsUrl>2001000621</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Statistics</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>HH.4 Changes in mean, median, mode, and range</SubSectionName>
+        <UrlKey>changes-in-mean-median-mode-and-range</UrlKey>
+        <ResultsUrl>2001000622</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Statistics</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>HH.5 Calculate mean absolute deviation</SubSectionName>
+        <UrlKey>calculate-mean-absolute-deviation</UrlKey>
+        <ResultsUrl>2020017591</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Statistics</SectionName>
+        <Enabled>0</Enabled>
+        
+        <SubSectionName>HH.6 Calculate quartiles and interquartile range</SubSectionName>
+        <UrlKey>calculate-quartiles-and-interquartile-range</UrlKey>
+        <ResultsUrl>2020036119</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Statistics</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>HH.7 Identify an outlier</SubSectionName>
+        <UrlKey>identify-an-outlier</UrlKey>
+        <ResultsUrl>2020036120</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Statistics</SectionName>
+        <Enabled>0</Enabled>
+        <SubSectionName>HH.8 Populations and samples</SubSectionName>
+        <UrlKey>populations-and-samples</UrlKey>
+        <ResultsUrl>2020948617</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Statistics</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>HH.9 Identify representative, random, and biased samples</SubSectionName>
+        <UrlKey>identify-representative-random-and-biased-samples</UrlKey>
+        <ResultsUrl>2001000623</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        
+        <SectionName>Statistics</SectionName>
+        <Enabled>1</Enabled>
+        
+        <SubSectionName>HH.10 Make inferences from multiple samples</SubSectionName>
+        <UrlKey>make-inferences-from-multiple-samples</UrlKey>
+        <ResultsUrl>2020769617</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        <SectionName>Statistics</SectionName>
+        <Enabled>0</Enabled>
+        <SubSectionName>HH.11 Compare populations using measures of center and spread</SubSectionName>
+        <UrlKey>compare-populations-using-measures-of-center-and-spread</UrlKey>
+        <ResultsUrl>2020659617</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <CommingSoon>HH.12 Checkpoint: Samples of a population</CommingSoon>
+    <CommingSoon>HH.13 Checkpoint: Compare two populations</CommingSoon>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        <SectionName>Probability</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>II.1 Sample spaces of simple events</SubSectionName>
+        <UrlKey>sample-spaces-of-simple-events</UrlKey>
+        <ResultsUrl>2020971217</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade> 
+        <SectionName>Probability</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>II.2 Probability of simple event</SubSectionName>
+        <UrlKey>probability-of-simple-events</UrlKey>
+        <ResultsUrl>2001000608</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        <SectionName>Probability</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>II.3 Probability of simple events and opposite events</SubSectionName>
+        <UrlKey>probability-of-simple-events-and-opposite-events</UrlKey>
+        <ResultsUrl>2001000609</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade> 
+        <SectionName>Probability</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>II.4 Probability of mutually exclusive events and overlapping events</SubSectionName>
+        <UrlKey>probability-of-mutually-exclusive-events-and-overlapping-events</UrlKey>
+        <ResultsUrl>2020035992</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        <SectionName>Probability</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>II.5 Experimental probability</SubSectionName>
+        <UrlKey>experimental-probability</UrlKey>
+        <ResultsUrl>2001000610</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        <SectionName>Probability</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>II.6 Make predictions using experimental probability</SubSectionName>
+        <UrlKey>make-predictions-using-experimental-probability</UrlKey>
+        <ResultsUrl>2020037112</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        <SectionName>Probability</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>II.7 Use collected data to find probabilities and make predictions</SubSectionName>
+        <UrlKey>use-collected-data-to-find-probabilities-and-make-predictions</UrlKey>
+        <ResultsUrl>2020271217</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        <SectionName>Probability</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>II.8 Make predictions using theoretical probability</SubSectionName>
+        <UrlKey>make-predictions-using-theoretical-probability</UrlKey>
+        <ResultsUrl>2001000611</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        <SectionName>Probability</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>II.9 Sample spaces for compound events</SubSectionName>
+        <UrlKey>sample-spaces-for-compound-events</UrlKey>
+        <ResultsUrl>2021013417</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        <SectionName>Probability</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>II.10 Compound events: find the number of outcomes</SubSectionName>
+        <UrlKey>compound-events-find-the-number-of-outcomes</UrlKey>
+        <ResultsUrl>2001000612</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        <SectionName>Probability</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>II.11 Compound events: find the number of sums</SubSectionName>
+        <UrlKey>compound-events-find-the-number-of-sums</UrlKey>
+        <ResultsUrl>2020035733</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        <SectionName>Probability</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>II.12 Find the number of outcomes: word problems</SubSectionName>
+        <UrlKey>find-the-number-of-outcomes-word-problems</UrlKey>
+        <ResultsUrl>2001000617</ResultsUrl>
+        <SetValue>1</SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        <SectionName>Probability</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>II.13 Probability of compound events</SubSectionName>
+        <UrlKey>probability-of-compound-events</UrlKey>
+        <ResultsUrl>2020035734</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        <SectionName>Probability</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>II.14 Which simulation represents the situation?</SubSectionName>
+        <UrlKey>which-simulation-represents-the-situation</UrlKey>
+        <ResultsUrl>2020240317</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade>
+        <SectionName>Probability</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>II.15 Identify independent and dependent events</SubSectionName>
+        <UrlKey>identify-independent-and-dependent-events</UrlKey>
+        <ResultsUrl>2001000613</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+     <BuildQuestion>
+        <Subject>Math</Subject>
+        <Grade>7</Grade> 
+        <SectionName>Probability</SectionName>
+        <Enabled>1</Enabled>
+        <SubSectionName>II.16 Probability of independent and dependent events</SubSectionName>
+        <UrlKey>probability-of-independent-and-dependent-events</UrlKey>
+        <ResultsUrl>2001000614</ResultsUrl>
+        <SetValue></SetValue>
+    </BuildQuestion>
+    <CommingSoon>II.17 Checkpoint: Theoretical and experimental probability</CommingSoon>
+    <CommingSoon>II.18 Checkpoint: Checkpoint: Probability of compound events</CommingSoon>
+</BuildQuestions>

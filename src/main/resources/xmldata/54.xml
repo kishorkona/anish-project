@@ -1,0 +1,580 @@
+<Questions>
+	<Question>
+		<Id>1</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>Y</SectionId>
+		<SectionName>Decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>Y.11 Put decimal numbers in order II</SubSectionName>
+		<UrlKey>put-decimal-numbers-in-order-ii</UrlKey>
+		<ResultsUrl>2007000419</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>2</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>F</SectionId>
+		<SectionName>Multiplication</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>F.6 Distributive property: find the missing factor</SubSectionName>
+		<UrlKey>distributive-property-find-the-missing-factor</UrlKey>
+		<ResultsUrl>2007001234</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>0#8</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>3</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>OO</SectionId>
+		<SectionName>Financial literacy</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>OO.3 Compare savings options</SubSectionName>
+		<UrlKey>compare-savings-options</UrlKey>
+		<ResultsUrl>2020040948</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>4</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Data and graphs</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>BB.5 Interpret line plots with fractions: multi-step problems</SubSectionName>
+		<UrlKey>interpret-line-plots-with-fractions-multi-step-problems</UrlKey>
+		<ResultsUrl>2021285717</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>5</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>Q</SectionId>
+		<SectionName>Mixed numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>Q.4 Convert improper fractions to mixed numbers</SubSectionName>
+		<UrlKey>convert-improper-fractions-to-mixed-numbers-not-simplify</UrlKey>
+		<ResultsUrl>2020531617</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>6</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>HH</SectionId>
+		<SectionName>Perimeter</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>HH.1 Perimeter of polygons</SubSectionName>
+		<UrlKey>perimeter-of-polygons</UrlKey>
+		<ResultsUrl>2000025243</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>7</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>W</SectionId>
+		<SectionName>Multiply fractions and whole numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>W.9 Multiply mixed numbers by whole numbers: word problems</SubSectionName>
+		<UrlKey>multiply-mixed-numbers-by-whole-numbers-word-problems</UrlKey>
+		<ResultsUrl>2020039019</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>8</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>P</SectionId>
+		<SectionName>Equivalent fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>P.11 Write fractions in lowest terms</SubSectionName>
+		<UrlKey>write-fractions-in-lowest-terms</UrlKey>
+		<ResultsUrl>2000025254</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>9</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>OO</SectionId>
+		<SectionName>Financial literacy</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>OO.4 Budget a weekly allowance: word problems</SubSectionName>
+		<UrlKey>budget-a-weekly-allowance-word-problems</UrlKey>
+		<ResultsUrl>2020040962</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>10</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>FF</SectionId>
+		<SectionName>Metric units of measurement</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>FF.3 Convert and compare metric units of mass</SubSectionName>
+		<UrlKey>convert-and-compare-metric-units-of-mass</UrlKey>
+		<ResultsUrl>2007001059</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>11</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>P</SectionId>
+		<SectionName>Equivalent fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>P.3 Find equivalent fractions using area models</SubSectionName>
+		<UrlKey>find-equivalent-fractions-using-area-models</UrlKey>
+		<ResultsUrl>2007000508</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>12</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Multiply by two-digit numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>I.1 Multiply by 10 or 100</SubSectionName>
+		<UrlKey>multiply-by-10-or-100</UrlKey>
+		<ResultsUrl>2020038486</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>0#8</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>13</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>V</SectionId>
+		<SectionName>Multiply unit fractions and whole numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>V.6 Multiply unit fractions by whole numbers: word problems</SubSectionName>
+		<UrlKey>multiply-unit-fractions-by-whole-numbers-word-problems</UrlKey>
+		<ResultsUrl>2007001139</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>14</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Multiply by two-digit numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>13</SubSectionId>
+		<SubSectionName>I.13 Inequalities with multiplication</SubSectionName>
+		<UrlKey>inequalities-with-multiplication</UrlKey>
+		<ResultsUrl>2000025147</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>0#8</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>15</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>M</SectionId>
+		<SectionName>Mixed operations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>M.2 Estimate sums, differences, products, and quotients: word problems</SubSectionName>
+		<UrlKey>estimate-sums-differences-products-and-quotients-word-problems</UrlKey>
+		<ResultsUrl>2000025170</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>16</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>T</SectionId>
+		<SectionName>Add and subtract fractions with like denominators</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>12</SubSectionId>
+		<SubSectionName>T.12 Add and subtract mixed numbers with like denominators</SubSectionName>
+		<UrlKey>add-and-subtract-mixed-numbers-with-like-denominators</UrlKey>
+		<ResultsUrl>2000025271</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>17</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>C</SectionId>
+		<SectionName>Rounding</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>C.2 Rounding: up to millions place</SubSectionName>
+		<UrlKey>rounding-up-to-millions-place</UrlKey>
+		<ResultsUrl>2000025110</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>0#8</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>18</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>EE</SectionId>
+		<SectionName>Customary units of measurement</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>EE.8 Compare customary units by multiplying</SubSectionName>
+		<UrlKey>compare-customary-units-by-multiplying</UrlKey>
+		<ResultsUrl>2000025217</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>19</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>Y</SectionId>
+		<SectionName>Decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>Y.2 Place values in decimal numbers</SubSectionName>
+		<UrlKey>place-values-in-decimal-numbers</UrlKey>
+		<ResultsUrl>2000025278</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>20</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>C</SectionId>
+		<SectionName>Rounding</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>C.5 Rounding puzzles</SubSectionName>
+		<UrlKey>rounding-puzzles</UrlKey>
+		<ResultsUrl>2020039967</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>0#8</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>21</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Add and subtract decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>Z.3 Add decimal numbers</SubSectionName>
+		<UrlKey>add-decimal-numbers</UrlKey>
+		<ResultsUrl>2000025288</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>22</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>FF</SectionId>
+		<SectionName>Metric units of measurement</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>FF.2 Convert and compare metric units of length</SubSectionName>
+		<UrlKey>convert-and-compare-metric-units-of-length</UrlKey>
+		<ResultsUrl>2007001058</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>23</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>K</SectionId>
+		<SectionName>Divide by one-digit numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>12</SubSectionId>
+		<SubSectionName>K.12 Divide using partial quotients</SubSectionName>
+		<UrlKey>divide-using-partial-quotients</UrlKey>
+		<ResultsUrl>2020039472</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>24</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>L</SectionId>
+		<SectionName>Division word problems</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>L.4 Divide larger numbers by 1-digit numbers: interpret remainders</SubSectionName>
+		<UrlKey>divide-larger-numbers-by-1-digit-numbers-interpret-remainders</UrlKey>
+		<ResultsUrl>2000025152</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>25</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>AA</SectionId>
+		<SectionName>Money</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>AA.5 Find the change, price, or amount paid</SubSectionName>
+		<UrlKey>find-the-change-price-or-amount-paid</UrlKey>
+		<ResultsUrl>2000025211</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>26</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>N</SectionId>
+		<SectionName>Multi-step word problems</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>N.5 Use equations to solve multi-step multiplication word problems</SubSectionName>
+		<UrlKey>use-equations-to-solve-multi-step-multiplication-word-problems</UrlKey>
+		<ResultsUrl>2021276917</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>27</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>J</SectionId>
+		<SectionName>Division</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>J.2 Division facts to 10: word problems</SubSectionName>
+		<UrlKey>division-facts-to-10-word-problems</UrlKey>
+		<ResultsUrl>2020034567</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>28</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Multiply by one-digit numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>H.2 Multiply by multiples of 10, 100, and 1,000</SubSectionName>
+		<UrlKey>multiply-by-multiples-of-10-100-and-1000</UrlKey>
+		<ResultsUrl>2020043475</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>0#8</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>29</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>MM</SectionId>
+		<SectionName>Quadrilaterals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>MM.8 Pick all the names for a quadrilateral</SubSectionName>
+		<UrlKey>pick-all-the-names-for-a-quadrilateral</UrlKey>
+		<ResultsUrl>2020040271</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>30</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Multiply by one-digit numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>H.1 Multiplication patterns over increasing place values</SubSectionName>
+		<UrlKey>multiplication-patterns-over-increasing-place-values</UrlKey>
+		<ResultsUrl>2000025133</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>0#8</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>31</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Add and subtract decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>Z.2 Add decimals using blocks</SubSectionName>
+		<UrlKey>add-decimals-using-blocks</UrlKey>
+		<ResultsUrl>2020044555</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>32</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>W</SectionId>
+		<SectionName>Multiply fractions and whole numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>W.3 Multiply fractions by whole numbers using number lines</SubSectionName>
+		<UrlKey>multiply-fractions-by-whole-numbers-using-number-lines</UrlKey>
+		<ResultsUrl>2007000472</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>33</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>Y</SectionId>
+		<SectionName>Decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>Y.7 Compare decimals on number lines</SubSectionName>
+		<UrlKey>compare-decimals-on-number-lines</UrlKey>
+		<ResultsUrl>2007000509</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>34</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Mode, median, and range</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>CC.5 Interpret stem-and-leaf plots to find the median, mode, or range</SubSectionName>
+		<UrlKey>interpret-stem-and-leaf-plots-to-find-the-median-mode-or-range</UrlKey>
+		<ResultsUrl>2020039672</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+</Questions>

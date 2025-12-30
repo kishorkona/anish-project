@@ -1,0 +1,495 @@
+<Questions>
+	<Question>
+		<Id>1</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>U</SectionId>
+		<SectionName>One-variable inequalities</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>U.9 Checkpoint: Solve two-step inequalities</SubSectionName>
+		<UrlKey>checkpoint-solve-two-step-inequalities</UrlKey>
+		<ResultsUrl>2021366117</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>2</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>GG</SectionId>
+		<SectionName>Data and graphs</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>GG.5 Interpret stem-and-leaf plots</SubSectionName>
+		<UrlKey>interpret-stem-and-leaf-plots</UrlKey>
+		<ResultsUrl>2001000493</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>3</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Surface area and volume</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>CC.5 Volume of cubes and prisms</SubSectionName>
+		<UrlKey>volume-of-cubes-and-prisms</UrlKey>
+		<ResultsUrl>2001000551</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>6</SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>4</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>O</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>O.4 Estimate percents of numbers</SubSectionName>
+		<UrlKey>estimate-percents-of-numbers</UrlKey>
+		<ResultsUrl>2001000576</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>5</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>HH</SectionId>
+		<SectionName>Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>HH.4 Changes in mean, median, mode, and range</SubSectionName>
+		<UrlKey>changes-in-mean-median-mode-and-range</UrlKey>
+		<ResultsUrl>2001000622</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>6</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>M</SectionId>
+		<SectionName>Coordinate plane</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>M.2 Quadrants and axes</SubSectionName>
+		<UrlKey>quadrants-and-axes</UrlKey>
+		<ResultsUrl>2001000487</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>7</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>FF</SectionId>
+		<SectionName>Congruence and similarity</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>FF.2 Congruence statements and corresponding parts</SubSectionName>
+		<UrlKey>congruence-statements-and-corresponding-parts</UrlKey>
+		<ResultsUrl>2001000537</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>8</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>II.1 Sample spaces of simple events</SubSectionName>
+		<UrlKey>sample-spaces-of-simple-events</UrlKey>
+		<ResultsUrl>2020971217</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>9</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>HH</SectionId>
+		<SectionName>Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>HH.1 Calculate mean, median, mode, and range</SubSectionName>
+		<UrlKey>calculate-mean-median-mode-and-range</UrlKey>
+		<ResultsUrl>2001000619</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>10</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>J</SectionId>
+		<SectionName>Exponents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>J.6 Powers of ten</SubSectionName>
+		<UrlKey>powers-of-ten</UrlKey>
+		<ResultsUrl>2020037331</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>11</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Perimeter and area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>14</SubSectionId>
+		<SubSectionName>BB.14 Area between two shapes</SubSectionName>
+		<UrlKey>area-between-two-shapes</UrlKey>
+		<ResultsUrl>2005009376</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>12</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Two-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>14</SubSectionId>
+		<SubSectionName>Z.14 Central angles of circles</SubSectionName>
+		<UrlKey>central-angles-of-circles</UrlKey>
+		<ResultsUrl>2020040055</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>13</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>GG</SectionId>
+		<SectionName>Data and graphs</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>GG.6 Create bar graphs</SubSectionName>
+		<UrlKey>create-bar-graphs</UrlKey>
+		<ResultsUrl>2001000495</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>14</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>J</SectionId>
+		<SectionName>Exponents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>J.8 Scientific notation</SubSectionName>
+		<UrlKey>scientific-notation</UrlKey>
+		<ResultsUrl>2001000469</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>15</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>L</SectionId>
+		<SectionName>Ratios rates and proportions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>12</SubSectionId>
+		<SubSectionName>L.12 Solve proportions</SubSectionName>
+		<UrlKey>solve-proportions</UrlKey>
+		<ResultsUrl>2001000568</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>16</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Operations with rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>I.10 Apply multiplication and division rules</SubSectionName>
+		<UrlKey>apply-multiplication-and-division-rules</UrlKey>
+		<ResultsUrl>2020000184</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>17</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>F</SectionId>
+		<SectionName>Fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>F.8 Convert between mixed numbers and improper fractions</SubSectionName>
+		<UrlKey>convert-between-mixed-numbers-and-improper-fractions</UrlKey>
+		<ResultsUrl>2001000435</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>18</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>D.2 Add and subtract decimals: word problems</SubSectionName>
+		<UrlKey>add-and-subtract-decimals-word-problems</UrlKey>
+		<ResultsUrl>2001000405</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>19</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>HH</SectionId>
+		<SectionName>Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>HH.9 Identify representative, random, and biased samples</SubSectionName>
+		<UrlKey>identify-representative-random-and-biased-samples</UrlKey>
+		<ResultsUrl>2001000623</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>20</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>II.11 Compound events: find the number of sums</SubSectionName>
+		<UrlKey>compound-events-find-the-number-of-sums</UrlKey>
+		<ResultsUrl>2020035733</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>21</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>T</SectionId>
+		<SectionName>One-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>T.7 Solve one-step equations with decimals and fractions</SubSectionName>
+		<UrlKey>solve-one-step-equations-with-decimals-and-fractions</UrlKey>
+		<ResultsUrl>2020193317</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>22</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>X</SectionId>
+		<SectionName>Two-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>X.1 Identify independent and dependent variables</SubSectionName>
+		<UrlKey>identify-independent-and-dependent-variables</UrlKey>
+		<ResultsUrl>2020002039</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>23</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Perimeter and area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>BB.2 Area of rectangles and parallelograms</SubSectionName>
+		<UrlKey>area-of-rectangles-and-parallelograms</UrlKey>
+		<ResultsUrl>2001000540</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>24</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>12</SubSectionId>
+		<SubSectionName>II.12 Find the number of outcomes: word problems</SubSectionName>
+		<UrlKey>find-the-number-of-outcomes-word-problems</UrlKey>
+		<ResultsUrl>2001000617</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>25</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>J</SectionId>
+		<SectionName>Exponents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>J.2 Evaluate powers</SubSectionName>
+		<UrlKey>evaluate-powers</UrlKey>
+		<ResultsUrl>2001000473</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>26</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>X</SectionId>
+		<SectionName>Two-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>X.3 Evaluate two-variable equations: word problems</SubSectionName>
+		<UrlKey>evaluate-two-variable-equations-word-problems</UrlKey>
+		<ResultsUrl>2001000637</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>27</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>L</SectionId>
+		<SectionName>Ratios rates and proportions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>L.7 Solve word problems using unit rates</SubSectionName>
+		<UrlKey>solve-word-problems-using-unit-rates</UrlKey>
+		<ResultsUrl>2020076917</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>28</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>16</SubSectionId>
+		<SubSectionName>G.16 Add subtract multiply and divide fractions and mixed numbers word problems</SubSectionName>
+		<UrlKey>add-subtract-multiply-and-divide-fractions-and-mixed-numbers-word-problems</UrlKey>
+		<ResultsUrl>2001000452</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+	<Question>
+		<Id>29</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>K</SectionId>
+		<SectionName>Square roots</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>K.1 Square roots of perfect squares</SubSectionName>
+		<UrlKey>square-roots-of-perfect-squares</UrlKey>
+		<ResultsUrl>2001000480</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-J</QuestionName>
+	</Question>
+</Questions>

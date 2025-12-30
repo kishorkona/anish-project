@@ -1,0 +1,495 @@
+<Questions>
+	<Question>
+		<Id>1</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>E</SectionId>
+		<SectionName>Number theory</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>E.1 Prime factorization</SubSectionName>
+		<UrlKey>prime-factorization</UrlKey>
+		<ResultsUrl>2001000463</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>2</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>C</SectionId>
+		<SectionName>Decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>C.3 Round decimals</SubSectionName>
+		<UrlKey>round-decimals</UrlKey>
+		<ResultsUrl>2001000403</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>3</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>H.6 Classify rational numbers</SubSectionName>
+		<UrlKey>classify-rational-numbers</UrlKey>
+		<ResultsUrl>2020044668</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>4</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Operations with rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>I.1 Add and subtract positive and negative decimals</SubSectionName>
+		<UrlKey>add-and-subtract-positive-and-negative-decimals</UrlKey>
+		<ResultsUrl>2020036009</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>5</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Operations with rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>I.8 Multiply and divide positive and negative fractions</SubSectionName>
+		<UrlKey>multiply-and-divide-positive-and-negative-fractions</UrlKey>
+		<ResultsUrl>2020036010</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>6</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>A</SectionId>
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>A.4 Understanding absolute value</SubSectionName>
+		<UrlKey>understanding-absolute-value</UrlKey>
+		<ResultsUrl>2020040677</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>7</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>EE</SectionId>
+		<SectionName>Transformations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>EE.2 Translations: graph the image</SubSectionName>
+		<UrlKey>translations-graph-the-image</UrlKey>
+		<ResultsUrl>2001000554</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>8</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>II.2 Probability of simple event</SubSectionName>
+		<UrlKey>probability-of-simple-events</UrlKey>
+		<ResultsUrl>2001000608</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>9</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Perimeter and area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>BB.3 Area of triangles and trapezoids</SubSectionName>
+		<UrlKey>area-of-triangles-and-trapezoids</UrlKey>
+		<ResultsUrl>2001000541</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>10</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Two-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>Z.10 Find missing angles in quadrilaterals I</SubSectionName>
+		<UrlKey>find-missing-angles-in-quadrilaterals</UrlKey>
+		<ResultsUrl>2020019642</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>11</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>P</SectionId>
+		<SectionName>Consumer math</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>P.3 Unit prices</SubSectionName>
+		<UrlKey>unit-prices</UrlKey>
+		<ResultsUrl>2001000505</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue>1#3</SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>12</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>C</SectionId>
+		<SectionName>Decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>C.1 Decimal numbers review</SubSectionName>
+		<UrlKey>decimal-numbers-review</UrlKey>
+		<ResultsUrl>2001000400</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>13</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>T</SectionId>
+		<SectionName>One-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>T.9 Solve two-step equations with parentheses</SubSectionName>
+		<UrlKey>solve-two-step-equations-with-parentheses</UrlKey>
+		<ResultsUrl>2020042857</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>14</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Surface area and volume</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>CC.1 Surface area of cubes and prisms</SubSectionName>
+		<UrlKey>surface-area-of-cubes-and-prisms</UrlKey>
+		<ResultsUrl>2001000550</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>15</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>15</SubSectionId>
+		<SubSectionName>II.15 Identify independent and dependent events</SubSectionName>
+		<UrlKey>identify-independent-and-dependent-events</UrlKey>
+		<ResultsUrl>2001000613</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>16</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>W</SectionId>
+		<SectionName>Slope</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>W.7 Rate of change: tables</SubSectionName>
+		<UrlKey>rate-of-change-tables</UrlKey>
+		<ResultsUrl>2001000571</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>17</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Scale drawings</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>DD.1 Scale drawings of polygons</SubSectionName>
+		<UrlKey>scale-drawings-of-polygons</UrlKey>
+		<ResultsUrl>2020369717</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>18</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>F</SectionId>
+		<SectionName>Fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>F.5 Least common denominator</SubSectionName>
+		<UrlKey>least-common-denominator</UrlKey>
+		<ResultsUrl>2001000432</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>19</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Surface area and volume</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>CC.8 Volume of pyramids</SubSectionName>
+		<UrlKey>volume-of-pyramids</UrlKey>
+		<ResultsUrl>2020035987</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>20</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Surface area and volume</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>CC.2 Surface area of pyramids</SubSectionName>
+		<UrlKey>surface-area-of-pyramids</UrlKey>
+		<ResultsUrl>2020035988</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>21</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>D.6 Divide decimals by whole numbers: word problems</SubSectionName>
+		<UrlKey>divide-decimals-by-whole-numbers-word-problems</UrlKey>
+		<ResultsUrl>2001000409</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>22</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>14</SubSectionId>
+		<SubSectionName>II.14 Which simulation represents the situation?</SubSectionName>
+		<UrlKey>which-simulation-represents-the-situation</UrlKey>
+		<ResultsUrl>2020240317</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>23</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>F</SectionId>
+		<SectionName>Fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>F.10 Round mixed numbers</SubSectionName>
+		<UrlKey>round-mixed-numbers</UrlKey>
+		<ResultsUrl>2001000437</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>24</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Perimeter and area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>BB.4 Area and perimeter: word problems</SubSectionName>
+		<UrlKey>area-and-perimeter-word-problems</UrlKey>
+		<ResultsUrl>2001000542</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>25</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>GG</SectionId>
+		<SectionName>Data and graphs</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>GG.11 Interpret circle graphs</SubSectionName>
+		<UrlKey>interpret-circle-graphs</UrlKey>
+		<ResultsUrl>2001000498</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>26</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>S</SectionId>
+		<SectionName>Equivalent expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>S.8 Add and subtract like terms: with exponents</SubSectionName>
+		<UrlKey>add-and-subtract-like-terms-with-exponents</UrlKey>
+		<ResultsUrl>2001000588</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>27</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Surface area and volume</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>CC.3 Lateral area of prisms and pyramids</SubSectionName>
+		<UrlKey>lateral-area-of-prisms-and-pyramids</UrlKey>
+		<ResultsUrl>2020711017</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>28</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>P</SectionId>
+		<SectionName>Consumer math</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>P.5 Unit prices: find the total price</SubSectionName>
+		<UrlKey>unit-prices-find-the-total-price</UrlKey>
+		<ResultsUrl>2001000507</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue>1#3</SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+	<Question>
+		<Id>29</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>S</SectionId>
+		<SectionName>Equivalent expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>S.1 Properties of addition and multiplication</SubSectionName>
+		<UrlKey>properties-of-addition-and-multiplication</UrlKey>
+		<ResultsUrl>2001000598</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Wednesday Test-C</QuestionName>
+	</Question>
+</Questions>
