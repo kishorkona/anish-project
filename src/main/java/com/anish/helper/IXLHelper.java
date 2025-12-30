@@ -37,12 +37,13 @@ public class IXLHelper {
 	
 	public String buildIxlXml(String name) {
 		String rtn = "failed";
+		String fileWithExt = "_main.xml";
 		try {
 			String value = env.getProperty(name+".buildXmls");
 			String[] valArr = value.split("#");
 			Map<String, BuildQuestion> qMap = new HashMap<String, BuildQuestion>();
 			for(int i=0;i<valArr.length;i++) {
-				List<BuildQuestion> qList = buildGetCurrentXmlFileWithCounter(valArr[i]+".xml", "buildXml");
+				List<BuildQuestion> qList = buildGetCurrentXmlFileWithCounter(valArr[i]+fileWithExt, "buildXml");
 				if(qList.size()>0) {
 					qList.stream().forEach(q -> {
 						String val = null;
