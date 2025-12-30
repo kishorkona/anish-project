@@ -1,0 +1,128 @@
+<Questions>
+	<!-- 
+	<hasImage>
+	1=Only Image
+	2=both
+	3=Only Question
+	-->
+	<Question>
+		<Id>1</Id>
+		<Subject>If s is the length of a side of a square then what is its Area.</Subject>
+		<hasImage>3</hasImage>
+		<ImageName>3</ImageName>
+		<RowHight>100</RowHight>
+		<ImageWidth>100</ImageWidth>
+		<ImageHeight>100</ImageHeight>
+		<Status>1</Status>
+	</Question>
+	<Question>
+		<Id>2</Id>
+		<Subject>If s is the length of a side of a square then what is its Perimeter.</Subject>
+		<hasImage>3</hasImage>
+		<ImageName>2</ImageName>
+		<RowHight>100</RowHight>
+		<ImageWidth>200</ImageWidth>
+		<ImageHeight>100</ImageHeight>
+		<Status>1</Status>
+	</Question>
+	<Question>
+		<Id>3</Id>
+		<Subject>If l is the length and w is the width of a rectangle then what is its Area.</Subject>
+		<hasImage>3</hasImage>
+		<ImageName>1</ImageName>
+		<RowHight>100</RowHight>
+		<ImageWidth>100</ImageWidth>
+		<ImageHeight>100</ImageHeight>
+		<Status>1</Status>
+	</Question>
+	<Question>
+		<Id>4</Id>
+		<Subject>If l is the length and w is the width of a rectangle then what is its Perimeter.</Subject>
+		<hasImage>3</hasImage>
+		<ImageName>3</ImageName>
+		<RowHight>100</RowHight>
+		<ImageWidth>100</ImageWidth>
+		<ImageHeight>100</ImageHeight>
+		<Status>1</Status>
+	</Question>
+	<Question>
+		<Id>5</Id>
+		<Subject>Parameter of Rectangle where l=length, w=width</Subject>
+		<hasImage>3</hasImage>
+		<ImageName>2</ImageName>
+		<RowHight>100</RowHight>
+		<ImageWidth>200</ImageWidth>
+		<ImageHeight>100</ImageHeight>
+		<Status>1</Status>
+	</Question>
+	<Question>
+		<Id>6</Id>
+		<Subject>Parameter of Squre where side=a</Subject>
+		<hasImage>3</hasImage>
+		<ImageName>1</ImageName>
+		<RowHight>100</RowHight>
+		<ImageWidth>100</ImageWidth>
+		<ImageHeight>100</ImageHeight>
+		<Status>1</Status>
+	</Question>
+	<Question>
+		<Id>7</Id>
+		<Subject>Parameter of Triangle</Subject>
+		<hasImage>2</hasImage>
+		<ImageName>4</ImageName>
+		<RowHight>5</RowHight>
+		<ImageWidth>100</ImageWidth>
+		<ImageHeight>100</ImageHeight>
+		<Status>1</Status>
+	</Question>
+	<Question>
+		<Id>8</Id>
+		<Subject>Area of Triangle</Subject>
+		<hasImage>2</hasImage>
+		<ImageName>4</ImageName>
+		<RowHight>5</RowHight>
+		<ImageWidth>100</ImageWidth>
+		<ImageHeight>100</ImageHeight>
+		<Status>1</Status>
+	</Question>
+	<Question>
+		<Id>9</Id>
+		<Subject>Parameter of Triangle</Subject>
+		<hasImage>2</hasImage>
+		<ImageName>5</ImageName>
+		<RowHight>5</RowHight>
+		<ImageWidth>250</ImageWidth>
+		<ImageHeight>100</ImageHeight>
+		<Status>1</Status>
+	</Question>
+	<Question>
+		<Id>10</Id>
+		<Subject>Area of Triangle</Subject>
+		<hasImage>2</hasImage>
+		<ImageName>5</ImageName>
+		<RowHight>5</RowHight>
+		<ImageWidth>250</ImageWidth>
+		<ImageHeight>100</ImageHeight>
+		<Status>1</Status>
+	</Question>
+	<Question>
+		<Id>11</Id>
+		<Subject>Parameter of Triangle</Subject>
+		<hasImage>2</hasImage>
+		<ImageName>7</ImageName>
+		<RowHight>7</RowHight>
+		<ImageWidth>250</ImageWidth>
+		<ImageHeight>200</ImageHeight>
+		<Status>1</Status>
+	</Question>
+	<Question>
+		<Id>12</Id>
+		<Subject>Area of Triangle</Subject>
+		<hasImage>2</hasImage>
+		<ImageName>7</ImageName>
+		<RowHight>7</RowHight>
+		<ImageWidth>250</ImageWidth>
+		<ImageHeight>200</ImageHeight>
+		<Status>1</Status>
+	</Question>
+</Questions>

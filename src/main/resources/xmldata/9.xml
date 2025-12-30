@@ -1,0 +1,461 @@
+<Questions>
+	<Question>
+		<Id>1</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>U</SectionId>
+		<SectionName>One-variable inequalities</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>U.3 Write inequalities from number lines</SubSectionName>
+		<UrlKey>write-inequalities-from-number-lines</UrlKey>
+		<ResultsUrl>2001000594</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>2</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>T</SectionId>
+		<SectionName>One-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>T.3 Solve equations using properties</SubSectionName>
+		<UrlKey>solve-equations-using-properties</UrlKey>
+		<ResultsUrl>2001000601</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>3</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Perimeter and area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>BB.6 Area of circles</SubSectionName>
+		<UrlKey>area-of-circles</UrlKey>
+		<ResultsUrl>2001000543</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>4</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>16</SubSectionId>
+		<SubSectionName>G.16 Add subtract multiply and divide fractions and mixed numbers word problems</SubSectionName>
+		<UrlKey>add-subtract-multiply-and-divide-fractions-and-mixed-numbers-word-problems</UrlKey>
+		<ResultsUrl>2001000452</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>5</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>S</SectionId>
+		<SectionName>Equivalent expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>S.6 Write equivalent expressions using properties</SubSectionName>
+		<UrlKey>write-equivalent-expressions-using-properties</UrlKey>
+		<ResultsUrl>2001000600</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>6</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>HH</SectionId>
+		<SectionName>Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>HH.4 Changes in mean, median, mode, and range</SubSectionName>
+		<UrlKey>changes-in-mean-median-mode-and-range</UrlKey>
+		<ResultsUrl>2001000622</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>7</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Operations with rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>I.3 Add and subtract rational numbers</SubSectionName>
+		<UrlKey>add-and-subtract-rational-numbers</UrlKey>
+		<ResultsUrl>2001000460</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>8</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>AA</SectionId>
+		<SectionName>Three-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>AA.3 Front, side, and top view</SubSectionName>
+		<UrlKey>front-side-and-top-view</UrlKey>
+		<ResultsUrl>2001000547</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>9</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Y</SectionId>
+		<SectionName>Lines and angles</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>Y.4 Identify complementary, supplementary, vertical, and adjacent angles</SubSectionName>
+		<UrlKey>identify-complementary-supplementary-vertical-and-adjacent-angles</UrlKey>
+		<ResultsUrl>2001000525</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>10</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>L</SectionId>
+		<SectionName>Ratios rates and proportions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>L.7 Solve word problems using unit rates</SubSectionName>
+		<UrlKey>solve-word-problems-using-unit-rates</UrlKey>
+		<ResultsUrl>2020076917</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>11</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>J</SectionId>
+		<SectionName>Exponents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>J.1 Understanding exponents</SubSectionName>
+		<UrlKey>understanding-exponents</UrlKey>
+		<ResultsUrl>2001000472</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>12</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>M</SectionId>
+		<SectionName>Coordinate plane</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>M.2 Quadrants and axes</SubSectionName>
+		<UrlKey>quadrants-and-axes</UrlKey>
+		<ResultsUrl>2001000487</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>13</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>II.1 Sample spaces of simple events</SubSectionName>
+		<UrlKey>sample-spaces-of-simple-events</UrlKey>
+		<ResultsUrl>2020971217</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>14</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>S</SectionId>
+		<SectionName>Equivalent expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>S.9 Factor linear expressions: area models</SubSectionName>
+		<UrlKey>factor-linear-expressions-area-models</UrlKey>
+		<ResultsUrl>2020229317</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>15</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>P</SectionId>
+		<SectionName>Consumer math</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>P.4 Unit prices with unit conversions</SubSectionName>
+		<UrlKey>unit-prices-with-unit-conversions</UrlKey>
+		<ResultsUrl>2001000506</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>1#3</SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>16</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>E</SectionId>
+		<SectionName>Number theory</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>E.4 GCF and LCM: word problems</SubSectionName>
+		<UrlKey>gcf-and-lcm-word-problems</UrlKey>
+		<ResultsUrl>2001000468</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>1#2</SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>17</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>A</SectionId>
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>A.2 Integers on number lines</SubSectionName>
+		<UrlKey>integers-on-number-lines</UrlKey>
+		<ResultsUrl>2001000416</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>18</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>P</SectionId>
+		<SectionName>Consumer math</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>P.5 Unit prices: find the total price</SubSectionName>
+		<UrlKey>unit-prices-find-the-total-price</UrlKey>
+		<ResultsUrl>2001000507</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>1#3</SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>19</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>G.6 Estimate sums and differences of mixed numbers</SubSectionName>
+		<UrlKey>estimate-sums-and-differences-of-mixed-numbers</UrlKey>
+		<ResultsUrl>2001000440</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>6</SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>20</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>M</SectionId>
+		<SectionName>Coordinate plane</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>M.1 Coordinate plane review</SubSectionName>
+		<UrlKey>coordinate-plane-review</UrlKey>
+		<ResultsUrl>2001000486</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>21</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>14</SubSectionId>
+		<SubSectionName>G.14 Divide fractions and mixed numbers: word problems</SubSectionName>
+		<UrlKey>divide-fractions-and-mixed-numbers-word-problems</UrlKey>
+		<ResultsUrl>2001000450</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>22</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>GG</SectionId>
+		<SectionName>Data and graphs</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>GG.8 Create histograms</SubSectionName>
+		<UrlKey>create-histograms</UrlKey>
+		<ResultsUrl>2001000497</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>23</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Operations with rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>I.5 Apply addition and subtraction rules</SubSectionName>
+		<UrlKey>apply-addition-and-subtraction-rules</UrlKey>
+		<ResultsUrl>2020000183</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>24</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>S</SectionId>
+		<SectionName>Equivalent expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>S.5 Multiply using the distributive property</SubSectionName>
+		<UrlKey>multiply-using-the-distributive-property</UrlKey>
+		<ResultsUrl>2001000599</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>25</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>G.4 Add and subtract mixed numbers: word problems</SubSectionName>
+		<UrlKey>add-and-subtract-mixed-numbers-word-problems</UrlKey>
+		<ResultsUrl>2001000442</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>26</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>R</SectionId>
+		<SectionName>Expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>R.1 Write variable expressions: one operation</SubSectionName>
+		<UrlKey>write-variable-expressions-one-operation</UrlKey>
+		<ResultsUrl>2020035858</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+	<Question>
+		<Id>27</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Two-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>Z.4 Identify trapezoids</SubSectionName>
+		<UrlKey>identify-trapezoids</UrlKey>
+		<ResultsUrl>2020023626</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-I</QuestionName>
+	</Question>
+</Questions>

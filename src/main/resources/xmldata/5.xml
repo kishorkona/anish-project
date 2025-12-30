@@ -1,0 +1,461 @@
+<Questions>
+	<Question>
+		<Id>1</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>C</SectionId>
+		<SectionName>Decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>C.2 Compare and order decimals</SubSectionName>
+		<UrlKey>compare-and-order-decimals</UrlKey>
+		<ResultsUrl>2001000401</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>2</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>FF</SectionId>
+		<SectionName>Congruence and similarity</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>FF.1 Similar and congruent figures</SubSectionName>
+		<UrlKey>similar-and-congruent-figures</UrlKey>
+		<ResultsUrl>2001000533</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>3</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>EE</SectionId>
+		<SectionName>Transformations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>EE.1 Identify reflections, rotations, and translations</SubSectionName>
+		<UrlKey>identify-reflections-rotations-and-translations</UrlKey>
+		<ResultsUrl>2001000553</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>4</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>GG</SectionId>
+		<SectionName>Data and graphs</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>GG.10 Create frequency charts</SubSectionName>
+		<UrlKey>create-frequency-charts</UrlKey>
+		<ResultsUrl>2001000490</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>5</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>R</SectionId>
+		<SectionName>Expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>R.3 Write variable expressions: word problems</SubSectionName>
+		<UrlKey>write-variable-expressions-word-problems</UrlKey>
+		<ResultsUrl>2020006472</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>6</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Operations with rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>I.1 Add and subtract positive and negative decimals</SubSectionName>
+		<UrlKey>add-and-subtract-positive-and-negative-decimals</UrlKey>
+		<ResultsUrl>2020036009</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>7</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>X</SectionId>
+		<SectionName>Two-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>X.9 Write an equation from a graph using a table</SubSectionName>
+		<UrlKey>write-an-equation-from-a-graph-using-a-table</UrlKey>
+		<ResultsUrl>2020007290</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>8</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Two-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>Z.2 Classify triangles</SubSectionName>
+		<UrlKey>classify-triangles</UrlKey>
+		<ResultsUrl>2001000528</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>9</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>D.11 Maps with decimal distances</SubSectionName>
+		<UrlKey>maps-with-decimal-distances</UrlKey>
+		<ResultsUrl>2001000413</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>10</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Y</SectionId>
+		<SectionName>Lines and angles</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>Y.10 Find lengths and measures of bisected line segments and angles</SubSectionName>
+		<UrlKey>find-lengths-and-measures-of-bisected-line-segments-and-angles</UrlKey>
+		<ResultsUrl>2001000546</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>11</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>S</SectionId>
+		<SectionName>Equivalent expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>S.2 Simplify expressions by combining like terms: with algebra tiles</SubSectionName>
+		<UrlKey>simplify-expressions-by-combining-like-terms-with-algebra-tiles</UrlKey>
+		<ResultsUrl>2020040710</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>12</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>E</SectionId>
+		<SectionName>Number theory</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>E.3 Least common multiple</SubSectionName>
+		<UrlKey>least-common-multiple</UrlKey>
+		<ResultsUrl>2001000467</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>13</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>AA</SectionId>
+		<SectionName>Three-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>AA.4 Cross sections of three-dimensional figures</SubSectionName>
+		<UrlKey>cross-sections-of-three-dimensional-figures</UrlKey>
+		<ResultsUrl>2020024197</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>14</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>X</SectionId>
+		<SectionName>Two-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>X.1 Identify independent and dependent variables</SubSectionName>
+		<UrlKey>identify-independent-and-dependent-variables</UrlKey>
+		<ResultsUrl>2020002039</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>15</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Operations with rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>I.10 Apply multiplication and division rules</SubSectionName>
+		<UrlKey>apply-multiplication-and-division-rules</UrlKey>
+		<ResultsUrl>2020000184</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>16</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Surface area and volume</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>CC.8 Volume of pyramids</SubSectionName>
+		<UrlKey>volume-of-pyramids</UrlKey>
+		<ResultsUrl>2020035987</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>17</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Perimeter and area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>BB.7 Circles: word problems</SubSectionName>
+		<UrlKey>circles-word-problems</UrlKey>
+		<ResultsUrl>2001000545</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>18</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>EE</SectionId>
+		<SectionName>Transformations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>EE.7 Reflections: find the coordinates</SubSectionName>
+		<UrlKey>reflections-find-the-coordinates</UrlKey>
+		<ResultsUrl>2001000557</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>19</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>H.11 Classify real numbers</SubSectionName>
+		<UrlKey>classify-real-numbers</UrlKey>
+		<ResultsUrl>2001000471</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>20</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>M</SectionId>
+		<SectionName>Coordinate plane</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>M.4 Distance between two points</SubSectionName>
+		<UrlKey>distance-between-two-points</UrlKey>
+		<ResultsUrl>2020006494</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>21</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>J</SectionId>
+		<SectionName>Exponents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>J.7 Evaluate numerical expressions involving exponents</SubSectionName>
+		<UrlKey>evaluate-numerical-expressions-involving-exponents</UrlKey>
+		<ResultsUrl>2001000479</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>22</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Q</SectionId>
+		<SectionName>Units of measurement</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>Q.2 Mixed customary units</SubSectionName>
+		<UrlKey>mixed-customary-units</UrlKey>
+		<ResultsUrl>2001000517</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>23</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>12</SubSectionId>
+		<SubSectionName>II.12 Find the number of outcomes: word problems</SubSectionName>
+		<UrlKey>find-the-number-of-outcomes-word-problems</UrlKey>
+		<ResultsUrl>2001000617</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>24</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>V</SectionId>
+		<SectionName>Sequences</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>V.2 Arithmetic sequences</SubSectionName>
+		<UrlKey>arithmetic-sequences</UrlKey>
+		<ResultsUrl>2001000640</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>25</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>D.4 Multiply decimals and whole numbers: word problems</SubSectionName>
+		<UrlKey>multiply-decimals-and-whole-numbers-word-problems</UrlKey>
+		<ResultsUrl>2001000407</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>26</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>D.7 Estimate sums, differences, and products of decimals</SubSectionName>
+		<UrlKey>estimate-sums-differences-and-products-of-decimals</UrlKey>
+		<ResultsUrl>2001000410</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>27</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>F</SectionId>
+		<SectionName>Fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>F.5 Least common denominator</SubSectionName>
+		<UrlKey>least-common-denominator</UrlKey>
+		<ResultsUrl>2001000432</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>5</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+</Questions>

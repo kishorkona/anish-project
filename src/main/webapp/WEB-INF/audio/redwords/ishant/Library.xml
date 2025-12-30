@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-05-19T03:36:17Z</date>
+	<key>Application Version</key><string>1.4.4.48</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/konaki/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>6587E6A0786C9380</string>
+	<key>Tracks</key>
+	<dict>
+		<key>118</key>
+		<dict>
+			<key>Track ID</key><integer>118</integer>
+			<key>Name</key><string>1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3493</integer>
+			<key>Total Time</key><integer>574</integer>
+			<key>Date Modified</key><date>2024-05-03T04:11:10Z</date>
+			<key>Date Added</key><date>2024-05-19T03:35:20Z</date>
+			<key>Bit Rate</key><integer>48</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3798920122</integer>
+			<key>Play Date UTC</key><date>2024-05-19T03:35:22Z</date>
+			<key>Normalization</key><integer>150</integer>
+			<key>Persistent ID</key><string>A4E50955A491B36D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/konaki/Music/Music/Media.localized/Music/Unknown%20Artist/Unknown%20Album/1.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Library</string>
+			<key>Description</key><string></string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>64</integer>
+			<key>Playlist Persistent ID</key><string>0000000000000005</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>118</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Downloaded</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>100</integer>
+			<key>Playlist Persistent ID</key><string>50D4682C77E54502</string>
+			<key>Distinguished Kind</key><integer>65</integer>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>118</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>103</integer>
+			<key>Playlist Persistent ID</key><string>92BF93824E322519</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>118</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

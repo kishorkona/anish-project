@@ -1,0 +1,563 @@
+<Units>
+	<Unit>
+		<Id>1</Id>
+		<SectonId>Length</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 foot =</QuestonName1>
+		<QuestonName1Anser>inches</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>2</Id>
+		<SectonId>Length</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 yard =</QuestonName1>
+		<QuestonName1Anser>feet</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>3</Id>
+		<SectonId>Length</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 yard =</QuestonName1>
+		<QuestonName1Anser>inches</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>4</Id>
+		<SectonId>Length</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 mile =</QuestonName1>
+		<QuestonName1Anser>yards</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>5</Id>
+		<SectonId>Length</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 mile =</QuestonName1>
+		<QuestonName1Anser>feet</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>6</Id>
+		<SectonId>Length</SectonId>
+		<SubSectonId>Metric Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 meter =</QuestonName1>
+		<QuestonName1Anser>millimeters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>7</Id>
+		<SectonId>Length</SectonId>
+		<SubSectonId>Metric Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 meter =</QuestonName1>
+		<QuestonName1Anser>centimeters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>8</Id>
+		<SectonId>Length</SectonId>
+		<SubSectonId>Metric Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 meter =</QuestonName1>
+		<QuestonName1Anser>decimeters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>9</Id>
+		<SectonId>Length</SectonId>
+		<SubSectonId>Metric Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 decimeter =</QuestonName1>
+		<QuestonName1Anser>meters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>10</Id>
+		<SectonId>Length</SectonId>
+		<SubSectonId>Metric Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 hectometer =</QuestonName1>
+		<QuestonName1Anser>meters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>11</Id>
+		<SectonId>Length</SectonId>
+		<SubSectonId>Metric Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 kelometer =</QuestonName1>
+		<QuestonName1Anser>meters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>12</Id>
+		<SectonId>Length</SectonId>
+		<SubSectonId>Customary to Metric Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 inch =</QuestonName1>
+		<QuestonName1Anser>centimeters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>13</Id>
+		<SectonId>Length</SectonId>
+		<SubSectonId>Customary to Metric Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 foot =</QuestonName1>
+		<QuestonName1Anser>meters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>14</Id>
+		<SectonId>Length</SectonId>
+		<SubSectonId>Customary to Metric Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 yard =</QuestonName1>
+		<QuestonName1Anser>meters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>15</Id>
+		<SectonId>Length</SectonId>
+		<SubSectonId>Customary to Metric Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 mile =</QuestonName1>
+		<QuestonName1Anser>kelometers</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>16</Id>
+		<SectonId>Capacity</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 tablespoon =</QuestonName1>
+		<QuestonName1Anser>tesspoons</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>17</Id>
+		<SectonId>Capacity</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 fluid ounce =</QuestonName1>
+		<QuestonName1Anser>tablespoons</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>18</Id>
+		<SectonId>Capacity</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 cup =</QuestonName1>
+		<QuestonName1Anser>fluid ounces</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>19</Id>
+		<SectonId>Capacity</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 pint =</QuestonName1>
+		<QuestonName1Anser>cups</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>20</Id>
+		<SectonId>Capacity</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 quart =</QuestonName1>
+		<QuestonName1Anser>cups</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>21</Id>
+		<SectonId>Capacity</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 quart =</QuestonName1>
+		<QuestonName1Anser>pints</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>22</Id>
+		<SectonId>Capacity</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 gallon =</QuestonName1>
+		<QuestonName1Anser>quarts</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>23</Id>
+		<SectonId>Capacity</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 gallon =</QuestonName1>
+		<QuestonName1Anser>fluid ounces</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>24</Id>
+		<SectonId>Metric</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 liter =</QuestonName1>
+		<QuestonName1Anser>milliliters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>25</Id>
+		<SectonId>Metric</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 liter =</QuestonName1>
+		<QuestonName1Anser>centiliters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>26</Id>
+		<SectonId>Metric</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 liter =</QuestonName1>
+		<QuestonName1Anser>deciliters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>27</Id>
+		<SectonId>Metric</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 decaliter =</QuestonName1>
+		<QuestonName1Anser>liters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>28</Id>
+		<SectonId>Metric</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 hectoliter =</QuestonName1>
+		<QuestonName1Anser>liters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>29</Id>
+		<SectonId>Metric</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 keloliters =</QuestonName1>
+		<QuestonName1Anser>liters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>30</Id>
+		<SectonId>Customary to Metric Conversion</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 teaspoon =</QuestonName1>
+		<QuestonName1Anser>milliliters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>31</Id>
+		<SectonId>Customary to Metric Conversion</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 tablespoon =</QuestonName1>
+		<QuestonName1Anser>milliliters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>32</Id>
+		<SectonId>Customary to Metric Conversion</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 fluid ounce =</QuestonName1>
+		<QuestonName1Anser>milliliters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>33</Id>
+		<SectonId>Customary to Metric Conversion</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 cup =</QuestonName1>
+		<QuestonName1Anser>milliliters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>34</Id>
+		<SectonId>Customary to Metric Conversion</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 pint =</QuestonName1>
+		<QuestonName1Anser>milliliters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>35</Id>
+		<SectonId>Customary to Metric Conversion</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 quart =</QuestonName1>
+		<QuestonName1Anser>liters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>36</Id>
+		<SectonId>Customary to Metric Conversion</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 gallon =</QuestonName1>
+		<QuestonName1Anser>liters</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>37</Id>
+		<SectonId>Weight - Mass</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 pound =</QuestonName1>
+		<QuestonName1Anser>ounces</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>38</Id>
+		<SectonId>Weight - Mass</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 ton =</QuestonName1>
+		<QuestonName1Anser>pounds</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>39</Id>
+		<SectonId>Weight - Mass</SectonId>
+		<SubSectonId>Metric Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 gram =</QuestonName1>
+		<QuestonName1Anser>milligrams</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>40</Id>
+		<SectonId>Weight - Mass</SectonId>
+		<SubSectonId>Metric Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 gram =</QuestonName1>
+		<QuestonName1Anser>centigrams</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>41</Id>
+		<SectonId>Weight - Mass</SectonId>
+		<SubSectonId>Metric Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 kelogram =</QuestonName1>
+		<QuestonName1Anser>grams</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>42</Id>
+		<SectonId>Weight - Mass</SectonId>
+		<SubSectonId>Metric Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 metric ton =</QuestonName1>
+		<QuestonName1Anser>kelograms</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>43</Id>
+		<SectonId>Weight - Mass</SectonId>
+		<SubSectonId>Customary to Metric Conversion</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 ounce =</QuestonName1>
+		<QuestonName1Anser>grams</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>44</Id>
+		<SectonId>Weight - Mass</SectonId>
+		<SubSectonId>Customary to Metric Conversion</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 pound =</QuestonName1>
+		<QuestonName1Anser>kelograms</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>45</Id>
+		<SectonId>Weight - Mass</SectonId>
+		<SubSectonId>Customary to Metric Conversion</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>1 ton =</QuestonName1>
+		<QuestonName1Anser>metric tons</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>46</Id>
+		<SectonId>Temperature</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>Water Freezes =</QuestonName1>
+		<QuestonName1Anser>&#8457;</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>47</Id>
+		<SectonId>Temperature</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>Water Boils =</QuestonName1>
+		<QuestonName1Anser>&#8457;</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>48</Id>
+		<SectonId>Temperature</SectonId>
+		<SubSectonId>Customary Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>Normal Body Temperature =</QuestonName1>
+		<QuestonName1Anser>&#8457;</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>49</Id>
+		<SectonId>Temperature</SectonId>
+		<SubSectonId>Metric Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>Water Freezes =</QuestonName1>
+		<QuestonName1Anser>&#8451;</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>50</Id>
+		<SectonId>Temperature</SectonId>
+		<SubSectonId>Metric Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>Water Boils =</QuestonName1>
+		<QuestonName1Anser>&#8451;</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+	<Unit>
+		<Id>51</Id>
+		<SectonId>Temperature</SectonId>
+		<SubSectonId>Metric Units</SubSectonId>
+		<Type>1</Type>
+		<QuestonName1>Normal Body Temperature =</QuestonName1>
+		<QuestonName1Anser>&#8451;</QuestonName1Anser>
+		<QuestonName2>Units:</QuestonName2>
+		<QuestonName2Anser>Type:</QuestonName2Anser>
+		<Status>1</Status>
+	</Unit>
+</Units>

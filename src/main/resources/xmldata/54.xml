@@ -1,0 +1,529 @@
+<Questions>
+	<Question>
+		<Id>1</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>LL</SectionId>
+		<SectionName>Triangles</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>LL.3 Classify triangles</SubSectionName>
+		<UrlKey>classify-triangles</UrlKey>
+		<ResultsUrl>2000025230</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>2</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Multiply by two-digit numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>I.3 Multiply two multiples of ten: word problems</SubSectionName>
+		<UrlKey>multiply-two-multiples-of-ten-word-problems</UrlKey>
+		<ResultsUrl>2000025145</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>1#8</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>3</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>AA</SectionId>
+		<SectionName>Money</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>AA.1 Count coins and bills - up to $20 bill</SubSectionName>
+		<UrlKey>count-coins-and-bills-up-to-20-dollar-bill</UrlKey>
+		<ResultsUrl>2007001070</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>4</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>A</SectionId>
+		<SectionName>Place value</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>A.4 Relationship between place values</SubSectionName>
+		<UrlKey>relationship-between-place-values-10-times-as-much</UrlKey>
+		<ResultsUrl>2020042777</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>0#8</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>5</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>V</SectionId>
+		<SectionName>Multiply unit fractions and whole numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>V.5 Multiply unit fractions by whole numbers</SubSectionName>
+		<UrlKey>multiply-unit-fractions-by-whole-numbers</UrlKey>
+		<ResultsUrl>2001000351</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>6</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>Y</SectionId>
+		<SectionName>Decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>Y.11 Put decimal numbers in order II</SubSectionName>
+		<UrlKey>put-decimal-numbers-in-order-ii</UrlKey>
+		<ResultsUrl>2007000419</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>7</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>T</SectionId>
+		<SectionName>Add and subtract fractions with like denominators</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>T.6 Add 3 or more fractions with like denominators</SubSectionName>
+		<UrlKey>add-3-or-more-fractions-with-like-denominators</UrlKey>
+		<ResultsUrl>2000025264</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>8</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>M</SectionId>
+		<SectionName>Mixed operations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>15</SubSectionId>
+		<SubSectionName>M.15 Use equations to solve addition and subtraction word problems</SubSectionName>
+		<UrlKey>use-equations-to-solve-addition-and-subtraction-word-problems</UrlKey>
+		<ResultsUrl>2020915817</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>9</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>OO</SectionId>
+		<SectionName>Financial literacy</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>OO.1 Identify fixed and variable expenses</SubSectionName>
+		<UrlKey>identify-fixed-and-variable-expenses</UrlKey>
+		<ResultsUrl>2020040956</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>10</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>K</SectionId>
+		<SectionName>Divide by one-digit numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>K.9 Divide 2-digit numbers by 1-digit numbers</SubSectionName>
+		<UrlKey>divide-2-digit-numbers-by-1-digit-numbers</UrlKey>
+		<ResultsUrl>2007001226</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>11</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>Y</SectionId>
+		<SectionName>Decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>Y.6 Compare decimals using models</SubSectionName>
+		<UrlKey>compare-decimals-using-models</UrlKey>
+		<ResultsUrl>2020039432</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>12</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>C</SectionId>
+		<SectionName>Rounding</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>C.4 Rounding input/output tables</SubSectionName>
+		<UrlKey>rounding-input-output-tables</UrlKey>
+		<ResultsUrl>2020034537</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>0#8</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>13</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>A</SectionId>
+		<SectionName>Place value</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>A.9 Place value word problems</SubSectionName>
+		<UrlKey>place-value-word-problems</UrlKey>
+		<ResultsUrl>2020019922</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>1#8</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>14</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>V</SectionId>
+		<SectionName>Multiply unit fractions and whole numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>V.1 Multiply unit fractions by whole numbers using models</SubSectionName>
+		<UrlKey>multiply-unit-fractions-by-whole-numbers-using-models</UrlKey>
+		<ResultsUrl>2009005373</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>15</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>Q</SectionId>
+		<SectionName>Mixed numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>Q.4 Convert improper fractions to mixed numbers</SubSectionName>
+		<UrlKey>convert-improper-fractions-to-mixed-numbers-not-simplify</UrlKey>
+		<ResultsUrl>2020531617</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>16</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>JJ</SectionId>
+		<SectionName>Lines and angles</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>JJ.3 Identify parallel, perpendicular, and intersecting lines</SubSectionName>
+		<UrlKey>identify-parallel-perpendicular-and-intersecting-lines</UrlKey>
+		<ResultsUrl>2020041106</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>17</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Time</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>DD.10 Fractions of time units</SubSectionName>
+		<UrlKey>fractions-of-time-units</UrlKey>
+		<ResultsUrl>2000025223</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>18</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>R</SectionId>
+		<SectionName>Compare and order fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>R.5 Benchmark fractions</SubSectionName>
+		<UrlKey>benchmark-fractions</UrlKey>
+		<ResultsUrl>2007000512</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>19</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Data and graphs</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>BB.4 Create and interpret line plots with fractions</SubSectionName>
+		<UrlKey>create-and-interpret-line-plots-with-fractions</UrlKey>
+		<ResultsUrl>2009005196</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>20</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>P</SectionId>
+		<SectionName>Equivalent fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>P.5 Graph equivalent fractions on number lines</SubSectionName>
+		<UrlKey>graph-equivalent-fractions-on-number-lines</UrlKey>
+		<ResultsUrl>2007000503</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>21</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Factors and multiples</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>G.9 Prime and composite: up to 20</SubSectionName>
+		<UrlKey>prime-and-composite-up-to-20</UrlKey>
+		<ResultsUrl>2000025109</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>0#8</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>22</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>X</SectionId>
+		<SectionName>Relate fractions and decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>X.3 Graph fractions as decimals on number lines</SubSectionName>
+		<UrlKey>graph-fractions-as-decimals-on-number-lines</UrlKey>
+		<ResultsUrl>2007000478</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>23</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>K</SectionId>
+		<SectionName>Divide by one-digit numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>16</SubSectionId>
+		<SubSectionName>K.16 Estimate to compare quotients</SubSectionName>
+		<UrlKey>estimate-to-compare-quotients</UrlKey>
+		<ResultsUrl>2000025168</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>24</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>MM</SectionId>
+		<SectionName>Quadrilaterals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>MM.8 Pick all the names for a quadrilateral</SubSectionName>
+		<UrlKey>pick-all-the-names-for-a-quadrilateral</UrlKey>
+		<ResultsUrl>2020040271</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>25</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>II.7 Compare area and perimeter of rectangles and squares</SubSectionName>
+		<UrlKey>compare-area-and-perimeter-of-rectangles-and-squares</UrlKey>
+		<ResultsUrl>2002025878</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>26</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>EE</SectionId>
+		<SectionName>Customary units of measurement</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>EE.1 Measure using an inch ruler</SubSectionName>
+		<UrlKey>measure-using-an-inch-ruler</UrlKey>
+		<ResultsUrl>2007000596</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>27</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Time</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>DD.5 Elapsed time: word problems</SubSectionName>
+		<UrlKey>elapsed-time-word-problems</UrlKey>
+		<ResultsUrl>2007001089</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>28</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>NN</SectionId>
+		<SectionName>Symmetry</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>NN.1 Identify lines of symmetry</SubSectionName>
+		<UrlKey>identify-lines-of-symmetry</UrlKey>
+		<ResultsUrl>2000025249</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>29</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>A</SectionId>
+		<SectionName>Place value</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>A.11 Place value review</SubSectionName>
+		<UrlKey>place-value-review</UrlKey>
+		<ResultsUrl>2020019921</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>0#8</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>30</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>FF</SectionId>
+		<SectionName>Metric units of measurement</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>FF.1 Which metric unit is appropriate?</SubSectionName>
+		<UrlKey>which-metric-unit-is-appropriate</UrlKey>
+		<ResultsUrl>2007001067</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+	<Question>
+		<Id>31</Id>
+		<Subject>Math</Subject>
+		<Grade>4</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Factors and multiples</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>G.5 Find all the factor pairs of a number</SubSectionName>
+		<UrlKey>find-all-the-factor-pairs-of-a-number</UrlKey>
+		<ResultsUrl>2020038475</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>54</QuestionId>
+		<SetValue>0#8</SetValue>
+		<QuestionName>Friday Test-E</QuestionName>
+	</Question>
+</Questions>

@@ -1,0 +1,805 @@
+<ReadWords>
+	<Word>
+		<Name>Live</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Mom,Dad and Anish live in the first and second floor.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>1</WordPath>
+		<SentencePath>1_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Again</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>It was nice to see my friends again.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>2</WordPath>
+		<SentencePath>2_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Where</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Where are you?</Sentence>
+		<Combination>3</Combination>
+		<WordPath>3</WordPath>
+		<SentencePath>3_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Which</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Which car are we going in.</Sentence>
+		<Combination>3#4</Combination>
+		<WordPath>4</WordPath>
+		<SentencePath>4_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>All</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>He ha to walk all the way home.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>5</WordPath>
+		<SentencePath>5_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Give</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>please give me a sheet of paper.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>6</WordPath>
+		<SentencePath>6_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>One</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>One must study hard for the entrance exam.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>7</WordPath>
+		<SentencePath>7_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Many</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>You ask too many questions.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>8</WordPath>
+		<SentencePath>8_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>There</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>There is a cat under the bed.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>9</WordPath>
+		<SentencePath>9_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Our</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Our team is going to win.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>10</WordPath>
+		<SentencePath>10_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Say</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>I just stopped by to say hello.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>11</WordPath>
+		<SentencePath>11_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>About</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>I love thinking about the future.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>12</WordPath>
+		<SentencePath>12_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Any</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>I can not give you any more money.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>13</WordPath>
+		<SentencePath>13_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Done</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Have I done anything wrong?</Sentence>
+		<Combination>0</Combination>
+		<WordPath>14</WordPath>
+		<SentencePath>14_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Even</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>He probably didn't even realize what he said.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>15</WordPath>
+		<SentencePath>15_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Oil</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>A little bit of oil will help lubricate the chain.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>16</WordPath>
+		<SentencePath>16_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Coin</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>She pulled out her coin purse.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>17</WordPath>
+		<SentencePath>17_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Foil</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>wrap the foil around the food.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>18</WordPath>
+		<SentencePath>18_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Boil</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Make sure that the pan does not boil dry.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>19</WordPath>
+		<SentencePath>19_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Spoil</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Don't let one mistake spoil your day.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>20</WordPath>
+		<SentencePath>20_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Point</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>He made a very good point about the need for change.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>21</WordPath>
+		<SentencePath>21_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Hoist</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Vegas can hoist the Stanley Cup as soon as Tuesday by beating the Panthers on home ice.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>22</WordPath>
+		<SentencePath>22_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Toy</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>She bought a toy for her child.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>23</WordPath>
+		<SentencePath>23_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Boy</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>I saw a boy crossing the street.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>24</WordPath>
+		<SentencePath>24_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Coil</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Once we have the wire, we can coil it up into the shape of a spring.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>25</WordPath>
+		<SentencePath>25_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Ploy</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>There is only one sure way to defeat this ploy and get them out of power.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>26</WordPath>
+		<SentencePath>26_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>As</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>He runs as fast as a cheetah.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>27</WordPath>
+		<SentencePath>27_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Enjoy</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Something I enjoy playing tennis and squash.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>28</WordPath>
+		<SentencePath>28_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Moist</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>I love cookies when they are moist and chewy.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>29</WordPath>
+		<SentencePath>29_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Give</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Could you give me a discount?</Sentence>
+		<Combination>0</Combination>
+		<WordPath>30</WordPath>
+		<SentencePath>30_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Here</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>He rode his bicycle here this morning.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>31</WordPath>
+		<SentencePath>31_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Her</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>I would like to read some of her essays. </Sentence>
+		<Combination>0</Combination>
+		<WordPath>32</WordPath>
+		<SentencePath>32_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Goes</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>I hope your meeting goes well.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>33</WordPath>
+		<SentencePath>33_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Every</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>His every move was carefully watched.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>34</WordPath>
+		<SentencePath>34_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Gone</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>She's been gone for more than an hour.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>35</WordPath>
+		<SentencePath>35_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+
+	<Word>
+		<Name>Why</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Why did you quit your job?</Sentence>
+		<Combination>0</Combination>
+		<WordPath>36</WordPath>
+		<SentencePath>36_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Been</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>She was uneasy because she had never been on a plane before.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>37</WordPath>
+		<SentencePath>37_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Some</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Can I have some water?</Sentence>
+		<Combination>0</Combination>
+		<WordPath>38</WordPath>
+		<SentencePath>38_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Very</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>She is very intelligent.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>39</WordPath>
+		<SentencePath>39_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Are</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Tom and John are good friends.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>40</WordPath>
+		<SentencePath>40_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Watch</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>She turned her head to watch him.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>41</WordPath>
+		<SentencePath>41_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Or</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Two or three times we stopped to rest under a tree by the wayside.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>42</WordPath>
+		<SentencePath>42_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Your</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Don't forget your manners.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>43</WordPath>
+		<SentencePath>43_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>There</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>She was sitting there a minute ago.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>44</WordPath>
+		<SentencePath>44_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Says</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Daddy says I look just like Mom.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>45</WordPath>
+		<SentencePath>45_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	
+	<Word>
+		<Name>Their</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>The trees are losing their leaves.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>46</WordPath>
+		<SentencePath>46_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Own</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>He makes his own rules.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>47</WordPath>
+		<SentencePath>47_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Off</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>She turned off the light and pulled the covers up.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>48</WordPath>
+		<SentencePath>48_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Know</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>He didn't know the car was coming.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>49</WordPath>
+		<SentencePath>49_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Much</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>How much did you pay for it?</Sentence>
+		<Combination>0</Combination>
+		<WordPath>50</WordPath>
+		<SentencePath>50_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Would</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>If he got a new job, he would probably make more money.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>51</WordPath>
+		<SentencePath>51_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Too</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>We are selling the house and the furniture too.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>52</WordPath>
+		<SentencePath>52_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Always</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>He has always been a good friend to me.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>53</WordPath>
+		<SentencePath>53_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Whose</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Shirley has a 17-year-old daughter whose ambition is to be a photographer.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>54</WordPath>
+		<SentencePath>54_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Throw</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Don't throw your trash on the ground.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>55</WordPath>
+		<SentencePath>55_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Move</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>The train began to move.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>56</WordPath>
+		<SentencePath>56_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Thought</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>The children thought the new game was very funny.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>57</WordPath>
+		<SentencePath>57_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Sure</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Are you sure you want to go?</Sentence>
+		<Combination>0</Combination>
+		<WordPath>58</WordPath>
+		<SentencePath>58_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Great</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>He is a great scientist.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>59</WordPath>
+		<SentencePath>59_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Also</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Thomas Edison is best known for inventing the lightbulb, but he also invented the phonograph.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>60</WordPath>
+		<SentencePath>60_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Were</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>We were so hungry that we ate all the pizza.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>61</WordPath>
+		<SentencePath>61_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Only</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>She only brought one book from home.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>62</WordPath>
+		<SentencePath>62_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Against</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>He had rescheduled his fight against the British champion.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>63</WordPath>
+		<SentencePath>63_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Though</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Though it was raining, we went hiking.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>64</WordPath>
+		<SentencePath>64_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Enough</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>There's enough food for everyone</Sentence>
+		<Combination>0</Combination>
+		<WordPath>65</WordPath>
+		<SentencePath>65_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Said</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>They all said goodnight and then headed upstairs.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>66</WordPath>
+		<SentencePath>66_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Such</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>It was such a beautiful day that we decided to go for a walk in the park.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>67</WordPath>
+		<SentencePath>67_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Could</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>The doctor thought I could not live.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>68</WordPath>
+		<SentencePath>68_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Should</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>You should stop eating fast food.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>69</WordPath>
+		<SentencePath>69_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>New</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>They planted new trees on the campus.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>70</WordPath>
+		<SentencePath>70_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Once</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>All at once a light flashed out from the tower.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>71</WordPath>
+		<SentencePath>71_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>It's</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>It's best to do some research before deciding on a topic.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>72</WordPath>
+		<SentencePath>72_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Other</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>I like my job, but I'm looking for other opportunities.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>73</WordPath>
+		<SentencePath>73_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Because</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>She spoke quietly because she didn't want Catherine to hea</Sentence>
+		<Combination>0</Combination>
+		<WordPath>74</WordPath>
+		<SentencePath>74_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Soap</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Make sure you use soap and water to wash your hands.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>75</WordPath>
+		<SentencePath>75_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Coat</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>He was wearing a coat and tie</Sentence>
+		<Combination>0</Combination>
+		<WordPath>76</WordPath>
+		<SentencePath>76_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Road</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>We parked our car by the side of the road.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>77</WordPath>
+		<SentencePath>77_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Eat</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>I eat breakfast every morning.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>78</WordPath>
+		<SentencePath>78_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Sail</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>We'll sail along the coast.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>79</WordPath>
+		<SentencePath>79_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Tail</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>The cat's tail was peeping out from under the bed.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>80</WordPath>
+		<SentencePath>80_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Foam</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>The fire extinguisher is filled with foam.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>81</WordPath>
+		<SentencePath>81_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Seat</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>He couldn't find his seat in the concert hall.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>82</WordPath>
+		<SentencePath>82_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Chain</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>They own a chain of organic grocery stores.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>83</WordPath>
+		<SentencePath>83_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Meat</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>Cut the meat into small pieces.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>84</WordPath>
+		<SentencePath>84_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Mailbox</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>She checked her mailbox daily, hoping for a letter from her son.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>85</WordPath>
+		<SentencePath>85_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Team</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>He is the best player on his team.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>86</WordPath>
+		<SentencePath>86_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Train</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>We can catch the early morning train.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>87</WordPath>
+		<SentencePath>87_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Leap</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>She made a graceful leap into the air.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>88</WordPath>
+		<SentencePath>88_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+	<Word>
+		<Name>Toast</Name>
+		<HasSentence>true</HasSentence>
+		<Sentence>He made a toast to the bride and groom.</Sentence>
+		<Combination>0</Combination>
+		<WordPath>89</WordPath>
+		<SentencePath>89_sentence</SentencePath>
+		<IshantWrote></IshantWrote>
+	</Word>
+</ReadWords>
