@@ -287,7 +287,8 @@ public class IXLHelper {
 		String pathVal = env.getProperty("destination.path");
 		for(String fileDetails : arr) {
 			String doneFilePath = pathVal+name+"/clean/"+testId+fileDetails;
-			boolean flag = deleteAndCreateFile(doneFilePath);
+            String finalStr = commonHelper.getPathByOS(doneFilePath);
+			boolean flag = deleteAndCreateFile(finalStr);
 			if(!flag) {
 				return false;
 			}
@@ -297,15 +298,46 @@ public class IXLHelper {
 
 	public boolean deleteAndCreateFile(String pathStr) {
 		try {
-			Path path = Path.of(pathStr);
-			if(Files.exists(path)) {
-				Files.delete(path);
-			}
-			Files.createFile(path);
-			return true;
+			if(deleteFile(pathStr)) {
+                return createFile(pathStr);
+            }
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
 		return false;
 	}
+
+    public boolean deleteFile(String pathStr) throws InterruptedException {
+        int retries = 0;
+        while (retries < 5) {
+            try {
+                Path path = Path.of(pathStr);
+                if(Files.exists(path)) {
+                    Files.delete(path);
+                }
+                return true;
+            } catch (Exception e) {
+                e.printStackTrace();
+                retries++;
+                Thread.sleep(1000); // Wait 100ms before trying again
+            }
+        }
+        return false;
+    }
+
+    public boolean createFile(String pathStr) throws InterruptedException {
+        int retries = 0;
+        while (retries < 5) {
+            try {
+                Path path = Path.of(pathStr);
+                Files.createFile(path);
+                return true;
+            } catch (Exception e) {
+                e.printStackTrace();
+                retries++;
+                Thread.sleep(1000); // Wait 100ms before trying again
+            }
+        }
+        return false;
+    }
 }
