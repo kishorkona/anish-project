@@ -25,9 +25,9 @@ public class CommonHelper {
 	public String getPathByOS(String pathValue) {
 		String os = env.getProperty("laptop.os");
 		if(OS_WINDOWS.equalsIgnoreCase(os)) {
-			String temp = StringUtils.replace(pathValue, "\\", "\\\\");
-			String finalVal = StringUtils.replace(temp, "/", "\\\\");
-			return finalVal;
+			//String temp = StringUtils.replace(pathValue, "\\", "\\\\");
+			//String finalVal = StringUtils.replace(temp, "/", "\\");
+			return pathValue;
 		} else if(OS_MAC.equalsIgnoreCase(os)) {
 			String finalVal = StringUtils.replace(pathValue, "\\", "/");
 			return finalVal;

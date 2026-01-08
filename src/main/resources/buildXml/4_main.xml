@@ -143,7 +143,7 @@
         <Subject>Math</Subject>
         <Grade>4</Grade>
         <SectionName>Rounding</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>C.1 Rounding: up to hundred thousands place</SubSectionName>
         <UrlKey>rounding-up-to-hundred-thousands-place</UrlKey>
         <ResultsUrl>2020034536</ResultsUrl>
@@ -1105,7 +1105,7 @@
         <Grade>4</Grade>
 
         <SectionName>Divide by one-digit numbers</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
 
         <SubSectionName>K.10 Divide 2-digit numbers by 1-digit numbers: complete the table</SubSectionName>
         <UrlKey>divide-2-digit-numbers-by-1-digit-numbers-complete-the-table</UrlKey>
@@ -1141,7 +1141,7 @@
         <Grade>4</Grade>
 
         <SectionName>Divide by one-digit numbers</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
 
         <SubSectionName>K.13 Divide using partial quotients with remainders</SubSectionName>
         <UrlKey>divide-using-partial-quotients-with-remainders</UrlKey>
@@ -1165,7 +1165,7 @@
         <Grade>4</Grade>
 
         <SectionName>Divide by one-digit numbers</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
 
         <SubSectionName>K.15 Inequalities with division</SubSectionName>
         <UrlKey>inequalities-with-division</UrlKey>
@@ -1837,7 +1837,7 @@
         <Grade>4</Grade>
 
         <SectionName>Equivalent fractions</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
 
         <SubSectionName>P.10 Fractions with denominators of 10 and 100</SubSectionName>
         <UrlKey>fractions-with-denominators-of-10-and-100</UrlKey>
@@ -1861,7 +1861,7 @@
         <Grade>4</Grade>
 
         <SectionName>Mixed numbers</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
 
         <SubSectionName>Q.1 Identify mixed numbers</SubSectionName>
         <UrlKey>identify-mixed-numbers</UrlKey>
@@ -2735,7 +2735,7 @@
         <Grade>4</Grade>
 
         <SectionName>Relate fractions and decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
 
         <SubSectionName>X.1 Model decimals and fractions</SubSectionName>
         <UrlKey>model-decimals-and-fractions</UrlKey>
@@ -2807,7 +2807,7 @@
         <Grade>4</Grade>
 
         <SectionName>Relate fractions and decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
 
         <SubSectionName>X.7 Convert decimals to fractions and mixed numbers</SubSectionName>
         <UrlKey>convert-decimals-to-fractions-and-mixed-numbers</UrlKey>
@@ -2819,7 +2819,7 @@
         <Grade>4</Grade>
 
         <SectionName>Relate fractions and decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
 
         <SubSectionName>X.8 Convert fractions and mixed numbers to decimals</SubSectionName>
         <UrlKey>convert-fractions-and-mixed-numbers-to-decimals</UrlKey>
