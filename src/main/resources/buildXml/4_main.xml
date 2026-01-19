@@ -1446,7 +1446,7 @@
         <Subject>Math</Subject>
         <Grade>4</Grade>
         <SectionName>Multi-step word problems</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>N.1 Multi-step addition and subtraction word problems</SubSectionName>
         <UrlKey>multi-step-addition-and-subtraction-word-problems</UrlKey>
         <ResultsUrl>2020040270</ResultsUrl>
@@ -1456,7 +1456,7 @@
         <Subject>Math</Subject>
         <Grade>4</Grade>
         <SectionName>Multi-step word problems</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>N.2 Use equations to solve multi-step addition and subtraction word problems</SubSectionName>
         <UrlKey>use-equations-to-solve-multi-step-addition-and-subtraction-word-problems</UrlKey>
         <ResultsUrl>2021120117</ResultsUrl>
@@ -2783,7 +2783,7 @@
         <Grade>4</Grade>
 
         <SectionName>Relate fractions and decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
 
         <SubSectionName>X.5 Decimal number lines</SubSectionName>
         <UrlKey>decimal-number-lines</UrlKey>
@@ -3826,7 +3826,7 @@
         <Grade>4</Grade>
 
         <SectionName>Metric units of measurement</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
 
         <SubSectionName>FF.8 Add and subtract mixed metric units</SubSectionName>
         <UrlKey>add-and-subtract-mixed-metric-units</UrlKey>
@@ -4142,7 +4142,7 @@
         <Grade>4</Grade>
 
         <SectionName>Angle measurement</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
 
         <SubSectionName>KK.3 Use fractions to find the measure of an angle</SubSectionName>
         <UrlKey>use-fractions-to-find-the-measure-of-an-angle</UrlKey>
@@ -4226,7 +4226,7 @@
         <Grade>4</Grade>
 
         <SectionName>Angle measurement</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
 
         <SubSectionName>KK.10 Angle measures: word problems</SubSectionName>
         <UrlKey>angle-measures-word-problems</UrlKey>
