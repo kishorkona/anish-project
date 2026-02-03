@@ -1012,7 +1012,7 @@ public class IxlController {
 			for(Question q: dataList) {
 				String fileName = testId+"_"+q.getGrade()+"_"+q.getSectionId()+"_"+q.getSubSectionId();
 				Question qstn = getQuestionFromFile(name, fileName, testId);
-				if(qstn == null && q.getQuestionStatus() != 0) {
+				if(qstn != null && q.getQuestionStatus() != 0) {
 					q.setVerified("0");
 					q.setStatus("0");
 					if(q.getResultsUrl()!=null && !q.getResultsUrl().equals("")) {
