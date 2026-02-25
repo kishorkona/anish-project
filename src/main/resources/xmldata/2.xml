@@ -1,0 +1,750 @@
+<Questions>
+	<Question>
+		<Id>1</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>L</SectionId>
+		<SectionName>Ratios rates and proportions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>L.7 Solve word problems using unit rates</SubSectionName>
+		<UrlKey>solve-word-problems-using-unit-rates</UrlKey>
+		<ResultsUrl>2020076917</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>2</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>II.9 Sample spaces for compound events</SubSectionName>
+		<UrlKey>sample-spaces-for-compound-events</UrlKey>
+		<ResultsUrl>2021013417</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>3</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>H.10 Put rational numbers in order</SubSectionName>
+		<UrlKey>put-rational-numbers-in-order</UrlKey>
+		<ResultsUrl>2001000459</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>4</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Operations with rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>I.11 Multi-step word problems with positive rational numbers</SubSectionName>
+		<UrlKey>multi-step-word-problems-with-positive-rational-numbers</UrlKey>
+		<ResultsUrl>2001000603</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>5</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>12</SubSectionId>
+		<SubSectionName>D.12 Evaluate numerical expressions involving decimals</SubSectionName>
+		<UrlKey>evaluate-numerical-expressions-involving-decimals</UrlKey>
+		<ResultsUrl>2001000414</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>6</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>A</SectionId>
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>A.2 Integers on number lines</SubSectionName>
+		<UrlKey>integers-on-number-lines</UrlKey>
+		<ResultsUrl>2001000416</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>7</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>GG</SectionId>
+		<SectionName>Data and graphs</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>GG.8 Create histograms</SubSectionName>
+		<UrlKey>create-histograms</UrlKey>
+		<ResultsUrl>2001000497</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>8</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>A</SectionId>
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>A.4 Understanding absolute value</SubSectionName>
+		<UrlKey>understanding-absolute-value</UrlKey>
+		<ResultsUrl>2020040677</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>9</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>X</SectionId>
+		<SectionName>Two-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>X.9 Write an equation from a graph using a table</SubSectionName>
+		<UrlKey>write-an-equation-from-a-graph-using-a-table</UrlKey>
+		<ResultsUrl>2020007290</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>10</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>O</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>O.2 Convert between percents fractions and decimals</SubSectionName>
+		<UrlKey>convert-between-percents-fractions-and-decimals</UrlKey>
+		<ResultsUrl>2001000574</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>11</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>T</SectionId>
+		<SectionName>One-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>T.9 Solve two-step equations with parentheses</SubSectionName>
+		<UrlKey>solve-two-step-equations-with-parentheses</UrlKey>
+		<ResultsUrl>2020042857</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>12</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>13</SubSectionId>
+		<SubSectionName>II.13 Probability of compound events</SubSectionName>
+		<UrlKey>probability-of-compound-events</UrlKey>
+		<ResultsUrl>2020035734</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>13</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>U</SectionId>
+		<SectionName>One-variable inequalities</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>U.1 Solutions to inequalities</SubSectionName>
+		<UrlKey>solutions-to-inequalities</UrlKey>
+		<ResultsUrl>2001000595</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>14</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>H.6 Classify rational numbers</SubSectionName>
+		<UrlKey>classify-rational-numbers</UrlKey>
+		<ResultsUrl>2020044668</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>15</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>L</SectionId>
+		<SectionName>Ratios rates and proportions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>12</SubSectionId>
+		<SubSectionName>L.12 Solve proportions</SubSectionName>
+		<UrlKey>solve-proportions</UrlKey>
+		<ResultsUrl>2001000568</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>16</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Surface area and volume</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>CC.8 Volume of pyramids</SubSectionName>
+		<UrlKey>volume-of-pyramids</UrlKey>
+		<ResultsUrl>2020035987</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>17</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Q</SectionId>
+		<SectionName>Units of measurement</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>Q.5 Celsius and Fahrenheit temperatures</SubSectionName>
+		<UrlKey>celsius-and-fahrenheit-temperatures</UrlKey>
+		<ResultsUrl>2001000521</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>18</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Scale drawings</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>DD.4 Perimeter and area: changes in scale</SubSectionName>
+		<UrlKey>perimeter-and-area-changes-in-scale</UrlKey>
+		<ResultsUrl>2001000552</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>19</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>L</SectionId>
+		<SectionName>Ratios rates and proportions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>L.5 Unit rates</SubSectionName>
+		<UrlKey>unit-rates</UrlKey>
+		<ResultsUrl>2001000565</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>20</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>N</SectionId>
+		<SectionName>Proportional relationships</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>N.8 Complete a table and graph a proportional relationship</SubSectionName>
+		<UrlKey>complete-a-table-and-graph-a-proportional-relationship</UrlKey>
+		<ResultsUrl>2020037328</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>21</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>P</SectionId>
+		<SectionName>Consumer math</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>P.8 Find the percent tax discount and more</SubSectionName>
+		<UrlKey>find-the-percent-tax-discount-and-more</UrlKey>
+		<ResultsUrl>2001000509</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>1#3</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>22</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>GG</SectionId>
+		<SectionName>Data and graphs</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>GG.1 Create line plots</SubSectionName>
+		<UrlKey>create-line-plots</UrlKey>
+		<ResultsUrl>2001000492</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>23</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>T</SectionId>
+		<SectionName>One-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>T.10 Solve two-step equations</SubSectionName>
+		<UrlKey>solve-two-step-equations</UrlKey>
+		<ResultsUrl>2001000592</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>24</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>J</SectionId>
+		<SectionName>Exponents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>J.2 Evaluate powers</SubSectionName>
+		<UrlKey>evaluate-powers</UrlKey>
+		<ResultsUrl>2001000473</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>25</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Two-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>Z.6 Classify quadrilaterals II</SubSectionName>
+		<UrlKey>classify-quadrilaterals-ii</UrlKey>
+		<ResultsUrl>2020035946</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>26</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>HH</SectionId>
+		<SectionName>Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>HH.10 Make inferences from multiple samples</SubSectionName>
+		<UrlKey>make-inferences-from-multiple-samples</UrlKey>
+		<ResultsUrl>2020769617</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>27</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>GG</SectionId>
+		<SectionName>Data and graphs</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>GG.2 Interpret line plots</SubSectionName>
+		<UrlKey>interpret-line-plots</UrlKey>
+		<ResultsUrl>2001000491</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>28</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>H.11 Classify real numbers</SubSectionName>
+		<UrlKey>classify-real-numbers</UrlKey>
+		<ResultsUrl>2001000471</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>29</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Two-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>14</SubSectionId>
+		<SubSectionName>Z.14 Central angles of circles</SubSectionName>
+		<UrlKey>central-angles-of-circles</UrlKey>
+		<ResultsUrl>2020040055</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>30</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>S</SectionId>
+		<SectionName>Equivalent expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>S.5 Multiply using the distributive property</SubSectionName>
+		<UrlKey>multiply-using-the-distributive-property</UrlKey>
+		<ResultsUrl>2001000599</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>31</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>F</SectionId>
+		<SectionName>Fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>F.9 Compare mixed numbers and improper fractions</SubSectionName>
+		<UrlKey>compare-mixed-numbers-and-improper-fractions</UrlKey>
+		<ResultsUrl>2001000436</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>32</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>T</SectionId>
+		<SectionName>One-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>T.1 Which x satisfies an equation?</SubSectionName>
+		<UrlKey>which-x-satisfies-an-equation</UrlKey>
+		<ResultsUrl>2001000589</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>33</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>G.9 Multiply mixed numbers</SubSectionName>
+		<UrlKey>multiply-mixed-numbers</UrlKey>
+		<ResultsUrl>2001000446</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>34</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>H.9 Compare rational numbers</SubSectionName>
+		<UrlKey>compare-rational-numbers</UrlKey>
+		<ResultsUrl>2001000458</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>35</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>II.11 Compound events: find the number of sums</SubSectionName>
+		<UrlKey>compound-events-find-the-number-of-sums</UrlKey>
+		<ResultsUrl>2020035733</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>36</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Q</SectionId>
+		<SectionName>Units of measurement</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>Q.2 Mixed customary units</SubSectionName>
+		<UrlKey>mixed-customary-units</UrlKey>
+		<ResultsUrl>2001000517</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>37</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Two-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>Z.8 Find missing angles in triangles</SubSectionName>
+		<UrlKey>find-missing-angles-in-triangles</UrlKey>
+		<ResultsUrl>2001000530</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>6</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>38</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Surface area and volume</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>CC.7 Volume of prisms: advanced</SubSectionName>
+		<UrlKey>volume-of-prisms-advanced</UrlKey>
+		<ResultsUrl>2020264417</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>39</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>R</SectionId>
+		<SectionName>Expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>R.8 Identify terms and coefficients</SubSectionName>
+		<UrlKey>identify-terms-and-coefficients</UrlKey>
+		<ResultsUrl>2020006487</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>40</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>H.4 Identify rational numbers</SubSectionName>
+		<UrlKey>identify-rational-numbers</UrlKey>
+		<ResultsUrl>2001000455</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>41</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>D.8 Add, subtract, multiply, or divide two decimals</SubSectionName>
+		<UrlKey>add-subtract-multiply-or-divide-two-decimals</UrlKey>
+		<ResultsUrl>2020161617</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>42</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>V</SectionId>
+		<SectionName>Sequences</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>V.2 Arithmetic sequences</SubSectionName>
+		<UrlKey>arithmetic-sequences</UrlKey>
+		<ResultsUrl>2001000640</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>43</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>GG</SectionId>
+		<SectionName>Data and graphs</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>GG.7 Interpret bar graphs</SubSectionName>
+		<UrlKey>interpret-bar-graphs</UrlKey>
+		<ResultsUrl>2001000494</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+	<Question>
+		<Id>44</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>J</SectionId>
+		<SectionName>Exponents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>J.8 Scientific notation</SubSectionName>
+		<UrlKey>scientific-notation</UrlKey>
+		<ResultsUrl>2001000469</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>2</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Tuesday Test-B</QuestionName>
+	</Question>
+</Questions>
