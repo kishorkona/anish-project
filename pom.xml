@@ -10,9 +10,9 @@
         <relativePath/>
     </parent>
     <groupId>com.anish</groupId>
-    <artifactId>anish-proj</artifactId>
+    <artifactId>anish-project</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>anish-proj</name>
+    <name>anish-project</name>
     <description>Spring Boot web project with REST controller and login JSP</description>
     <properties>
         <java.version>25</java.version>

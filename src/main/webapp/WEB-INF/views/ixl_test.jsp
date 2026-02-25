@@ -19,63 +19,13 @@ h1 {
 }
 </style>
 <head>
-<script> 
-function setCurrentTime() {
-	//document.getElementById("submitBtn").disabled=true;
-	localStorage.setItem('questionDate', new Date());
-	var currentDate = new Date(localStorage.getItem('questionDate'));
-    var hours = Math.floor((currentDate.getTime() % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)); 
-    var minutes = Math.floor((currentDate.getTime() % (1000 * 60 * 60)) / (1000 * 60)); 
-    var seconds = Math.floor((currentDate.getTime() % (1000 * 60)) / 1000); 
-    var finalResult = hours + "h " + minutes + "m " + seconds + "s ";
-    document.getElementById("questionDate").value=finalResult;
-    
-    // Setting TestTimer
-    if(document.getElementById("testResetFlag").value=='true') {
-    	localStorage.removeItem('testDate');
-    	localStorage.setItem('testDate', new Date());
-	}
-    var testPreviousDate =new Date(localStorage.getItem('testDate'));
-	var testNewDate = new Date();
-    var testDistence = testNewDate.getTime() - testPreviousDate.getTime(); 
-    var testHours = Math.floor((testDistence % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)); 
-    var testMinutes = Math.floor((testDistence % (1000 * 60 * 60)) / (1000 * 60)); 
-    var testSeconds = Math.floor((testDistence % (1000 * 60)) / 1000); 
-    var testFinalResult = testHours + "h " + testMinutes + "m " + testSeconds + "s ";
-    document.getElementById("testDate").innerHTML=testFinalResult;
-    document.getElementById("testTime").value=testFinalResult;
-}
+<script>
 function enableSubmitBtn() {
 	var value = document.getElementById("questionType").value;
 	if(value == 1 ||value == 2 ||value == 3) {
 		document.getElementById("submitBtn").disabled=false;
 	}
 }
-var x = setInterval(function() { 
-	var previousDate =new Date(localStorage.getItem('questionDate'));
-	var newDate = new Date();
-    var distence = newDate.getTime() - previousDate.getTime(); 
-    var hours = Math.floor((distence % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)); 
-    var minutes = Math.floor((distence % (1000 * 60 * 60)) / (1000 * 60)); 
-    var seconds = Math.floor((distence % (1000 * 60)) / 1000); 
-    var finalResult = hours + "h " + minutes + "m " + seconds + "s ";
-    document.getElementById("questionDate").innerHTML=finalResult;
-	document.getElementById("questionTime").value=finalResult;
-
- 	// Setting TestTimer
-    var testPreviousDate =new Date(localStorage.getItem('testDate'));
-	var testNewDate = new Date();
-    var testDistence = testNewDate.getTime() - testPreviousDate.getTime(); 
-    var testHours = Math.floor((testDistence % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)); 
-    var testMinutes = Math.floor((testDistence % (1000 * 60 * 60)) / (1000 * 60)); 
-    var testSeconds = Math.floor((testDistence % (1000 * 60)) / 1000); 
-    var testFinalResult = testHours + "h " + testMinutes + "m " + testSeconds + "s ";
-    document.getElementById("testDate").innerHTML=testFinalResult;
-    document.getElementById("testTime").value=testFinalResult;
-    
-    //alert("1:"+document.getElementById("questionDate").value);
-    //alert("2:"+document.getElementById("testDate").value);
-}, 1000);
 </script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>User  Money Home page</title>
@@ -141,9 +91,8 @@ var x = setInterval(function() {
 					</tr>
 				</table>
 				<input type="hidden" id="testResetFlag" value="${testResetFlag}" />
-				<input type="hidden" id="testTime" value="${testResetFlag}" />
-				
-				<form:input type="hidden" path="questionTime" />
+				<form:input type="hidden" path="questionStTime" />
+				<form:input type="hidden" path="questionEdTime" />
 				<form:input type="hidden" path="questionId" />
 				<form:input type="hidden" path="sectionId" />
 				<form:input type="hidden" path="subSectionId" />

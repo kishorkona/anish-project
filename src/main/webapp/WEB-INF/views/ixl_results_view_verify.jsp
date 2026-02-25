@@ -27,13 +27,22 @@ table.center {
 	<div>
 		<c:if test="${error!=null}">${error}</c:if>
 		<table border="1" style="width:90%;margin:0 auto auto">
+            <tr>
+                <td>Start Time: <c:if test="${startTime != null}">&nbsp;&nbsp;&nbsp;<c:out value="${startTime}"/></c:if></td>
+                <td>End Time: <c:if test="${endTime != null}">&nbsp;&nbsp;&nbsp;<c:out value="${endTime}"/></c:if></td>
+                <td>Total Time: <c:if test="${totalTimeSpent != null}">&nbsp;&nbsp;&nbsp;<c:out value="${totalTimeSpent}"/></c:if></td>
+            </tr>
+            </table>
+        <br/>
+		<table border="1" style="width:90%;margin:0 auto auto">
 			<tr>
 				<th>Test Id</th>
 				<th>Test Name</th>
 				<th>Question No</th>
 				<th>Subject</th>
 				<th>Grade</th>
-				<th>Section</th>	
+				<th>Section</th>
+				<th>Duration</th>
 				<th>Section Name</th>
 				<th>Sub Section Name</th>
 				<th>Check</th>
@@ -48,6 +57,7 @@ table.center {
 		        	<td align="center"><c:out value="${current.grade}"/></td>
 		        	<td align="left"><c:out value="${current.sectionId}"/>.<c:out value="${current.subSectionId}"/></td>
 		        	<td align="left"><c:out value="${current.sectionName}"/></td>
+		        	<td align="center"><c:if test="${current.questionDuration != null}"><c:out value="${current.questionDuration}"/></c:if></td>
 		        	<c:if test="${current.wordProbleum}">
 			        	<td align="left" style="color:red">
 			        		<c:out value="${current.grade}"/>.<c:out value="${current.subSectionName}"/>&nbsp;

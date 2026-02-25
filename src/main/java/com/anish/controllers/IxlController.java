@@ -26,6 +26,9 @@ import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.StandardOpenOption;
+import java.time.Duration;
+import java.time.LocalDateTime;
+import java.time.LocalTime;
 import java.util.*;
 import java.util.Map.Entry;
 import java.util.concurrent.atomic.AtomicInteger;
@@ -342,7 +345,7 @@ public class IxlController {
 	}
 	
 	@GetMapping(value = "/tests/getTestLink/{testId}/{name}")
-	public ModelAndView getTestLink(@PathVariable("testId") String testId, @PathVariable("name") String name) {
+	public ModelAndView getTestLink(@PathVariable("testId") String testId, @PathVariable("name") String name, HttpServletRequest request) {
 		ModelAndView modelAndView = new ModelAndView();
 		try {
 			String val = getXmlFile(testId);
@@ -356,7 +359,10 @@ public class IxlController {
 				String testIdVal = env.getProperty(name+".datafiles."+testId);
 				item.setQuestionName(testIdVal.trim());
 				item.setUserName(name);
+				item.setQuestionStTime(LocalDateTime.now().toString());
 				modelAndView.addObject("question", item);
+				//commonHelper.setTestTime(session, "sess_"+testId+"_testTime");
+				//commonHelper.setQuestionTime("sess_"+testId+"_questionTime");
 			}
 			/*
 			Map<Integer, Question> linesMap = new HashMap<Integer, Question>();
@@ -407,7 +413,7 @@ public class IxlController {
 	}
 	
 	@RequestMapping(value = "/tests/nextQuestion", method = RequestMethod.POST)
-	public ModelAndView nextQuestion(@ModelAttribute("question") Question questionReq) {
+	public ModelAndView nextQuestion(@ModelAttribute("question") Question questionReq, HttpServletRequest request) {
 		ModelAndView modelAndView = new ModelAndView("ixl_test");
 		try {
 			String val = getXmlFile(String.valueOf(questionReq.getQuestionId()));
@@ -415,6 +421,8 @@ public class IxlController {
 			Question question = getCurrentQuestionNew(val + "#" + valDone, questionReq.getSectionId(), questionReq.getSubSectionId(), questionReq.getUserName(), String.valueOf(questionReq.getQuestionId()));
 			String testIdVal = env.getProperty(questionReq.getUserName()+".datafiles."+String.valueOf(question.getQuestionId()));
 			question.setQuestionName(testIdVal.trim());
+			question.setQuestionStTime(questionReq.getQuestionStTime());
+			question.setQuestionEdTime(LocalDateTime.now().toString());
 			writeRecordToFile(val, question, questionReq.getUserName());
 			String selectFiles = env.getProperty("select.files");
 			if(!"0".equalsIgnoreCase(selectFiles)) {
@@ -429,6 +437,8 @@ public class IxlController {
 				item.setQuestionId(questionReq.getQuestionId());
 				item.setQuestionName(testIdVal.trim());
 				item.setUserName(questionReq.getUserName());
+				item.setQuestionStTime(LocalDateTime.now().toString());
+				item.setQuestionEdTime(null);
 				modelAndView.addObject("question", item);
 			}
 			
@@ -966,6 +976,7 @@ public class IxlController {
 			xlData.setQuestionFileName(testId+".xml");
 			List<Question> dataList = getQuestionListByAll(xlData);
 			List<Question> finalDataList = new ArrayList();
+			Map<String, Question> questionMap = readDoneFileForTimeSpent(name, testId, modelAndView);
 			for(Question q: dataList) {
 				if(q.getQuestionStatus()!=0) {
 					String fileName = testId+"_"+q.getGrade()+"_"+q.getSectionId()+"_"+q.getSubSectionId();
@@ -985,6 +996,15 @@ public class IxlController {
 					}
 					q.setQuestionId(Integer.valueOf(testId));
 					q.setQuestionName(fileName);
+
+					String key = q.getSectionId() + "#" + q.getSubSectionId();
+					if(questionMap.containsKey(key)) {
+						Question qstn1 = questionMap.get(key);
+						q.setQuestionStTime(qstn1.getQuestionStTime());
+						q.setQuestionEdTime(qstn1.getQuestionEdTime());
+						q.setQuestionDuration(qstn1.getQuestionDuration());
+					}
+
 					finalDataList.add(q);
 				} else {
 					System.out.println("difficult question:"+q.toString());
@@ -1009,6 +1029,7 @@ public class IxlController {
 			xlData.setQuestionFileName(testId+".xml");
 			List<Question> dataList = getQuestionListByAll(xlData);
 			List<Question> finalDataList = new ArrayList<Question>();
+			Map<String, Question> questionMap = readDoneFileForTimeSpent(name, testId, modelAndView);
 			for(Question q: dataList) {
 				String fileName = testId+"_"+q.getGrade()+"_"+q.getSectionId()+"_"+q.getSubSectionId();
 				Question qstn = getQuestionFromFile(name, fileName, testId);
@@ -1023,6 +1044,14 @@ public class IxlController {
 					}
 					q.setQuestionId(Integer.valueOf(testId));
 					q.setQuestionName(fileName);
+
+					String key = q.getSectionId() + "#" + q.getSubSectionId();
+					if(questionMap.containsKey(key)) {
+						Question qstn1 = questionMap.get(key);
+						q.setQuestionStTime(qstn1.getQuestionStTime());
+						q.setQuestionEdTime(qstn1.getQuestionEdTime());
+						q.setQuestionDuration(qstn1.getQuestionDuration());
+					}
 					finalDataList.add(q);
 				}
 			}
@@ -1702,5 +1731,51 @@ public class IxlController {
 	public ModelAndView runAdminTests() {
 		ModelAndView obj = new ModelAndView("run_admin_tasks", HttpStatus.OK);
 		return obj;
+	}
+
+	private Map<String, Question> readDoneFileForTimeSpent(String name, String testId, ModelAndView modelAndView) {
+		Map<String, Question> questionMap = new HashMap<String, Question>();
+		try {
+			String pathVal = env.getProperty("destination.path");
+			String doneFilePath = pathVal+name+"/clean/"+testId+"_done.txt";
+			Path path = Path.of(commonHelper.getPathByOS(doneFilePath));
+			if(path.toFile().exists()) {
+				BufferedReader br = new BufferedReader(new FileReader(path.toFile()));
+				String st;
+				List<LocalDateTime> timeList = new ArrayList<LocalDateTime>();
+				while ((st = br.readLine()) != null) {
+					if(st != null && !"".equals(st)) {
+						try {
+							Question q = gson.fromJson(st, Question.class);
+							if(q.getQuestionStTime() == null || q.getQuestionEdTime() == null) {
+								continue;
+							}
+							LocalDateTime stTime = LocalDateTime.parse(q.getQuestionStTime());
+							LocalDateTime endTime = LocalDateTime.parse(q.getQuestionEdTime());
+							Duration duration = Duration.between(stTime, endTime);
+							q.setQuestionDuration(String.format("%d:%02d:%02d", duration.toHoursPart(), duration.toMinutesPart(), duration.toSecondsPart()));
+							questionMap.put(q.getSectionId()+"#"+q.getSubSectionId(), q);
+							timeList.add(stTime);
+							timeList.add(endTime);
+						} catch (Exception ex) {
+							System.out.println("Error at line="+st);
+							ex.printStackTrace();
+						}
+					}
+				}
+				if(timeList.size()>0) {
+					LocalDateTime minTime = timeList.stream().min(LocalDateTime::compareTo).get();
+					LocalDateTime maxTime = timeList.stream().max(LocalDateTime::compareTo).get();
+					Duration totalDuration = Duration.between(minTime, maxTime);
+					modelAndView.addObject("startTime", String.format("%d:%02d:%02d", minTime.getHour(), minTime.getMinute(), minTime.getSecond()));
+					modelAndView.addObject("endTime", String.format("%d:%02d:%02d", maxTime.getHour(), maxTime.getMinute(), maxTime.getSecond()));
+					modelAndView.addObject("totalTimeSpent", String.format("%d:%02d:%02d", totalDuration.toHoursPart(), totalDuration.toMinutesPart(), totalDuration.toSecondsPart()));
+				}
+			}
+		} catch (Exception ex) {
+			ex.printStackTrace();
+			throw new RuntimeException(ex);
+		}
+		return questionMap;
 	}
 }
