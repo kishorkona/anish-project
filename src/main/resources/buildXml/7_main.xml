@@ -2,7 +2,7 @@
 	<BuildQuestion>
 		<Subject>Math</Subject>
 		<Grade>7</Grade>
-		
+
 		<SectionName>Integers</SectionName>
 		<Enabled>1</Enabled>
 		
@@ -1456,7 +1456,7 @@
         <Grade>7</Grade>
         
         <SectionName>Percents</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         
         <SubSectionName>O.5 Solve percent problems using strip models</SubSectionName>
         <UrlKey>solve-percent-problems-using-strip-models</UrlKey>
@@ -1468,7 +1468,7 @@
         <Grade>7</Grade>
         
         <SectionName>Percents</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         
         <SubSectionName>O.6 Percents of numbers and money amounts</SubSectionName>
         <UrlKey>percents-of-numbers-and-money-amounts</UrlKey>
@@ -1480,7 +1480,7 @@
         <Grade>7</Grade>
         
         <SectionName>Percents</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         
         <SubSectionName>O.7 Percents of numbers word problems</SubSectionName>
         <UrlKey>percents-of-numbers-word-problems</UrlKey>
@@ -1504,7 +1504,7 @@
         <Grade>7</Grade>
         
         <SectionName>Percents</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         
         <SubSectionName>O.9 Solve percent equations word problems</SubSectionName>
         <UrlKey>solve-percent-equations-word-problems</UrlKey>
@@ -1528,7 +1528,7 @@
         <Grade>7</Grade>
         
         <SectionName>Percents</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         
         <SubSectionName>O.11 Percent of change: word problems</SubSectionName>
         <UrlKey>percent-of-change-word-problems</UrlKey>
@@ -1540,7 +1540,7 @@
         <Grade>7</Grade>
         
         <SectionName>Percents</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         
         <SubSectionName>O.12 Percent of change: find the original amount word problems</SubSectionName>
         <UrlKey>percent-of-change-find-the-original-amount-word-problems</UrlKey>
@@ -1552,7 +1552,7 @@
         <Grade>7</Grade>
         
         <SectionName>Percents</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         
         <SubSectionName>O.13 Percent error: word problems</SubSectionName>
         <UrlKey>percent-error-word-problems</UrlKey>
@@ -1624,7 +1624,7 @@
         <Grade>7</Grade>
         
         <SectionName>Consumer math</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         
         <SubSectionName>P.6 Percent of a number tax discount and more</SubSectionName>
         <UrlKey>percent-of-a-number-tax-discount-and-more</UrlKey>
@@ -1648,7 +1648,7 @@
         <Grade>7</Grade>
         
         <SectionName>Consumer math</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         
         <SubSectionName>P.8 Find the percent tax discount and more</SubSectionName>
         <UrlKey>find-the-percent-tax-discount-and-more</UrlKey>
@@ -1672,7 +1672,7 @@
         <Grade>7</Grade>
         
         <SectionName>Consumer math</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         
         <SubSectionName>P.10 Multi-step problems with percents</SubSectionName>
         <UrlKey>multi-step-problems-with-percents</UrlKey>
@@ -1684,7 +1684,7 @@
         <Grade>7</Grade>
         
         <SectionName>Consumer math</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         
         <SubSectionName>P.11 Estimate tips</SubSectionName>
         <UrlKey>estimate-tips</UrlKey>
@@ -1696,7 +1696,7 @@
         <Grade>7</Grade>
         
         <SectionName>Consumer math</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         
         <SubSectionName>P.12 Simple interest</SubSectionName>
         <UrlKey>simple-interest</UrlKey>
@@ -2054,7 +2054,7 @@
         <Grade>7</Grade>
         
         <SectionName>Equivalent expressions</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         
         <SubSectionName>S.14 Identify equivalent linear expressions: word problems</SubSectionName>
         <UrlKey>identify-equivalent-linear-expressions-word-problems</UrlKey>
@@ -3306,7 +3306,7 @@
         <Grade>7</Grade>
         
         <SectionName>Scale drawings</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         
         <SubSectionName>DD.3 Scale drawings: scale factor word problems</SubSectionName>
         <UrlKey>scale-drawings-scale-factor-word-problems</UrlKey>
@@ -3327,7 +3327,7 @@
         <Subject>Math</Subject>
         <Grade>7</Grade>
         <SectionName>Scale drawings</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>DD.5 Checkpoint: Scale drawings</SubSectionName>
         <UrlKey>checkpoint-scale-drawings</UrlKey>
         <ResultsUrl>2020368711</ResultsUrl>
