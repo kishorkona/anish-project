@@ -37,7 +37,7 @@ table.center {
 			</td>
 			<td style="width:70%;">
 				<c:if test="${error!=null}">${error}</c:if>
-				<table border="1" style="width:50%;margin:0 auto auto">
+				<table border="1" style="width:85%;margin:0 auto auto">
 					<tr>
 						<th align="left"><a href="\anishtestsnew/tests/view/${other_name_key}">View ${other_name} IXL Tests</a></th>
 						<th colspan="2">${name}</th>
@@ -45,7 +45,10 @@ table.center {
 					<tr>
 						<th>Test Name</th>
 						<th>Test Id</th>
-						<th>Completed</th>	
+						<th>Completed</th>
+						<th>St Time</th>
+						<th>Ed Time</th>
+						<th>Total Time</th>
 					</tr>
 					<c:forEach items="${data}" var="current">
 						<tr>
@@ -61,6 +64,9 @@ table.center {
 							</td>
 							<td align="center">${current.questionId}</td>
 							<td align="center"><c:out value="${current.totalCurrentQuestions}"/></td>
+							<td align="center"><c:if test="${current.testStTime != null}"><c:out value="${current.testStTime}"/></c:if></td>
+							<td align="center"><c:if test="${current.testEdTime != null}"><c:out value="${current.testEdTime}"/></c:if></td>
+							<td align="center"><c:if test="${current.testDuration != null}"><c:out value="${current.testDuration}"/></c:if></td>
 						</tr>
 					</c:forEach>
 					<c:if test="${redWordsExists!=null && redWordsExists == 'true'}">
@@ -75,17 +81,17 @@ table.center {
 						</c:forEach>
 					</c:if>
 					<tr>
-						<td align="center" colspan="3">
+						<td align="center" colspan="6">
 							<a href="\anishtestsnew/tests/alzebra/${user_name_key}">Print Geometry Tests</a>
 						</td>
 					</tr>
 					<tr>
-						<td align="center" colspan="3">
+						<td align="center" colspan="6">
 							<a href="\anishtestsnew/tables/generateTableTest/${uniqueId}/${user_name_key}">Print Table With Doubles Tests</a>
 						</td>
 					</tr>
 					<tr>
-						<td align="center" colspan="3">
+						<td align="center" colspan="6">
 							<a href="\anishtestsnew/unit/${user_name_key}">Print Unit Conversion Tests</a>
 						</td>
 					</tr>					

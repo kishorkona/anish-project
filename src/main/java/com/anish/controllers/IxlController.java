@@ -237,6 +237,19 @@ public class IxlController {
 			if(existingTests.contains(q.getQuestionId().toString())) {
 				q.setExistingTests(Boolean.TRUE);
 			}
+
+			Map<String, Object> values = new HashMap();
+			readDoneFileForTimeSpent(name, String.valueOf(q.getQuestionId()), values);
+			if(values.containsKey("startTime")) {
+				q.setTestStTime(values.get("startTime").toString());
+			}
+			if(values.containsKey("endTime")) {
+				q.setTestEdTime(values.get("endTime").toString());
+			}
+			if(values.containsKey("totalTimeSpent")) {
+				q.setTestDuration(values.get("totalTimeSpent").toString());
+			}
+
 			dataList.add(q);
 		}
 		List<Question> finalDataList = dataList.stream().filter(x1 -> {
@@ -976,7 +989,13 @@ public class IxlController {
 			xlData.setQuestionFileName(testId+".xml");
 			List<Question> dataList = getQuestionListByAll(xlData);
 			List<Question> finalDataList = new ArrayList();
-			Map<String, Question> questionMap = readDoneFileForTimeSpent(name, testId, modelAndView);
+
+			Map<String, Object> values = new HashMap();
+			Map<String, Question> questionMap = readDoneFileForTimeSpent(name, testId, values);
+			modelAndView.addObject("startTime", values.get("startTime"));
+			modelAndView.addObject("endTime", values.get("endTime"));
+			modelAndView.addObject("totalTimeSpent", values.get("totalTimeSpent"));
+
 			for(Question q: dataList) {
 				if(q.getQuestionStatus()!=0) {
 					String fileName = testId+"_"+q.getGrade()+"_"+q.getSectionId()+"_"+q.getSubSectionId();
@@ -1029,7 +1048,13 @@ public class IxlController {
 			xlData.setQuestionFileName(testId+".xml");
 			List<Question> dataList = getQuestionListByAll(xlData);
 			List<Question> finalDataList = new ArrayList<Question>();
-			Map<String, Question> questionMap = readDoneFileForTimeSpent(name, testId, modelAndView);
+
+			Map<String, Object> values = new HashMap();
+			Map<String, Question> questionMap = readDoneFileForTimeSpent(name, testId, values);
+			modelAndView.addObject("startTime", values.get("startTime"));
+			modelAndView.addObject("endTime", values.get("endTime"));
+			modelAndView.addObject("totalTimeSpent", values.get("totalTimeSpent"));
+
 			for(Question q: dataList) {
 				String fileName = testId+"_"+q.getGrade()+"_"+q.getSectionId()+"_"+q.getSubSectionId();
 				Question qstn = getQuestionFromFile(name, fileName, testId);
@@ -1733,7 +1758,7 @@ public class IxlController {
 		return obj;
 	}
 
-	private Map<String, Question> readDoneFileForTimeSpent(String name, String testId, ModelAndView modelAndView) {
+	private Map<String, Question> readDoneFileForTimeSpent(String name, String testId, Map<String, Object> values) {
 		Map<String, Question> questionMap = new HashMap<String, Question>();
 		try {
 			String pathVal = env.getProperty("destination.path");
@@ -1767,9 +1792,9 @@ public class IxlController {
 					LocalDateTime minTime = timeList.stream().min(LocalDateTime::compareTo).get();
 					LocalDateTime maxTime = timeList.stream().max(LocalDateTime::compareTo).get();
 					Duration totalDuration = Duration.between(minTime, maxTime);
-					modelAndView.addObject("startTime", String.format("%d:%02d:%02d", minTime.getHour(), minTime.getMinute(), minTime.getSecond()));
-					modelAndView.addObject("endTime", String.format("%d:%02d:%02d", maxTime.getHour(), maxTime.getMinute(), maxTime.getSecond()));
-					modelAndView.addObject("totalTimeSpent", String.format("%d:%02d:%02d", totalDuration.toHoursPart(), totalDuration.toMinutesPart(), totalDuration.toSecondsPart()));
+					values.put("startTime", String.format("%d:%02d:%02d", minTime.getHour(), minTime.getMinute(), minTime.getSecond()));
+					values.put("endTime", String.format("%d:%02d:%02d", maxTime.getHour(), maxTime.getMinute(), maxTime.getSecond()));
+					values.put("totalTimeSpent", String.format("%d:%02d:%02d", totalDuration.toHoursPart(), totalDuration.toMinutesPart(), totalDuration.toSecondsPart()));
 				}
 			}
 		} catch (Exception ex) {

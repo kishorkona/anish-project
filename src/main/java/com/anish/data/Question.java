@@ -19,6 +19,10 @@ public class Question {
 	private String questionEdTime;
 	private String questionDuration;
 
+	private String testStTime;
+	private String testEdTime;
+	private String testDuration;
+
 	private Integer totalCurrentQuestions;
 	private Integer totalComplexQuestions;
 	private Integer totalCompletedQuestions;
@@ -52,8 +56,12 @@ public class Question {
 				", resultsAvailable=" + resultsAvailable +
 				", status='" + status + '\'' +
 				", verified='" + verified + '\'' +
-				", questionStTime=" + questionStTime +
-				", questionEdTime=" + questionEdTime +
+				", questionStTime='" + questionStTime + '\'' +
+				", questionEdTime='" + questionEdTime + '\'' +
+				", questionDuration='" + questionDuration + '\'' +
+				", testStTime='" + testStTime + '\'' +
+				", testEdTime='" + testEdTime + '\'' +
+				", testDuration='" + testDuration + '\'' +
 				", totalCurrentQuestions=" + totalCurrentQuestions +
 				", totalComplexQuestions=" + totalComplexQuestions +
 				", totalCompletedQuestions=" + totalCompletedQuestions +
@@ -310,5 +318,29 @@ public class Question {
 
 	public void setQuestionDuration(String questionDuration) {
 		this.questionDuration = questionDuration;
+	}
+
+	public String getTestStTime() {
+		return testStTime;
+	}
+
+	public void setTestStTime(String testStTime) {
+		this.testStTime = testStTime;
+	}
+
+	public String getTestEdTime() {
+		return testEdTime;
+	}
+
+	public void setTestEdTime(String testEdTime) {
+		this.testEdTime = testEdTime;
+	}
+
+	public String getTestDuration() {
+		return testDuration;
+	}
+
+	public void setTestDuration(String testDuration) {
+		this.testDuration = testDuration;
 	}
 }
