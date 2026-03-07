@@ -45,7 +45,8 @@ table.center {
 					<tr>
 						<th>Test Name</th>
 						<th>Test Id</th>
-						<th>Completed</th>
+						<th>Total <br/> Questions</th>
+						<th>Total <br/> Completed</th>
 						<th>St Time</th>
 						<th>Ed Time</th>
 						<th>Total Time</th>
@@ -64,6 +65,7 @@ table.center {
 							</td>
 							<td align="center">${current.questionId}</td>
 							<td align="center"><c:out value="${current.totalCurrentQuestions}"/></td>
+							<td align="center"><c:out value="${current.totalCompletedQuestions}"/></td>
 							<td align="center"><c:if test="${current.testStTime != null}"><c:out value="${current.testStTime}"/></c:if></td>
 							<td align="center"><c:if test="${current.testEdTime != null}"><c:out value="${current.testEdTime}"/></c:if></td>
 							<td align="center"><c:if test="${current.testDuration != null}"><c:out value="${current.testDuration}"/></c:if></td>
@@ -81,17 +83,17 @@ table.center {
 						</c:forEach>
 					</c:if>
 					<tr>
-						<td align="center" colspan="6">
+						<td align="center" colspan="7">
 							<a href="\anishtestsnew/tests/alzebra/${user_name_key}">Print Geometry Tests</a>
 						</td>
 					</tr>
 					<tr>
-						<td align="center" colspan="6">
+						<td align="center" colspan="7">
 							<a href="\anishtestsnew/tables/generateTableTest/${uniqueId}/${user_name_key}">Print Table With Doubles Tests</a>
 						</td>
 					</tr>
 					<tr>
-						<td align="center" colspan="6">
+						<td align="center" colspan="7">
 							<a href="\anishtestsnew/unit/${user_name_key}">Print Unit Conversion Tests</a>
 						</td>
 					</tr>					

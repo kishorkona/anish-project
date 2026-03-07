@@ -228,6 +228,8 @@ public class IxlController {
 		List<Question> dataList = new ArrayList<Question>();
 		String val = env.getProperty("current.tests."+name);
 		List<String> existingTests = Arrays.asList(val.split("#"));
+		Map<Integer, Integer> totalCurrentQuestons = getQuestions(name).stream()
+				.collect(Collectors.toMap(Question::getQuestionId, Question::getTotalCurrentQuestions));
 		for(int i=0;i<nameValArr.length;i++) {
 			Question q = new Question();
 			q.setQuestionId(Integer.parseInt(nameValArr[i]));
@@ -239,7 +241,9 @@ public class IxlController {
 			}
 
 			Map<String, Object> values = new HashMap();
-			readDoneFileForTimeSpent(name, String.valueOf(q.getQuestionId()), values);
+			Map<String, Question> questionMap = readDoneFileForTimeSpent(name, String.valueOf(q.getQuestionId()), values);
+			q.setTotalCurrentQuestions(totalCurrentQuestons.get(q.getQuestionId()));
+			q.setTotalCompletedQuestions(questionMap.size());
 			if(values.containsKey("startTime")) {
 				q.setTestStTime(values.get("startTime").toString());
 			}
