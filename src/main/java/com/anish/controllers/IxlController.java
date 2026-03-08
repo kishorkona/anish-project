@@ -98,6 +98,9 @@ public class IxlController {
 			if(existingTests.contains(x1.getQuestionId().toString())) {
 				x1.setExistingTests(Boolean.TRUE);
 			}
+			Map<String, Object> values = new HashMap();
+			Map<String, Question> questionMap = readDoneFileForTimeSpent(name, String.valueOf(x1.getQuestionId()), values);
+			x1.setTotalCompletedQuestions(questionMap.size());
 			return true;
 		}).collect(Collectors.toList());
 		obj.addObject("redWordsExists", "false");
@@ -241,8 +244,8 @@ public class IxlController {
 			}
 
 			Map<String, Object> values = new HashMap();
-			Map<String, Question> questionMap = readDoneFileForTimeSpent(name, String.valueOf(q.getQuestionId()), values);
 			q.setTotalCurrentQuestions(totalCurrentQuestons.get(q.getQuestionId()));
+			Map<String, Question> questionMap = readDoneFileForTimeSpent(name, String.valueOf(q.getQuestionId()), values);
 			q.setTotalCompletedQuestions(questionMap.size());
 			if(values.containsKey("startTime")) {
 				q.setTestStTime(values.get("startTime").toString());

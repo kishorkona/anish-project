@@ -38,23 +38,20 @@ table.center {
 						<th colspan="2">${name}</th>
 					</tr>
 					<tr>
-						<th align="right">Test Name&nbsp;&nbsp;&nbsp;</th>
-						<th align="left">&nbsp;&nbsp;&nbsp;Test Id</th>
-						<th align="left">&nbsp;&nbsp;&nbsp;Question To Complete</th>	
+						<th align="center">Test Name</th>
+						<th align="center">Test Id</th>
+						<th align="center">Question To Complete</th>
+						<th align="center">Completed</th>
 					</tr>
 					<!--  This is for IXL -->
 					<c:forEach items="${data}" var="current">
 						<tr>
-							<td align="right">
-								<c:out value="${current.questionName}"/>&nbsp;&nbsp;&nbsp;
-								<c:if test="${current.existingTests}">
-									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p style="color:red">Current Test</p>
-								</c:if>
+							<td align="center">
+								<c:out value="${current.questionName}"/><c:if test="${current.existingTests}"><p style="color:red">Current Test</p></c:if>
 							</td>
-							<td align="left">
-								&nbsp;&nbsp;&nbsp;<a href="\anishtestsnew/tests/getTestLink/${current.questionId}/${user_name_key}">${current.questionId}</a>
-							</td>
-							<td align="left">&nbsp;&nbsp;&nbsp;<c:out value="${current.totalCurrentQuestions}"/></td>
+							<td align="center"><a href="\anishtestsnew/tests/getTestLink/${current.questionId}/${user_name_key}">${current.questionId}</a></td>
+							<td align="center"><c:out value="${current.totalCurrentQuestions}"/></td>
+							<td align="center"><c:out value="${current.totalCompletedQuestions}"/></td>
 						</tr>
 					</c:forEach>
 					<!--  This is for Redwords
