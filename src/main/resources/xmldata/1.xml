@@ -1,0 +1,478 @@
+<Questions>
+	<Question>
+		<Id>1</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>X</SectionId>
+		<SectionName>Two-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>X.4 Complete a table for a two-variable relationship</SubSectionName>
+		<UrlKey>complete-a-table-for-a-two-variable-relationship</UrlKey>
+		<ResultsUrl>2001000627</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>2</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>G.8 Multiply fractions</SubSectionName>
+		<UrlKey>multiply-fractions</UrlKey>
+		<ResultsUrl>2001000443</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>3</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>S</SectionId>
+		<SectionName>Equivalent expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>S.1 Properties of addition and multiplication</SubSectionName>
+		<UrlKey>properties-of-addition-and-multiplication</UrlKey>
+		<ResultsUrl>2001000598</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>4</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>R</SectionId>
+		<SectionName>Expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>R.8 Identify terms and coefficients</SubSectionName>
+		<UrlKey>identify-terms-and-coefficients</UrlKey>
+		<ResultsUrl>2020006487</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>5</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>14</SubSectionId>
+		<SubSectionName>II.14 Which simulation represents the situation?</SubSectionName>
+		<UrlKey>which-simulation-represents-the-situation</UrlKey>
+		<ResultsUrl>2020240317</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>6</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Perimeter and area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>BB.4 Area and perimeter: word problems</SubSectionName>
+		<UrlKey>area-and-perimeter-word-problems</UrlKey>
+		<ResultsUrl>2001000542</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>7</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>O</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>O.6 Percents of numbers and money amounts</SubSectionName>
+		<UrlKey>percents-of-numbers-and-money-amounts</UrlKey>
+		<ResultsUrl>2001000577</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>8</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>16</SubSectionId>
+		<SubSectionName>II.16 Probability of independent and dependent events</SubSectionName>
+		<UrlKey>probability-of-independent-and-dependent-events</UrlKey>
+		<ResultsUrl>2001000614</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>9</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Q</SectionId>
+		<SectionName>Units of measurement</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>Q.3 Compare and convert metric units</SubSectionName>
+		<UrlKey>compare-and-convert-metric-units</UrlKey>
+		<ResultsUrl>2001000518</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>10</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Q</SectionId>
+		<SectionName>Units of measurement</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>Q.4 Convert between customary and metric systems</SubSectionName>
+		<UrlKey>convert-between-customary-and-metric-systems</UrlKey>
+		<ResultsUrl>2001000519</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>11</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>X</SectionId>
+		<SectionName>Two-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>X.8 Interpret a graph: word problems</SubSectionName>
+		<UrlKey>interpret-a-graph-word-problems</UrlKey>
+		<ResultsUrl>2001000634</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>12</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>X</SectionId>
+		<SectionName>Two-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>X.9 Write an equation from a graph using a table</SubSectionName>
+		<UrlKey>write-an-equation-from-a-graph-using-a-table</UrlKey>
+		<ResultsUrl>2020007290</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>13</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>EE</SectionId>
+		<SectionName>Transformations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>EE.2 Translations: graph the image</SubSectionName>
+		<UrlKey>translations-graph-the-image</UrlKey>
+		<ResultsUrl>2001000554</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>14</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Surface area and volume</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>CC.9 Volume of cylinders</SubSectionName>
+		<UrlKey>volume-of-cylinders</UrlKey>
+		<ResultsUrl>2020037319</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>15</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Operations with rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>I.8 Multiply and divide positive and negative fractions</SubSectionName>
+		<UrlKey>multiply-and-divide-positive-and-negative-fractions</UrlKey>
+		<ResultsUrl>2020036010</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>16</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>O</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>O.2 Convert between percents fractions and decimals</SubSectionName>
+		<UrlKey>convert-between-percents-fractions-and-decimals</UrlKey>
+		<ResultsUrl>2001000574</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>17</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>P</SectionId>
+		<SectionName>Consumer math</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>P.5 Unit prices: find the total price</SubSectionName>
+		<UrlKey>unit-prices-find-the-total-price</UrlKey>
+		<ResultsUrl>2001000507</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue>1#3</SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>18</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Operations with rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>I.4 Rational numbers: find the sign</SubSectionName>
+		<UrlKey>rational-numbers-find-the-sign</UrlKey>
+		<ResultsUrl>2020036007</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>19</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>EE</SectionId>
+		<SectionName>Transformations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>EE.1 Identify reflections, rotations, and translations</SubSectionName>
+		<UrlKey>identify-reflections-rotations-and-translations</UrlKey>
+		<ResultsUrl>2001000553</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>20</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Surface area and volume</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>CC.1 Surface area of cubes and prisms</SubSectionName>
+		<UrlKey>surface-area-of-cubes-and-prisms</UrlKey>
+		<ResultsUrl>2001000550</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>21</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>O</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>O.11 Percent of change: word problems</SubSectionName>
+		<UrlKey>percent-of-change-word-problems</UrlKey>
+		<ResultsUrl>2001000582</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>22</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>T</SectionId>
+		<SectionName>One-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>14</SubSectionId>
+		<SubSectionName>T.14 Solve equations involving like terms</SubSectionName>
+		<UrlKey>solve-equations-involving-like-terms</UrlKey>
+		<ResultsUrl>2001000593</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>23</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>H.6 Classify rational numbers</SubSectionName>
+		<UrlKey>classify-rational-numbers</UrlKey>
+		<ResultsUrl>2020044668</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>24</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>H.1 Convert fractions or mixed numbers to decimals</SubSectionName>
+		<UrlKey>convert-fractions-or-mixed-numbers-to-decimals</UrlKey>
+		<ResultsUrl>2020036012</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>25</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>K</SectionId>
+		<SectionName>Square roots</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>K.1 Square roots of perfect squares</SubSectionName>
+		<UrlKey>square-roots-of-perfect-squares</UrlKey>
+		<ResultsUrl>2001000480</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>26</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>T</SectionId>
+		<SectionName>One-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>T.10 Solve two-step equations</SubSectionName>
+		<UrlKey>solve-two-step-equations</UrlKey>
+		<ResultsUrl>2001000592</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>27</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>15</SubSectionId>
+		<SubSectionName>G.15 Estimate products and quotients of fractions and mixed numbers</SubSectionName>
+		<UrlKey>estimate-products-and-quotients-of-fractions-and-mixed-numbers</UrlKey>
+		<ResultsUrl>2001000451</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+	<Question>
+		<Id>28</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>A</SectionId>
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>A.6 Quantities that combine to zero: word problems</SubSectionName>
+		<UrlKey>quantities-that-combine-to-zero-word-problems</UrlKey>
+		<ResultsUrl>2020038639</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>1</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Monday</QuestionName>
+	</Question>
+</Questions>

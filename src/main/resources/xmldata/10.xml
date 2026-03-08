@@ -1,0 +1,478 @@
+<Questions>
+	<Question>
+		<Id>1</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>R</SectionId>
+		<SectionName>Expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>R.3 Write variable expressions: word problems</SubSectionName>
+		<UrlKey>write-variable-expressions-word-problems</UrlKey>
+		<ResultsUrl>2020006472</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>2</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Two-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>13</SubSectionId>
+		<SubSectionName>Z.13 Parts of a circle</SubSectionName>
+		<UrlKey>parts-of-a-circle</UrlKey>
+		<ResultsUrl>2001000538</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>3</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>F</SectionId>
+		<SectionName>Fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>F.8 Convert between mixed numbers and improper fractions</SubSectionName>
+		<UrlKey>convert-between-mixed-numbers-and-improper-fractions</UrlKey>
+		<ResultsUrl>2001000435</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>4</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Two-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>Z.5 Classify quadrilaterals I</SubSectionName>
+		<UrlKey>classify-quadrilaterals</UrlKey>
+		<ResultsUrl>2001000529</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>5</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Operations with rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>I.6 Identify quotients of rational numbers: word problems</SubSectionName>
+		<UrlKey>identify-quotients-of-rational-numbers-word-problems</UrlKey>
+		<ResultsUrl>2020040276</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>1#6</SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>6</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>A</SectionId>
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>A.4 Understanding absolute value</SubSectionName>
+		<UrlKey>understanding-absolute-value</UrlKey>
+		<ResultsUrl>2020040677</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>7</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Two-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>12</SubSectionId>
+		<SubSectionName>Z.12 Interior angles of polygons</SubSectionName>
+		<UrlKey>interior-angles-of-polygons</UrlKey>
+		<ResultsUrl>2001000532</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>8</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Perimeter and area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>BB.7 Circles: word problems</SubSectionName>
+		<UrlKey>circles-word-problems</UrlKey>
+		<ResultsUrl>2001000545</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>9</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>C</SectionId>
+		<SectionName>Decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>C.1 Decimal numbers review</SubSectionName>
+		<UrlKey>decimal-numbers-review</UrlKey>
+		<ResultsUrl>2001000400</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>10</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>F</SectionId>
+		<SectionName>Fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>F.4 Fractions: word problems with graphs and tables</SubSectionName>
+		<UrlKey>fractions-word-problems-with-graphs-and-tables</UrlKey>
+		<ResultsUrl>2020023121</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>11</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>GG</SectionId>
+		<SectionName>Data and graphs</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>GG.8 Create histograms</SubSectionName>
+		<UrlKey>create-histograms</UrlKey>
+		<ResultsUrl>2001000497</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>12</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Q</SectionId>
+		<SectionName>Units of measurement</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>Q.1 Compare and convert customary units</SubSectionName>
+		<UrlKey>compare-and-convert-customary-units</UrlKey>
+		<ResultsUrl>2001000516</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>13</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>II.5 Experimental probability</SubSectionName>
+		<UrlKey>experimental-probability</UrlKey>
+		<ResultsUrl>2001000610</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>14</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Two-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>Z.10 Find missing angles in quadrilaterals I</SubSectionName>
+		<UrlKey>find-missing-angles-in-quadrilaterals</UrlKey>
+		<ResultsUrl>2020019642</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>15</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>H.10 Put rational numbers in order</SubSectionName>
+		<UrlKey>put-rational-numbers-in-order</UrlKey>
+		<ResultsUrl>2001000459</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>16</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>T</SectionId>
+		<SectionName>One-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>T.11 Solve two-step equations with fractions</SubSectionName>
+		<UrlKey>solve-two-step-equations-with-fractions</UrlKey>
+		<ResultsUrl>2020918517</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>17</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>U</SectionId>
+		<SectionName>One-variable inequalities</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>U.4 Solve one-step inequalities</SubSectionName>
+		<UrlKey>solve-one-step-inequalities</UrlKey>
+		<ResultsUrl>2001000596</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>18</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>P</SectionId>
+		<SectionName>Consumer math</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>P.3 Unit prices</SubSectionName>
+		<UrlKey>unit-prices</UrlKey>
+		<ResultsUrl>2001000505</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>1#3</SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>19</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Operations with rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>I.1 Add and subtract positive and negative decimals</SubSectionName>
+		<UrlKey>add-and-subtract-positive-and-negative-decimals</UrlKey>
+		<ResultsUrl>2020036009</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>20</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>GG</SectionId>
+		<SectionName>Data and graphs</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>13</SubSectionId>
+		<SubSectionName>GG.13 Box plots</SubSectionName>
+		<UrlKey>box-plots</UrlKey>
+		<ResultsUrl>2001000502</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>21</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>N</SectionId>
+		<SectionName>Proportional relationships</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>N.4 Find the constant of proportionality from a graph</SubSectionName>
+		<UrlKey>find-the-constant-of-proportionality-from-a-graph</UrlKey>
+		<ResultsUrl>2001000625</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>22</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Perimeter and area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>BB.8 Area of semicircles and quarter circles</SubSectionName>
+		<UrlKey>area-of-semicircles-and-quarter-circles</UrlKey>
+		<ResultsUrl>2020042581</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>23</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>HH</SectionId>
+		<SectionName>Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>HH.3 Mean, median, mode, and range: find the missing number</SubSectionName>
+		<UrlKey>mean-median-mode-and-range-find-the-missing-number</UrlKey>
+		<ResultsUrl>2001000621</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>24</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>P</SectionId>
+		<SectionName>Consumer math</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>12</SubSectionId>
+		<SubSectionName>P.12 Simple interest</SubSectionName>
+		<UrlKey>simple-interest</UrlKey>
+		<ResultsUrl>2001000513</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>1#3</SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>25</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>R</SectionId>
+		<SectionName>Expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>R.7 Evaluate nonlinear expressions</SubSectionName>
+		<UrlKey>evaluate-nonlinear-expressions</UrlKey>
+		<ResultsUrl>2001000587</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>26</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>V</SectionId>
+		<SectionName>Sequences</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>V.5 Sequences: word problems</SubSectionName>
+		<UrlKey>sequences-word-problems</UrlKey>
+		<ResultsUrl>2001000643</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>27</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>P</SectionId>
+		<SectionName>Consumer math</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>P.6 Percent of a number tax discount and more</SubSectionName>
+		<UrlKey>percent-of-a-number-tax-discount-and-more</UrlKey>
+		<ResultsUrl>2001000508</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>1#3</SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+	<Question>
+		<Id>28</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>J</SectionId>
+		<SectionName>Exponents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>J.6 Powers of ten</SubSectionName>
+		<UrlKey>powers-of-ten</UrlKey>
+		<ResultsUrl>2020037331</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Afternoon</QuestionName>
+	</Question>
+</Questions>

@@ -1,0 +1,478 @@
+<Questions>
+	<Question>
+		<Id>1</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>G.10 Multiply fractions and mixed numbers: word problems</SubSectionName>
+		<UrlKey>multiply-fractions-and-mixed-numbers-word-problems</UrlKey>
+		<ResultsUrl>2001000447</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>2</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>T</SectionId>
+		<SectionName>One-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>T.6 Solve one-step equations</SubSectionName>
+		<UrlKey>solve-one-step-equations</UrlKey>
+		<ResultsUrl>2001000591</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>3</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>HH</SectionId>
+		<SectionName>Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>HH.1 Calculate mean, median, mode, and range</SubSectionName>
+		<UrlKey>calculate-mean-median-mode-and-range</UrlKey>
+		<ResultsUrl>2001000619</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>4</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>J</SectionId>
+		<SectionName>Exponents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>J.8 Scientific notation</SubSectionName>
+		<UrlKey>scientific-notation</UrlKey>
+		<ResultsUrl>2001000469</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>5</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>F</SectionId>
+		<SectionName>Fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>F.6 Compare and order fractions</SubSectionName>
+		<UrlKey>compare-and-order-fractions</UrlKey>
+		<ResultsUrl>2001000433</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>6</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>R</SectionId>
+		<SectionName>Expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>R.6 Evaluate absolute value expressions</SubSectionName>
+		<UrlKey>evaluate-absolute-value-expressions</UrlKey>
+		<ResultsUrl>2001000585</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>7</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>D.4 Multiply decimals and whole numbers: word problems</SubSectionName>
+		<UrlKey>multiply-decimals-and-whole-numbers-word-problems</UrlKey>
+		<ResultsUrl>2001000407</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>8</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>EE</SectionId>
+		<SectionName>Transformations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>EE.7 Reflections: find the coordinates</SubSectionName>
+		<UrlKey>reflections-find-the-coordinates</UrlKey>
+		<ResultsUrl>2001000557</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>9</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>13</SubSectionId>
+		<SubSectionName>II.13 Probability of compound events</SubSectionName>
+		<UrlKey>probability-of-compound-events</UrlKey>
+		<ResultsUrl>2020035734</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>10</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Y</SectionId>
+		<SectionName>Lines and angles</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>Y.1 Name, measure, and classify angles</SubSectionName>
+		<UrlKey>name-measure-and-classify-angles</UrlKey>
+		<ResultsUrl>2001000524</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>11</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>T</SectionId>
+		<SectionName>One-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>T.1 Which x satisfies an equation?</SubSectionName>
+		<UrlKey>which-x-satisfies-an-equation</UrlKey>
+		<ResultsUrl>2001000589</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>12</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Two-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>Z.4 Identify trapezoids</SubSectionName>
+		<UrlKey>identify-trapezoids</UrlKey>
+		<ResultsUrl>2020023626</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>13</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Operations with rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>I.7 Multiply and divide positive and negative decimals</SubSectionName>
+		<UrlKey>multiply-and-divide-positive-and-negative-decimals</UrlKey>
+		<ResultsUrl>2020036011</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>14</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>FF</SectionId>
+		<SectionName>Congruence and similarity</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>FF.4 Side lengths and angle measures of similar figures</SubSectionName>
+		<UrlKey>side-lengths-and-angle-measures-of-similar-figures</UrlKey>
+		<ResultsUrl>2001000534</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>15</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>O</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>O.10 Percent of change</SubSectionName>
+		<UrlKey>percent-of-change</UrlKey>
+		<ResultsUrl>2001000581</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>16</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>L</SectionId>
+		<SectionName>Ratios rates and proportions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>L.11 Do the ratios form a proportion word problems</SubSectionName>
+		<UrlKey>do-the-ratios-form-a-proportion-word-problems</UrlKey>
+		<ResultsUrl>2001000567</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>17</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>N</SectionId>
+		<SectionName>Proportional relationships</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>N.3 Identify proportional relationships by graphing</SubSectionName>
+		<UrlKey>identify-proportional-relationships-by-graphing</UrlKey>
+		<ResultsUrl>2020006569</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>18</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>V</SectionId>
+		<SectionName>Sequences</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>V.7 Write variable expressions for arithmetic sequences</SubSectionName>
+		<UrlKey>write-variable-expressions-for-arithmetic-sequences</UrlKey>
+		<ResultsUrl>2001000645</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>19</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Two-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>Z.2 Classify triangles</SubSectionName>
+		<UrlKey>classify-triangles</UrlKey>
+		<ResultsUrl>2001000528</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>20</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>V</SectionId>
+		<SectionName>Sequences</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>V.3 Geometric sequences</SubSectionName>
+		<UrlKey>geometric-sequences</UrlKey>
+		<ResultsUrl>2001000641</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>21</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Perimeter and area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>BB.5 Circumference of circles</SubSectionName>
+		<UrlKey>circumference-of-circles</UrlKey>
+		<ResultsUrl>2020040068</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>22</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>F</SectionId>
+		<SectionName>Fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>F.3 Write fractions in lowest terms</SubSectionName>
+		<UrlKey>write-fractions-in-lowest-terms</UrlKey>
+		<ResultsUrl>2001000430</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>23</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>HH</SectionId>
+		<SectionName>Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>HH.2 Interpret charts and graphs to find mean, median, mode, and range</SubSectionName>
+		<UrlKey>interpret-charts-and-graphs-to-find-mean-median-mode-and-range</UrlKey>
+		<ResultsUrl>2001000620</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>24</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>E</SectionId>
+		<SectionName>Number theory</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>E.1 Prime factorization</SubSectionName>
+		<UrlKey>prime-factorization</UrlKey>
+		<ResultsUrl>2001000463</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>25</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>H.8 Rational numbers: find the sign</SubSectionName>
+		<UrlKey>rational-numbers-find-the-sign</UrlKey>
+		<ResultsUrl>2020036007</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>26</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>V</SectionId>
+		<SectionName>Sequences</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>V.6 Evaluate variable expressions for sequences</SubSectionName>
+		<UrlKey>evaluate-variable-expressions-for-sequences</UrlKey>
+		<ResultsUrl>2001000644</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>27</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>F</SectionId>
+		<SectionName>Fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>F.9 Compare mixed numbers and improper fractions</SubSectionName>
+		<UrlKey>compare-mixed-numbers-and-improper-fractions</UrlKey>
+		<ResultsUrl>2001000436</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>28</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>D.6 Divide decimals by whole numbers: word problems</SubSectionName>
+		<UrlKey>divide-decimals-by-whole-numbers-word-problems</UrlKey>
+		<ResultsUrl>2001000409</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>6</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Saturday Morning</QuestionName>
+	</Question>
+</Questions>

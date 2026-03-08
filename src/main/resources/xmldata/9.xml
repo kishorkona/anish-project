@@ -1,0 +1,478 @@
+<Questions>
+	<Question>
+		<Id>1</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>L</SectionId>
+		<SectionName>Ratios rates and proportions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>L.5 Unit rates</SubSectionName>
+		<UrlKey>unit-rates</UrlKey>
+		<ResultsUrl>2001000565</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>2</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>O</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>O.7 Percents of numbers word problems</SubSectionName>
+		<UrlKey>percents-of-numbers-word-problems</UrlKey>
+		<ResultsUrl>2001000578</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>3</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>S</SectionId>
+		<SectionName>Equivalent expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>S.3 Simplify expressions by combining like terms</SubSectionName>
+		<UrlKey>simplify-expressions-by-combining-like-terms</UrlKey>
+		<ResultsUrl>2020040711</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>4</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>L</SectionId>
+		<SectionName>Ratios rates and proportions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>L.7 Solve word problems using unit rates</SubSectionName>
+		<UrlKey>solve-word-problems-using-unit-rates</UrlKey>
+		<ResultsUrl>2020076917</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>5</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>GG</SectionId>
+		<SectionName>Data and graphs</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>GG.5 Interpret stem-and-leaf plots</SubSectionName>
+		<UrlKey>interpret-stem-and-leaf-plots</UrlKey>
+		<ResultsUrl>2001000493</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>6</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>D.11 Maps with decimal distances</SubSectionName>
+		<UrlKey>maps-with-decimal-distances</UrlKey>
+		<ResultsUrl>2001000413</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>7</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>16</SubSectionId>
+		<SubSectionName>G.16 Add subtract multiply and divide fractions and mixed numbers word problems</SubSectionName>
+		<UrlKey>add-subtract-multiply-and-divide-fractions-and-mixed-numbers-word-problems</UrlKey>
+		<ResultsUrl>2001000452</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>8</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Perimeter and area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>BB.1 Perimeter</SubSectionName>
+		<UrlKey>perimeter</UrlKey>
+		<ResultsUrl>2001000539</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>9</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>N</SectionId>
+		<SectionName>Proportional relationships</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>N.11 Write and solve equations for proportional relationships</SubSectionName>
+		<UrlKey>write-and-solve-equations-for-proportional-relationships</UrlKey>
+		<ResultsUrl>2020006643</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>10</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>U</SectionId>
+		<SectionName>One-variable inequalities</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>U.3 Write inequalities from number lines</SubSectionName>
+		<UrlKey>write-inequalities-from-number-lines</UrlKey>
+		<ResultsUrl>2001000594</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>11</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>O</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>13</SubSectionId>
+		<SubSectionName>O.13 Percent error: word problems</SubSectionName>
+		<UrlKey>percent-error-word-problems</UrlKey>
+		<ResultsUrl>2020304817</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>12</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>D.5 Divide decimals</SubSectionName>
+		<UrlKey>divide-decimals</UrlKey>
+		<ResultsUrl>2001000408</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>13</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>J</SectionId>
+		<SectionName>Exponents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>J.2 Evaluate powers</SubSectionName>
+		<UrlKey>evaluate-powers</UrlKey>
+		<ResultsUrl>2001000473</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>14</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>G.7 Multiply two fractions using models</SubSectionName>
+		<UrlKey>multiply-two-fractions-using-models</UrlKey>
+		<ResultsUrl>2009005423</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>15</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>A</SectionId>
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>A.1 Understanding integers</SubSectionName>
+		<UrlKey>understanding-integers</UrlKey>
+		<ResultsUrl>2001000415</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>16</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>D.8 Add, subtract, multiply, or divide two decimals</SubSectionName>
+		<UrlKey>add-subtract-multiply-or-divide-two-decimals</UrlKey>
+		<ResultsUrl>2020161617</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>17</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>II.4 Probability of mutually exclusive events and overlapping events</SubSectionName>
+		<UrlKey>probability-of-mutually-exclusive-events-and-overlapping-events</UrlKey>
+		<ResultsUrl>2020035992</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>18</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>12</SubSectionId>
+		<SubSectionName>D.12 Evaluate numerical expressions involving decimals</SubSectionName>
+		<UrlKey>evaluate-numerical-expressions-involving-decimals</UrlKey>
+		<ResultsUrl>2001000414</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>19</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>O</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>O.8 Solve percent equations</SubSectionName>
+		<UrlKey>solve-percent-equations</UrlKey>
+		<ResultsUrl>2001000579</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>20</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Surface area and volume</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>CC.8 Volume of pyramids</SubSectionName>
+		<UrlKey>volume-of-pyramids</UrlKey>
+		<ResultsUrl>2020035987</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>21</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Q</SectionId>
+		<SectionName>Units of measurement</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>Q.5 Celsius and Fahrenheit temperatures</SubSectionName>
+		<UrlKey>celsius-and-fahrenheit-temperatures</UrlKey>
+		<ResultsUrl>2001000521</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>22</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>O</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>O.9 Solve percent equations word problems</SubSectionName>
+		<UrlKey>solve-percent-equations-word-problems</UrlKey>
+		<ResultsUrl>2001000580</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>23</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>L</SectionId>
+		<SectionName>Ratios rates and proportions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>13</SubSectionId>
+		<SubSectionName>L.13 Solve proportions word problems</SubSectionName>
+		<UrlKey>solve-proportions-word-problems</UrlKey>
+		<ResultsUrl>2001000569</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>24</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>17</SubSectionId>
+		<SubSectionName>G.17 Maps with fractional distances</SubSectionName>
+		<UrlKey>maps-with-fractional-distances</UrlKey>
+		<ResultsUrl>2001000453</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>25</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>U</SectionId>
+		<SectionName>One-variable inequalities</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>U.1 Solutions to inequalities</SubSectionName>
+		<UrlKey>solutions-to-inequalities</UrlKey>
+		<ResultsUrl>2001000595</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>26</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>HH</SectionId>
+		<SectionName>Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>HH.9 Identify representative, random, and biased samples</SubSectionName>
+		<UrlKey>identify-representative-random-and-biased-samples</UrlKey>
+		<ResultsUrl>2001000623</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>27</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>12</SubSectionId>
+		<SubSectionName>G.12 Divide fractions</SubSectionName>
+		<UrlKey>divide-fractions</UrlKey>
+		<ResultsUrl>2001000448</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+	<Question>
+		<Id>28</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Surface area and volume</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>CC.5 Volume of cubes and prisms</SubSectionName>
+		<UrlKey>volume-of-cubes-and-prisms</UrlKey>
+		<ResultsUrl>2001000551</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>9</QuestionId>
+		<SetValue>6</SetValue>
+		<QuestionName>Sunday Morning</QuestionName>
+	</Question>
+</Questions>
