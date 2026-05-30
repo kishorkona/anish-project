@@ -1,0 +1,1311 @@
+<Questions>
+	<Question>
+		<Id>1</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>T</SectionId>
+		<SectionName>One-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>T.6 Solve one-step equations</SubSectionName>
+		<UrlKey>solve-one-step-equations</UrlKey>
+		<ResultsUrl>2001000591</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>2</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>II.4 Probability of mutually exclusive events and overlapping events</SubSectionName>
+		<UrlKey>probability-of-mutually-exclusive-events-and-overlapping-events</UrlKey>
+		<ResultsUrl>2020035992</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>3</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>F</SectionId>
+		<SectionName>Fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>F.1 Understanding fractions: word problems</SubSectionName>
+		<UrlKey>understanding-fractions-word-problems</UrlKey>
+		<ResultsUrl>2001000431</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>4</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>FF</SectionId>
+		<SectionName>Congruence and similarity</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>FF.4 Side lengths and angle measures of similar figures</SubSectionName>
+		<UrlKey>side-lengths-and-angle-measures-of-similar-figures</UrlKey>
+		<ResultsUrl>2001000534</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>5</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>E</SectionId>
+		<SectionName>Number theory</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>E.1 Prime factorization</SubSectionName>
+		<UrlKey>prime-factorization</UrlKey>
+		<ResultsUrl>2001000463</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>6</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>P</SectionId>
+		<SectionName>Consumer math</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>P.11 Estimate tips</SubSectionName>
+		<UrlKey>estimate-tips</UrlKey>
+		<ResultsUrl>2001000512</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1#3</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>7</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>T</SectionId>
+		<SectionName>One-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>12</SubSectionId>
+		<SubSectionName>T.12 Choose two-step equations: word problems</SubSectionName>
+		<UrlKey>choose-two-step-equations-word-problems</UrlKey>
+		<ResultsUrl>2020222917</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>8</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>G.5 Inequalities with addition and subtraction of fractions and mixed numbers</SubSectionName>
+		<UrlKey>inequalities-with-addition-and-subtraction-of-fractions-and-mixed-numbers</UrlKey>
+		<ResultsUrl>2001000454</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>9</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>II.9 Sample spaces for compound events</SubSectionName>
+		<UrlKey>sample-spaces-for-compound-events</UrlKey>
+		<ResultsUrl>2021013417</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>10</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Operations with rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>I.3 Add and subtract rational numbers</SubSectionName>
+		<UrlKey>add-and-subtract-rational-numbers</UrlKey>
+		<ResultsUrl>2001000460</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>11</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>D.1 Add and subtract decimals</SubSectionName>
+		<UrlKey>add-and-subtract-decimals</UrlKey>
+		<ResultsUrl>2001000404</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>12</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>15</SubSectionId>
+		<SubSectionName>II.15 Identify independent and dependent events</SubSectionName>
+		<UrlKey>identify-independent-and-dependent-events</UrlKey>
+		<ResultsUrl>2001000613</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>13</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>O</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>O.7 Percents of numbers word problems</SubSectionName>
+		<UrlKey>percents-of-numbers-word-problems</UrlKey>
+		<ResultsUrl>2001000578</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>14</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>A</SectionId>
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>A.5 Absolute value and opposite integers</SubSectionName>
+		<UrlKey>absolute-value-and-opposite-integers</UrlKey>
+		<ResultsUrl>2001000417</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>15</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Operations with rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>I.6 Identify quotients of rational numbers: word problems</SubSectionName>
+		<UrlKey>identify-quotients-of-rational-numbers-word-problems</UrlKey>
+		<ResultsUrl>2020040276</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1#6</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>16</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>T</SectionId>
+		<SectionName>One-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>T.7 Solve one-step equations with decimals and fractions</SubSectionName>
+		<UrlKey>solve-one-step-equations-with-decimals-and-fractions</UrlKey>
+		<ResultsUrl>2020193317</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>17</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>X</SectionId>
+		<SectionName>Two-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>X.3 Evaluate two-variable equations: word problems</SubSectionName>
+		<UrlKey>evaluate-two-variable-equations-word-problems</UrlKey>
+		<ResultsUrl>2001000637</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>18</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Perimeter and area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>BB.1 Perimeter</SubSectionName>
+		<UrlKey>perimeter</UrlKey>
+		<ResultsUrl>2001000539</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>19</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Surface area and volume</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>CC.6 Volume of cubes and rectangular prisms: word problems</SubSectionName>
+		<UrlKey>volume-of-cubes-and-rectangular-prisms-word-problems</UrlKey>
+		<ResultsUrl>2020037321</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>20</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>D.9 Add, subtract, multiply, and divide decimals: word problems</SubSectionName>
+		<UrlKey>add-subtract-multiply-and-divide-decimals-word-problems</UrlKey>
+		<ResultsUrl>2001000411</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>21</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>II.6 Make predictions using experimental probability</SubSectionName>
+		<UrlKey>make-predictions-using-experimental-probability</UrlKey>
+		<ResultsUrl>2020037112</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>22</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>T</SectionId>
+		<SectionName>One-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>T.10 Solve two-step equations</SubSectionName>
+		<UrlKey>solve-two-step-equations</UrlKey>
+		<ResultsUrl>2001000592</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>23</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>J</SectionId>
+		<SectionName>Exponents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>J.1 Understanding exponents</SubSectionName>
+		<UrlKey>understanding-exponents</UrlKey>
+		<ResultsUrl>2001000472</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>24</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>F</SectionId>
+		<SectionName>Fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>F.5 Least common denominator</SubSectionName>
+		<UrlKey>least-common-denominator</UrlKey>
+		<ResultsUrl>2001000432</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>25</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Scale drawings</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>DD.3 Scale drawings: scale factor word problems</SubSectionName>
+		<UrlKey>scale-drawings-scale-factor-word-problems</UrlKey>
+		<ResultsUrl>2020035736</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>26</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Operations with rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>I.8 Multiply and divide positive and negative fractions</SubSectionName>
+		<UrlKey>multiply-and-divide-positive-and-negative-fractions</UrlKey>
+		<ResultsUrl>2020036010</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>27</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Operations with rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>I.4 Rational numbers: find the sign</SubSectionName>
+		<UrlKey>rational-numbers-find-the-sign</UrlKey>
+		<ResultsUrl>2020036007</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>28</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>A</SectionId>
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>A.6 Quantities that combine to zero: word problems</SubSectionName>
+		<UrlKey>quantities-that-combine-to-zero-word-problems</UrlKey>
+		<ResultsUrl>2020038639</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>29</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>15</SubSectionId>
+		<SubSectionName>G.15 Estimate products and quotients of fractions and mixed numbers</SubSectionName>
+		<UrlKey>estimate-products-and-quotients-of-fractions-and-mixed-numbers</UrlKey>
+		<ResultsUrl>2001000451</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>30</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>O</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>12</SubSectionId>
+		<SubSectionName>O.12 Percent of change: find the original amount word problems</SubSectionName>
+		<UrlKey>percent-of-change-find-the-original-amount-word-problems</UrlKey>
+		<ResultsUrl>2020036030</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>31</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>H.7 Absolute value of rational numbers</SubSectionName>
+		<UrlKey>absolute-value-of-rational-numbers</UrlKey>
+		<ResultsUrl>2001000457</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>32</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>II.8 Make predictions using theoretical probability</SubSectionName>
+		<UrlKey>make-predictions-using-theoretical-probability</UrlKey>
+		<ResultsUrl>2001000611</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>33</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Operations with fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>G.2 Add and subtract fractions: word problems</SubSectionName>
+		<UrlKey>add-and-subtract-fractions-word-problems</UrlKey>
+		<ResultsUrl>2001000439</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>34</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Two-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>Z.10 Find missing angles in quadrilaterals I</SubSectionName>
+		<UrlKey>find-missing-angles-in-quadrilaterals</UrlKey>
+		<ResultsUrl>2020019642</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>35</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Two-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>14</SubSectionId>
+		<SubSectionName>Z.14 Central angles of circles</SubSectionName>
+		<UrlKey>central-angles-of-circles</UrlKey>
+		<ResultsUrl>2020040055</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>36</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>N</SectionId>
+		<SectionName>Proportional relationships</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>N.9 Graph a proportional relationship: word problems</SubSectionName>
+		<UrlKey>graph-a-proportional-relationship-word-problems</UrlKey>
+		<ResultsUrl>2020037329</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>37</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>D.2 Add and subtract decimals: word problems</SubSectionName>
+		<UrlKey>add-and-subtract-decimals-word-problems</UrlKey>
+		<ResultsUrl>2001000405</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>38</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>P</SectionId>
+		<SectionName>Consumer math</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>P.4 Unit prices with unit conversions</SubSectionName>
+		<UrlKey>unit-prices-with-unit-conversions</UrlKey>
+		<ResultsUrl>2001000506</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1#3</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>39</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>A</SectionId>
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>A.4 Understanding absolute value</SubSectionName>
+		<UrlKey>understanding-absolute-value</UrlKey>
+		<ResultsUrl>2020040677</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>40</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>FF</SectionId>
+		<SectionName>Congruence and similarity</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>FF.5 Similar figures and indirect measurementt</SubSectionName>
+		<UrlKey>similar-figures-and-indirect-measurement</UrlKey>
+		<ResultsUrl>2001000535</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>41</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>F</SectionId>
+		<SectionName>Fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>F.3 Write fractions in lowest terms</SubSectionName>
+		<UrlKey>write-fractions-in-lowest-terms</UrlKey>
+		<ResultsUrl>2001000430</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>42</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Two-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>Z.11 Find missing angles in quadrilaterals II</SubSectionName>
+		<UrlKey>find-missing-angles-in-quadrilaterals-ii</UrlKey>
+		<ResultsUrl>2020035949</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>43</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>R</SectionId>
+		<SectionName>Expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>R.3 Write variable expressions: word problems</SubSectionName>
+		<UrlKey>write-variable-expressions-word-problems</UrlKey>
+		<ResultsUrl>2020006472</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>44</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>V</SectionId>
+		<SectionName>Sequences</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>V.5 Sequences: word problems</SubSectionName>
+		<UrlKey>sequences-word-problems</UrlKey>
+		<ResultsUrl>2001000643</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>45</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>D.7 Estimate sums, differences, and products of decimals</SubSectionName>
+		<UrlKey>estimate-sums-differences-and-products-of-decimals</UrlKey>
+		<ResultsUrl>2001000410</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>46</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Scale drawings</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>DD.5 Checkpoint: Scale drawings</SubSectionName>
+		<UrlKey>checkpoint-scale-drawings</UrlKey>
+		<ResultsUrl>2020368711</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>47</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>S</SectionId>
+		<SectionName>Equivalent expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>S.4 Multiply using the distributive property: area models</SubSectionName>
+		<UrlKey>multiply-using-the-distributive-property-area-models</UrlKey>
+		<ResultsUrl>2020077517</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>48</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Two-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>Z.4 Identify trapezoids</SubSectionName>
+		<UrlKey>identify-trapezoids</UrlKey>
+		<ResultsUrl>2020023626</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>49</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>P</SectionId>
+		<SectionName>Consumer math</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>P.5 Unit prices: find the total price</SubSectionName>
+		<UrlKey>unit-prices-find-the-total-price</UrlKey>
+		<ResultsUrl>2001000507</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1#3</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>50</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>O</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>O.11 Percent of change: word problems</SubSectionName>
+		<UrlKey>percent-of-change-word-problems</UrlKey>
+		<ResultsUrl>2001000582</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>51</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>J</SectionId>
+		<SectionName>Exponents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>J.9 Compare numbers written in scientific notation</SubSectionName>
+		<UrlKey>compare-numbers-written-in-scientific-notation</UrlKey>
+		<ResultsUrl>2001000470</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>52</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>V</SectionId>
+		<SectionName>Sequences</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>V.3 Geometric sequences</SubSectionName>
+		<UrlKey>geometric-sequences</UrlKey>
+		<ResultsUrl>2001000641</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>53</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Operations with rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>I.7 Multiply and divide positive and negative decimals</SubSectionName>
+		<UrlKey>multiply-and-divide-positive-and-negative-decimals</UrlKey>
+		<ResultsUrl>2020036011</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>54</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>S</SectionId>
+		<SectionName>Equivalent expressions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>12</SubSectionId>
+		<SubSectionName>S.12 Identify equivalent linear expressions I</SubSectionName>
+		<UrlKey>identify-equivalent-linear-expressions</UrlKey>
+		<ResultsUrl>2020035868</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>55</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>FF</SectionId>
+		<SectionName>Congruence and similarity</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>FF.1 Similar and congruent figures</SubSectionName>
+		<UrlKey>similar-and-congruent-figures</UrlKey>
+		<ResultsUrl>2001000533</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>56</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>O</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>O.3 Compare percents to fractions and decimals</SubSectionName>
+		<UrlKey>compare-percents-to-fractions-and-decimals</UrlKey>
+		<ResultsUrl>2001000575</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>57</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>O</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>13</SubSectionId>
+		<SubSectionName>O.13 Percent error: word problems</SubSectionName>
+		<UrlKey>percent-error-word-problems</UrlKey>
+		<ResultsUrl>2020304817</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>58</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>U</SectionId>
+		<SectionName>One-variable inequalities</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>U.5 Graph solutions to one-step inequalities</SubSectionName>
+		<UrlKey>graph-solutions-to-one-step-inequalities</UrlKey>
+		<ResultsUrl>2002025889</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>59</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Perimeter and area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>BB.2 Area of rectangles and parallelograms</SubSectionName>
+		<UrlKey>area-of-rectangles-and-parallelograms</UrlKey>
+		<ResultsUrl>2001000540</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>60</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Q</SectionId>
+		<SectionName>Units of measurement</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>Q.1 Compare and convert customary units</SubSectionName>
+		<UrlKey>compare-and-convert-customary-units</UrlKey>
+		<ResultsUrl>2001000516</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>61</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>U</SectionId>
+		<SectionName>One-variable inequalities</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>U.3 Write inequalities from number lines</SubSectionName>
+		<UrlKey>write-inequalities-from-number-lines</UrlKey>
+		<ResultsUrl>2001000594</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>62</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>M</SectionId>
+		<SectionName>Coordinate plane</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>M.1 Coordinate plane review</SubSectionName>
+		<UrlKey>coordinate-plane-review</UrlKey>
+		<ResultsUrl>2001000486</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>63</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Y</SectionId>
+		<SectionName>Lines and angles</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>Y.10 Find lengths and measures of bisected line segments and angles</SubSectionName>
+		<UrlKey>find-lengths-and-measures-of-bisected-line-segments-and-angles</UrlKey>
+		<ResultsUrl>2001000546</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>64</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>T</SectionId>
+		<SectionName>One-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>T.11 Solve two-step equations with fractions</SubSectionName>
+		<UrlKey>solve-two-step-equations-with-fractions</UrlKey>
+		<ResultsUrl>2020918517</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>65</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>P</SectionId>
+		<SectionName>Consumer math</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>P.8 Find the percent tax discount and more</SubSectionName>
+		<UrlKey>find-the-percent-tax-discount-and-more</UrlKey>
+		<ResultsUrl>2001000509</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>1#3</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>66</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>Z</SectionId>
+		<SectionName>Two-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>13</SubSectionId>
+		<SubSectionName>Z.13 Parts of a circle</SubSectionName>
+		<UrlKey>parts-of-a-circle</UrlKey>
+		<ResultsUrl>2001000538</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>67</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Perimeter and area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>BB.5 Circumference of circles</SubSectionName>
+		<UrlKey>circumference-of-circles</UrlKey>
+		<ResultsUrl>2020040068</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>68</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>H.11 Classify real numbers</SubSectionName>
+		<UrlKey>classify-real-numbers</UrlKey>
+		<ResultsUrl>2001000471</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>69</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>AA</SectionId>
+		<SectionName>Three-dimensional figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>AA.3 Front, side, and top view</SubSectionName>
+		<UrlKey>front-side-and-top-view</UrlKey>
+		<ResultsUrl>2001000547</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>70</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>T</SectionId>
+		<SectionName>One-variable equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>16</SubSectionId>
+		<SubSectionName>T.16 Checkpoint: Solve two-step equations</SubSectionName>
+		<UrlKey>checkpoint-solve-two-step-equations</UrlKey>
+		<ResultsUrl>2020368811</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>71</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>U</SectionId>
+		<SectionName>One-variable inequalities</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>U.4 Solve one-step inequalities</SubSectionName>
+		<UrlKey>solve-one-step-inequalities</UrlKey>
+		<ResultsUrl>2001000596</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>72</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>J</SectionId>
+		<SectionName>Exponents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>J.7 Evaluate numerical expressions involving exponents</SubSectionName>
+		<UrlKey>evaluate-numerical-expressions-involving-exponents</UrlKey>
+		<ResultsUrl>2001000479</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>73</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>N</SectionId>
+		<SectionName>Proportional relationships</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>N.2 Write equations for proportional relationships from tables</SubSectionName>
+		<UrlKey>write-equations-for-proportional-relationships-from-tables</UrlKey>
+		<ResultsUrl>2020006503</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>74</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Perimeter and area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>14</SubSectionId>
+		<SubSectionName>BB.14 Area between two shapes</SubSectionName>
+		<UrlKey>area-between-two-shapes</UrlKey>
+		<ResultsUrl>2005009376</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>75</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>FF</SectionId>
+		<SectionName>Congruence and similarity</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>FF.2 Congruence statements and corresponding parts</SubSectionName>
+		<UrlKey>congruence-statements-and-corresponding-parts</UrlKey>
+		<ResultsUrl>2001000537</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>76</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Operations with decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>D.3 Multiply decimals</SubSectionName>
+		<UrlKey>multiply-decimals</UrlKey>
+		<ResultsUrl>2001000406</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+	<Question>
+		<Id>77</Id>
+		<Subject>Math</Subject>
+		<Grade>7</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Operations with rational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>I.2 Add and subtract positive and negative fractions</SubSectionName>
+		<UrlKey>add-and-subtract-positive-and-negative-fractions</UrlKey>
+		<ResultsUrl>2020036008</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>4</QuestionId>
+		<SetValue>0</SetValue>
+		<QuestionName>Grade-7 Test D</QuestionName>
+	</Question>
+</Questions>
