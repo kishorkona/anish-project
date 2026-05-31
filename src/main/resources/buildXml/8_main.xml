@@ -3570,6 +3570,16 @@
 		<Grade>8</Grade>
 		<SectionName>Two-Variable Statistics</SectionName>
 		<Enabled>1</Enabled>
+		<SubSectionName>II.11a Create and interpret two-way frequency tables</SubSectionName>
+		<UrlKey>create-and-interpret-two-way-frequency-tables</UrlKey>
+		<ResultsUrl>2021640517</ResultsUrl>
+		<SetValue></SetValue>
+	</BuildQuestion>
+	<BuildQuestion>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionName>Two-Variable Statistics</SectionName>
+		<Enabled>1</Enabled>
 		<SubSectionName>II.12 Checkpoint: Scatter plots</SubSectionName>
 		<UrlKey>checkpoint-scatter-plots</UrlKey>
 		<ResultsUrl>2020039291</ResultsUrl>
