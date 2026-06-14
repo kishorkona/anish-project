@@ -59,7 +59,7 @@
 		<SubSectionName>A.6 Add and subtract integers: word problems</SubSectionName>
 		<UrlKey>add-and-subtract-integers-word-problems</UrlKey>
 		<ResultsUrl>2001000664</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -160,7 +160,7 @@
 		<SubSectionName>B.7 Add and subtract rational numbers: word problems</SubSectionName>
 		<UrlKey>add-and-subtract-rational-numbers-word-problems</UrlKey>
 		<ResultsUrl>2001000679</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -190,7 +190,7 @@
 		<SubSectionName>B.10 Multiply and divide rational numbers: word problems</SubSectionName>
 		<UrlKey>multiply-and-divide-rational-numbers-word-problems</UrlKey>
 		<ResultsUrl>2001000681</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -230,7 +230,7 @@
 		<SubSectionName>B.14 Multi-step word problems</SubSectionName>
 		<UrlKey>multi-step-word-problems</UrlKey>
 		<ResultsUrl>2001000876</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<!-- C. Exponents -->
 	<BuildQuestion>
@@ -502,7 +502,7 @@
 		<SubSectionName>D.6a Add, subtract, multiply, and divide numbers written in scientific notation: word problems</SubSectionName>
 		<UrlKey>add-subtract-multiply-and-divide-numbers-written-in-scientific-notation-word-problems</UrlKey>
 		<ResultsUrl>2021687917</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -715,7 +715,7 @@
 		<SubSectionName>G.2 Solve proportions: word problems</SubSectionName>
 		<UrlKey>solve-proportions-word-problems</UrlKey>
 		<ResultsUrl>2001000715</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -735,7 +735,7 @@
 		<SubSectionName>G.4 Scale drawings: word problems</SubSectionName>
 		<UrlKey>scale-drawings-word-problems</UrlKey>
 		<ResultsUrl>2001000718</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -745,7 +745,7 @@
 		<SubSectionName>G.5 Scale drawings: scale factor word problems</SubSectionName>
 		<UrlKey>scale-drawings-scale-factor-word-problems</UrlKey>
 		<ResultsUrl>2020035737</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<!-- H. Percents -->
 	<BuildQuestion>
@@ -786,7 +786,7 @@
 		<SubSectionName>H.4 Find what percent one number is of another: word problems</SubSectionName>
 		<UrlKey>find-what-percent-one-number-is-of-another-word-problems</UrlKey>
 		<ResultsUrl>2001000729</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -816,7 +816,7 @@
 		<SubSectionName>H.7 Percents of numbers: word problems</SubSectionName>
 		<UrlKey>percents-of-numbers-word-problems</UrlKey>
 		<ResultsUrl>2001000732</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -856,7 +856,7 @@
 		<SubSectionName>H.11 Percent of change: word problems</SubSectionName>
 		<UrlKey>percent-of-change-word-problems</UrlKey>
 		<ResultsUrl>2001000736</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -866,7 +866,7 @@
 		<SubSectionName>H.12 Percent of change: find the original amount word problems</SubSectionName>
 		<UrlKey>percent-of-change-find-the-original-amount-word-problems</UrlKey>
 		<ResultsUrl>2020036031</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<!-- I. Consumer Math -->
 	<BuildQuestion>
@@ -1069,7 +1069,7 @@
 		<SubSectionName>K.4 Write variable expressions: word problems</SubSectionName>
 		<UrlKey>write-variable-expressions-word-problems</UrlKey>
 		<ResultsUrl>2020006475</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -1230,7 +1230,7 @@
 		<SubSectionName>L.9 Identify equivalent linear expressions: word problems</SubSectionName>
 		<UrlKey>identify-equivalent-linear-expressions-word-problems</UrlKey>
 		<ResultsUrl>2020037178</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<!-- M. One-Variable Equations -->
 	<BuildQuestion>
@@ -1251,7 +1251,7 @@
 		<SubSectionName>M.2 Write an equation from words</SubSectionName>
 		<UrlKey>write-an-equation-from-words</UrlKey>
 		<ResultsUrl>2020002035</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -1331,7 +1331,7 @@
 		<SubSectionName>M.10 Solve one-step and two-step equations: word problems</SubSectionName>
 		<UrlKey>solve-one-step-and-two-step-equations-word-problems</UrlKey>
 		<ResultsUrl>2020006694</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -1371,7 +1371,7 @@
 		<SubSectionName>M.14 Solve equations with variables on both sides: word problems</SubSectionName>
 		<UrlKey>solve-equations-with-variables-on-both-sides-word-problems</UrlKey>
 		<ResultsUrl>2020631817</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -2228,7 +2228,7 @@
 		<SubSectionName>T.5 Pythagorean theorem: word problems</SubSectionName>
 		<UrlKey>pythagorean-theorem-word-problems</UrlKey>
 		<ResultsUrl>2001000798</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -2330,7 +2330,7 @@
 		<SubSectionName>V.3 Area and perimeter: word problems</SubSectionName>
 		<UrlKey>area-and-perimeter-word-problems</UrlKey>
 		<ResultsUrl>2001000820</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -2350,7 +2350,7 @@
 		<SubSectionName>V.5 Circles: word problems</SubSectionName>
 		<UrlKey>circles-word-problems</UrlKey>
 		<ResultsUrl>2001000823</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -2572,7 +2572,7 @@
 		<SubSectionName>X.8 Identify proportional relationships: word problems</SubSectionName>
 		<UrlKey>identify-proportional-relationships-word-problems</UrlKey>
 		<ResultsUrl>2020134617</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -3047,7 +3047,7 @@
 		<SubSectionName>CC.11 Write linear functions: word problems</SubSectionName>
 		<UrlKey>write-linear-functions-word-problems</UrlKey>
 		<ResultsUrl>2001000770</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -3057,7 +3057,7 @@
 		<SubSectionName>CC.12 Evaluate a linear function: word problems</SubSectionName>
 		<UrlKey>evaluate-a-linear-function-word-problems</UrlKey>
 		<ResultsUrl>2020006791</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -3159,7 +3159,7 @@
 		<SubSectionName>EE.3 Identify graphs: word problems</SubSectionName>
 		<UrlKey>identify-graphs-word-problems</UrlKey>
 		<ResultsUrl>2020568517</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -3220,7 +3220,7 @@
 		<SubSectionName>FF.5 Sequences: word problems</SubSectionName>
 		<UrlKey>sequences-word-problems</UrlKey>
 		<ResultsUrl>2001000867</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -3271,7 +3271,7 @@
 		<SubSectionName>GG.3 Solve a system of equations by graphing: word problems</SubSectionName>
 		<UrlKey>solve-a-system-of-equations-by-graphing-word-problems</UrlKey>
 		<ResultsUrl>2002025904</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -3331,7 +3331,7 @@
 		<SubSectionName>GG.9 Solve a system of equations using substitution: word problems</SubSectionName>
 		<UrlKey>solve-a-system-of-equations-using-substitution-word-problems</UrlKey>
 		<ResultsUrl>2002025905</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -3351,7 +3351,7 @@
 		<SubSectionName>GG.11 Solve a system of equations using elimination: word problems</SubSectionName>
 		<UrlKey>solve-a-system-of-equations-using-elimination-word-problems</UrlKey>
 		<ResultsUrl>2002025906</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -3371,7 +3371,7 @@
 		<SubSectionName>GG.13 Solve a system of equations using any method: word problems</SubSectionName>
 		<UrlKey>solve-a-system-of-equations-using-any-method-word-problems</UrlKey>
 		<ResultsUrl>2020040438</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
@@ -3573,7 +3573,7 @@
 		<SubSectionName>II.10 Interpret lines of best fit: word problems</SubSectionName>
 		<UrlKey>interpret-lines-of-best-fit-word-problems</UrlKey>
 		<ResultsUrl>2020752717</ResultsUrl>
-		<SetValue></SetValue>
+		<SetValue>1</SetValue>
 	</BuildQuestion>
 	<BuildQuestion>
 		<Subject>Math</Subject>
