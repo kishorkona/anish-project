@@ -226,7 +226,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Rational Numbers</SectionName>
-		<Enabled>3</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>B.14 Multi-step word problems</SubSectionName>
 		<UrlKey>multi-step-word-problems</UrlKey>
 		<ResultsUrl>2001000876</ResultsUrl>
@@ -237,7 +237,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Exponents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>C.1 Understanding exponents</SubSectionName>
 		<UrlKey>understanding-exponents</UrlKey>
 		<ResultsUrl>2001000684</ResultsUrl>
@@ -247,7 +247,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Exponents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>C.2 Evaluate powers</SubSectionName>
 		<UrlKey>evaluate-powers</UrlKey>
 		<ResultsUrl>2001000685</ResultsUrl>
@@ -257,7 +257,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Exponents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>C.3 Solve equations with variable exponents</SubSectionName>
 		<UrlKey>solve-equations-with-variable-exponents</UrlKey>
 		<ResultsUrl>2001000686</ResultsUrl>
@@ -267,7 +267,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Exponents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>C.4 Powers with negative bases</SubSectionName>
 		<UrlKey>powers-with-negative-bases</UrlKey>
 		<ResultsUrl>2001000687</ResultsUrl>
@@ -277,7 +277,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Exponents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>C.5 Powers with decimal and fractional bases</SubSectionName>
 		<UrlKey>powers-with-decimal-and-fractional-bases</UrlKey>
 		<ResultsUrl>2001000688</ResultsUrl>
@@ -287,7 +287,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Exponents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>C.6 Understanding negative exponents</SubSectionName>
 		<UrlKey>understanding-negative-exponents</UrlKey>
 		<ResultsUrl>2001000689</ResultsUrl>
@@ -297,7 +297,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Exponents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>C.7 Evaluate powers with negative exponents</SubSectionName>
 		<UrlKey>evaluate-powers-with-negative-exponents</UrlKey>
 		<ResultsUrl>2001000690</ResultsUrl>
@@ -307,7 +307,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Exponents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>C.8 Evaluate powers with negative or zero exponents</SubSectionName>
 		<UrlKey>evaluate-powers-with-negative-or-zero-exponents</UrlKey>
 		<ResultsUrl>2020043271</ResultsUrl>
@@ -317,7 +317,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Exponents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>C.9 Multiply powers: integer bases</SubSectionName>
 		<UrlKey>multiply-powers-integer-bases</UrlKey>
 		<ResultsUrl>2001000691</ResultsUrl>
@@ -327,7 +327,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Exponents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>C.10 Divide powers: integer bases</SubSectionName>
 		<UrlKey>divide-powers-integer-bases</UrlKey>
 		<ResultsUrl>2001000692</ResultsUrl>
@@ -337,7 +337,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Exponents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>C.11 Multiply and divide powers: integer bases</SubSectionName>
 		<UrlKey>multiply-and-divide-powers-integer-bases</UrlKey>
 		<ResultsUrl>2001000693</ResultsUrl>
@@ -347,7 +347,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Exponents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>C.12 Power of a power: integer bases</SubSectionName>
 		<UrlKey>power-of-a-power-integer-bases</UrlKey>
 		<ResultsUrl>2001000694</ResultsUrl>
@@ -357,7 +357,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Exponents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>C.13 Evaluate expressions using properties of exponents</SubSectionName>
 		<UrlKey>evaluate-expressions-using-properties-of-exponents</UrlKey>
 		<ResultsUrl>2001000702</ResultsUrl>
@@ -367,7 +367,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Exponents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>C.14 Identify equivalent expressions involving exponents I</SubSectionName>
 		<UrlKey>identify-equivalent-expressions-involving-exponents</UrlKey>
 		<ResultsUrl>2020008000</ResultsUrl>
@@ -377,7 +377,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Exponents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>C.15 Identify equivalent expressions involving exponents II</SubSectionName>
 		<UrlKey>identify-equivalent-expressions-involving-exponents-ii</UrlKey>
 		<ResultsUrl>2020036033</ResultsUrl>
@@ -387,7 +387,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Exponents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>C.16 Multiply powers: variable bases</SubSectionName>
 		<UrlKey>multiply-powers-variable-bases</UrlKey>
 		<ResultsUrl>2001000790</ResultsUrl>
@@ -397,7 +397,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Exponents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>C.17 Divide powers: variable bases</SubSectionName>
 		<UrlKey>divide-powers-variable-bases</UrlKey>
 		<ResultsUrl>2001000791</ResultsUrl>
@@ -407,7 +407,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Exponents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>C.18 Multiply and divide powers: variable bases</SubSectionName>
 		<UrlKey>multiply-and-divide-powers-variable-bases</UrlKey>
 		<ResultsUrl>2001000792</ResultsUrl>
@@ -417,7 +417,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Exponents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>C.19 Powers of a power: variable bases</SubSectionName>
 		<UrlKey>powers-of-a-power-variable-bases</UrlKey>
 		<ResultsUrl>2001000793</ResultsUrl>
@@ -427,7 +427,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Exponents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>C.20 Checkpoint: Properties of exponents</SubSectionName>
 		<UrlKey>checkpoint-properties-of-exponents</UrlKey>
 		<ResultsUrl>2020039215</ResultsUrl>
@@ -519,7 +519,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Square Roots and Cube Roots</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>E.1 Square roots of perfect squares</SubSectionName>
 		<UrlKey>square-roots-of-perfect-squares</UrlKey>
 		<ResultsUrl>2001000695</ResultsUrl>
@@ -529,7 +529,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Square Roots and Cube Roots</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>E.2 Estimate positive square roots</SubSectionName>
 		<UrlKey>estimate-positive-square-roots</UrlKey>
 		<ResultsUrl>2020040432</ResultsUrl>
@@ -539,7 +539,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Square Roots and Cube Roots</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>E.3 Positive and negative square roots</SubSectionName>
 		<UrlKey>positive-and-negative-square-roots</UrlKey>
 		<ResultsUrl>2001000696</ResultsUrl>
@@ -549,7 +549,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Square Roots and Cube Roots</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>E.4 Estimate positive and negative square roots</SubSectionName>
 		<UrlKey>estimate-positive-and-negative-square-roots</UrlKey>
 		<ResultsUrl>2001000697</ResultsUrl>
@@ -559,7 +559,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Square Roots and Cube Roots</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>E.5 Relationship between squares and square roots</SubSectionName>
 		<UrlKey>relationship-between-squares-and-square-roots</UrlKey>
 		<ResultsUrl>2001000698</ResultsUrl>
@@ -569,7 +569,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Square Roots and Cube Roots</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>E.6 Solve equations using square roots</SubSectionName>
 		<UrlKey>solve-equations-using-square-roots</UrlKey>
 		<ResultsUrl>2001000759</ResultsUrl>
@@ -579,7 +579,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Square Roots and Cube Roots</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>E.7 Cube roots of positive perfect cubes</SubSectionName>
 		<UrlKey>cube-roots-of-positive-perfect-cubes</UrlKey>
 		<ResultsUrl>2001000700</ResultsUrl>
@@ -589,7 +589,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Square Roots and Cube Roots</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>E.8 Cube roots of positive and negative perfect cubes</SubSectionName>
 		<UrlKey>cube-roots-of-positive-and-negative-perfect-cubes</UrlKey>
 		<ResultsUrl>2020040454</ResultsUrl>
@@ -599,7 +599,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Square Roots and Cube Roots</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>E.9 Solve equations using cube roots</SubSectionName>
 		<UrlKey>solve-equations-using-cube-roots</UrlKey>
 		<ResultsUrl>2020006658</ResultsUrl>
@@ -609,7 +609,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Square Roots and Cube Roots</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>E.10 Estimate cube roots</SubSectionName>
 		<UrlKey>estimate-cube-roots</UrlKey>
 		<ResultsUrl>2001000701</ResultsUrl>
@@ -619,7 +619,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Square roots and cube roots</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>E.11 Checkpoint: Square and cube roots</SubSectionName>
 		<UrlKey>checkpoint-square-and-cube-roots</UrlKey>
 		<ResultsUrl>2020039214</ResultsUrl>
@@ -630,7 +630,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Rational and Irrational Numbers</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>F.1 Identify rational and irrational square roots</SubSectionName>
 		<UrlKey>identify-rational-and-irrational-square-roots</UrlKey>
 		<ResultsUrl>2020042273</ResultsUrl>
@@ -640,7 +640,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Rational and Irrational Numbers</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>F.2 Identify rational and irrational numbers</SubSectionName>
 		<UrlKey>identify-rational-and-irrational-numbers</UrlKey>
 		<ResultsUrl>2001000669</ResultsUrl>
@@ -650,7 +650,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Rational and Irrational Numbers</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>F.3 Classify numbers</SubSectionName>
 		<UrlKey>classify-numbers</UrlKey>
 		<ResultsUrl>2001000653</ResultsUrl>
@@ -660,7 +660,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Rational and Irrational Numbers</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>F.4 Irrational numbers on number lines</SubSectionName>
 		<UrlKey>irrational-numbers-on-number-lines</UrlKey>
 		<ResultsUrl>2020338717</ResultsUrl>
@@ -670,7 +670,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Rational and Irrational Numbers</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>F.5 Compare and order rational and irrational numbers</SubSectionName>
 		<UrlKey>compare-and-order-rational-and-irrational-numbers</UrlKey>
 		<ResultsUrl>2020978417</ResultsUrl>
@@ -680,7 +680,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Rational and irrational numbers</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>F.6 Checkpoint: Rational and irrational numbers</SubSectionName>
 		<UrlKey>checkpoint-rational-and-irrational-numbers</UrlKey>
 		<ResultsUrl>2020039194</ResultsUrl>
@@ -690,7 +690,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Rational and irrational numbers</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>F.7 Checkpoint: Approximate irrational numbers</SubSectionName>
 		<UrlKey>checkpoint-approximate-irrational-numbers</UrlKey>
 		<ResultsUrl>2020039270</ResultsUrl>
@@ -701,7 +701,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Proportions</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>G.1 Solve proportions</SubSectionName>
 		<UrlKey>solve-proportions</UrlKey>
 		<ResultsUrl>2001000714</ResultsUrl>
@@ -711,7 +711,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Proportions</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>G.2 Solve proportions: word problems</SubSectionName>
 		<UrlKey>solve-proportions-word-problems</UrlKey>
 		<ResultsUrl>2001000715</ResultsUrl>
@@ -721,7 +721,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Proportions</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>G.3 Estimate population size using proportions</SubSectionName>
 		<UrlKey>estimate-population-size-using-proportions</UrlKey>
 		<ResultsUrl>2001000716</ResultsUrl>
@@ -731,7 +731,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Proportions</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>G.4 Scale drawings: word problems</SubSectionName>
 		<UrlKey>scale-drawings-word-problems</UrlKey>
 		<ResultsUrl>2001000718</ResultsUrl>
@@ -741,7 +741,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Proportions</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>G.5 Scale drawings: scale factor word problems</SubSectionName>
 		<UrlKey>scale-drawings-scale-factor-word-problems</UrlKey>
 		<ResultsUrl>2020035737</ResultsUrl>
@@ -752,7 +752,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Percents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>H.1 Convert between percents, fractions, and decimals</SubSectionName>
 		<UrlKey>convert-between-percents-fractions-and-decimals</UrlKey>
 		<ResultsUrl>2001000726</ResultsUrl>
@@ -762,7 +762,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Percents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>H.2 Compare percents to fractions and decimals</SubSectionName>
 		<UrlKey>compare-percents-to-fractions-and-decimals</UrlKey>
 		<ResultsUrl>2001000727</ResultsUrl>
@@ -772,7 +772,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Percents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>H.3 Find what percent one number is of another</SubSectionName>
 		<UrlKey>find-what-percent-one-number-is-of-another</UrlKey>
 		<ResultsUrl>2001000728</ResultsUrl>
@@ -782,7 +782,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Percents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>H.4 Find what percent one number is of another: word problems</SubSectionName>
 		<UrlKey>find-what-percent-one-number-is-of-another-word-problems</UrlKey>
 		<ResultsUrl>2001000729</ResultsUrl>
@@ -792,7 +792,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Percents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>H.5 Estimate percents of numbers</SubSectionName>
 		<UrlKey>estimate-percents-of-numbers</UrlKey>
 		<ResultsUrl>2001000730</ResultsUrl>
@@ -802,7 +802,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Percents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>H.6 Percents of numbers and money amounts</SubSectionName>
 		<UrlKey>percents-of-numbers-and-money-amounts</UrlKey>
 		<ResultsUrl>2001000731</ResultsUrl>
@@ -812,7 +812,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Percents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>H.7 Percents of numbers: word problems</SubSectionName>
 		<UrlKey>percents-of-numbers-word-problems</UrlKey>
 		<ResultsUrl>2001000732</ResultsUrl>
@@ -822,7 +822,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Percents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>H.8 Compare percents of numbers</SubSectionName>
 		<UrlKey>compare-percents-of-numbers</UrlKey>
 		<ResultsUrl>2001000733</ResultsUrl>
@@ -832,7 +832,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Percents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>H.9 Solve percent equations</SubSectionName>
 		<UrlKey>solve-percent-equations</UrlKey>
 		<ResultsUrl>2001000734</ResultsUrl>
@@ -842,7 +842,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Percents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>H.10 Percent of change</SubSectionName>
 		<UrlKey>percent-of-change</UrlKey>
 		<ResultsUrl>2001000735</ResultsUrl>
@@ -852,7 +852,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Percents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>H.11 Percent of change: word problems</SubSectionName>
 		<UrlKey>percent-of-change-word-problems</UrlKey>
 		<ResultsUrl>2001000736</ResultsUrl>
@@ -862,7 +862,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Percents</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>H.12 Percent of change: find the original amount word problems</SubSectionName>
 		<UrlKey>percent-of-change-find-the-original-amount-word-problems</UrlKey>
 		<ResultsUrl>2020036031</ResultsUrl>
@@ -873,7 +873,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Consumer Math</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>I.1 Price lists</SubSectionName>
 		<UrlKey>price-lists</UrlKey>
 		<ResultsUrl>2001000737</ResultsUrl>
@@ -883,7 +883,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Consumer Math</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>I.2 Unit prices</SubSectionName>
 		<UrlKey>unit-prices</UrlKey>
 		<ResultsUrl>2001000738</ResultsUrl>
@@ -893,7 +893,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Consumer Math</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>I.3 Unit prices with unit conversions</SubSectionName>
 		<UrlKey>unit-prices-with-unit-conversions</UrlKey>
 		<ResultsUrl>2001000739</ResultsUrl>
@@ -903,7 +903,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Consumer Math</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>I.4 Unit prices: find the total price</SubSectionName>
 		<UrlKey>unit-prices-find-the-total-price</UrlKey>
 		<ResultsUrl>2001000740</ResultsUrl>
@@ -913,7 +913,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Consumer Math</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>I.5 Percent of a number: tax, discount, and more</SubSectionName>
 		<UrlKey>percent-of-a-number-tax-discount-and-more</UrlKey>
 		<ResultsUrl>2001000741</ResultsUrl>
@@ -923,7 +923,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Consumer Math</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>I.6 Find the percent: tax, discount, and more</SubSectionName>
 		<UrlKey>find-the-percent-tax-discount-and-more</UrlKey>
 		<ResultsUrl>2001000742</ResultsUrl>
@@ -933,7 +933,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Consumer Math</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>I.7 Sale prices: find the original price</SubSectionName>
 		<UrlKey>sale-prices-find-the-original-price</UrlKey>
 		<ResultsUrl>2001000743</ResultsUrl>
@@ -943,7 +943,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Consumer Math</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>I.8 Multi-step problems with percents</SubSectionName>
 		<UrlKey>multi-step-problems-with-percents</UrlKey>
 		<ResultsUrl>2001000744</ResultsUrl>
@@ -953,7 +953,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Consumer Math</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>I.9 Estimate tips</SubSectionName>
 		<UrlKey>estimate-tips</UrlKey>
 		<ResultsUrl>2001000745</ResultsUrl>
@@ -963,7 +963,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Consumer Math</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>I.10 Simple interest</SubSectionName>
 		<UrlKey>simple-interest</UrlKey>
 		<ResultsUrl>2001000746</ResultsUrl>
@@ -973,7 +973,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Consumer Math</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>I.11 Compound interest</SubSectionName>
 		<UrlKey>compound-interest</UrlKey>
 		<ResultsUrl>2001000901</ResultsUrl>
@@ -1691,7 +1691,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Two-Dimensional Figures</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>Q.1 Identify and classify polygons</SubSectionName>
 		<UrlKey>identify-and-classify-polygons</UrlKey>
 		<ResultsUrl>2001000810</ResultsUrl>
@@ -1701,7 +1701,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Two-Dimensional Figures</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>Q.2 Classify triangles</SubSectionName>
 		<UrlKey>classify-triangles</UrlKey>
 		<ResultsUrl>2001000807</ResultsUrl>
@@ -1711,7 +1711,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Two-Dimensional Figures</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>Q.3 Identify trapezoids</SubSectionName>
 		<UrlKey>identify-trapezoids</UrlKey>
 		<ResultsUrl>2020023627</ResultsUrl>
@@ -1721,7 +1721,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Two-Dimensional Figures</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>Q.4 Classify quadrilaterals I</SubSectionName>
 		<UrlKey>classify-quadrilaterals</UrlKey>
 		<ResultsUrl>2001000808</ResultsUrl>
@@ -1731,7 +1731,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Two-Dimensional Figures</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>Q.5 Classify quadrilaterals II</SubSectionName>
 		<UrlKey>classify-quadrilaterals-ii</UrlKey>
 		<ResultsUrl>2020035947</ResultsUrl>
@@ -1741,7 +1741,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Two-Dimensional Figures</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>Q.6 Graph triangles and quadrilaterals</SubSectionName>
 		<UrlKey>graph-triangles-and-quadrilaterals</UrlKey>
 		<ResultsUrl>2020019223</ResultsUrl>
@@ -1751,7 +1751,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Two-Dimensional Figures</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>Q.7 Find missing angles in triangles</SubSectionName>
 		<UrlKey>find-missing-angles-in-triangles</UrlKey>
 		<ResultsUrl>2001000809</ResultsUrl>
@@ -1761,7 +1761,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Two-Dimensional Figures</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>Q.8 Find missing angles in triangles using ratios</SubSectionName>
 		<UrlKey>find-missing-angles-in-triangles-using-ratios</UrlKey>
 		<ResultsUrl>2020035731</ResultsUrl>
@@ -1771,7 +1771,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Two-Dimensional Figures</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>Q.9 Triangle Angle-Sum Theorem</SubSectionName>
 		<UrlKey>triangle-angle-sum-theorem</UrlKey>
 		<ResultsUrl>2020040444</ResultsUrl>
@@ -1781,7 +1781,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Two-Dimensional Figures</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>Q.10 Find missing angles in quadrilaterals I</SubSectionName>
 		<UrlKey>find-missing-angles-in-quadrilaterals</UrlKey>
 		<ResultsUrl>2020019639</ResultsUrl>
@@ -1791,7 +1791,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Two-Dimensional Figures</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>Q.11 Find missing angles in quadrilaterals II</SubSectionName>
 		<UrlKey>find-missing-angles-in-quadrilaterals-ii</UrlKey>
 		<ResultsUrl>2020035950</ResultsUrl>
@@ -1801,7 +1801,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Two-Dimensional Figures</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>Q.12 Exterior Angle Theorem</SubSectionName>
 		<UrlKey>exterior-angle-theorem</UrlKey>
 		<ResultsUrl>2020000800</ResultsUrl>
@@ -1811,7 +1811,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Two-Dimensional Figures</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>Q.13 Interior angles of polygons</SubSectionName>
 		<UrlKey>interior-angles-of-polygons</UrlKey>
 		<ResultsUrl>2001000811</ResultsUrl>
@@ -1821,7 +1821,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Two-Dimensional Figures</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>Q.14 Parts of a circle</SubSectionName>
 		<UrlKey>parts-of-a-circle</UrlKey>
 		<ResultsUrl>2001000821</ResultsUrl>
@@ -1831,7 +1831,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Two-Dimensional Figures</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>Q.15 Checkpoint: Triangles and transversals</SubSectionName>
 		<UrlKey>checkpoint-triangles-and-transversals</UrlKey>
 		<ResultsUrl>2020039292</ResultsUrl>
@@ -2265,7 +2265,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Three-Dimensional Figures</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>U.1 Parts of three-dimensional figures</SubSectionName>
 		<UrlKey>parts-of-three-dimensional-figures</UrlKey>
 		<ResultsUrl>2001000827</ResultsUrl>
@@ -2275,7 +2275,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Three-Dimensional Figures</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>U.2 Nets of three-dimensional figures</SubSectionName>
 		<UrlKey>nets-of-three-dimensional-figures</UrlKey>
 		<ResultsUrl>2001000828</ResultsUrl>
@@ -2285,7 +2285,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Three-Dimensional Figures</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>U.3 Front, side, and top view</SubSectionName>
 		<UrlKey>front-side-and-top-view</UrlKey>
 		<ResultsUrl>2001000825</ResultsUrl>
@@ -2295,7 +2295,7 @@
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionName>Three-Dimensional Figures</SectionName>
-		<Enabled>0</Enabled>
+		<Enabled>1</Enabled>
 		<SubSectionName>U.4 Similar solids</SubSectionName>
 		<UrlKey>similar-solids</UrlKey>
 		<ResultsUrl>2001000834</ResultsUrl>

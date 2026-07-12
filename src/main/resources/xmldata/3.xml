@@ -3,13 +3,13 @@
 		<Id>1</Id>
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
-		<SectionId>A</SectionId>
-		<SectionName>Integers</SectionName>
+		<SectionId>G</SectionId>
+		<SectionName>Proportions</SectionName>
 		<Enabled>1</Enabled>
 		<SubSectionId>3</SubSectionId>
-		<SubSectionName>A.3 Add and subtract integers using counters</SubSectionName>
-		<UrlKey>add-and-subtract-integers-using-counters</UrlKey>
-		<ResultsUrl>2001000661</ResultsUrl>
+		<SubSectionName>G.3 Estimate population size using proportions</SubSectionName>
+		<UrlKey>estimate-population-size-using-proportions</UrlKey>
+		<ResultsUrl>2001000716</ResultsUrl>
 		<Verified>0</Verified>
 		<Status>0</Status>
 		<QuestionId>3</QuestionId>
@@ -20,13 +20,13 @@
 		<Id>2</Id>
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
-		<SectionId>A</SectionId>
-		<SectionName>Integers</SectionName>
+		<SectionId>Q</SectionId>
+		<SectionName>Two-Dimensional Figures</SectionName>
 		<Enabled>1</Enabled>
-		<SubSectionId>5</SubSectionId>
-		<SubSectionName>A.5 Add and subtract three or more integers</SubSectionName>
-		<UrlKey>add-and-subtract-three-or-more-integers</UrlKey>
-		<ResultsUrl>2001000663</ResultsUrl>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>Q.2 Classify triangles</SubSectionName>
+		<UrlKey>classify-triangles</UrlKey>
+		<ResultsUrl>2001000807</ResultsUrl>
 		<Verified>0</Verified>
 		<Status>0</Status>
 		<QuestionId>3</QuestionId>
@@ -35,57 +35,6 @@
 	</Question>
 	<Question>
 		<Id>3</Id>
-		<Subject>Math</Subject>
-		<Grade>8</Grade>
-		<SectionId>B</SectionId>
-		<SectionName>Rational Numbers</SectionName>
-		<Enabled>1</Enabled>
-		<SubSectionId>11</SubSectionId>
-		<SubSectionName>B.11 Apply multiplication and division rules</SubSectionName>
-		<UrlKey>apply-multiplication-and-division-rules</UrlKey>
-		<ResultsUrl>2020000186</ResultsUrl>
-		<Verified>0</Verified>
-		<Status>0</Status>
-		<QuestionId>3</QuestionId>
-		<SetValue></SetValue>
-		<QuestionName>Grade-8 Test A</QuestionName>
-	</Question>
-	<Question>
-		<Id>4</Id>
-		<Subject>Math</Subject>
-		<Grade>8</Grade>
-		<SectionId>A</SectionId>
-		<SectionName>Integers</SectionName>
-		<Enabled>1</Enabled>
-		<SubSectionId>7</SubSectionId>
-		<SubSectionName>A.7 Integer multiplication and division rules</SubSectionName>
-		<UrlKey>integer-multiplication-and-division-rules</UrlKey>
-		<ResultsUrl>2001000665</ResultsUrl>
-		<Verified>0</Verified>
-		<Status>0</Status>
-		<QuestionId>3</QuestionId>
-		<SetValue></SetValue>
-		<QuestionName>Grade-8 Test A</QuestionName>
-	</Question>
-	<Question>
-		<Id>5</Id>
-		<Subject>Math</Subject>
-		<Grade>8</Grade>
-		<SectionId>B</SectionId>
-		<SectionName>Rational Numbers</SectionName>
-		<Enabled>1</Enabled>
-		<SubSectionId>12</SubSectionId>
-		<SubSectionName>B.12 Apply addition, subtraction, multiplication, and division rules</SubSectionName>
-		<UrlKey>apply-addition-subtraction-multiplication-and-division-rules</UrlKey>
-		<ResultsUrl>2020000187</ResultsUrl>
-		<Verified>0</Verified>
-		<Status>0</Status>
-		<QuestionId>3</QuestionId>
-		<SetValue></SetValue>
-		<QuestionName>Grade-8 Test A</QuestionName>
-	</Question>
-	<Question>
-		<Id>6</Id>
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionId>A</SectionId>
@@ -102,16 +51,67 @@
 		<QuestionName>Grade-8 Test A</QuestionName>
 	</Question>
 	<Question>
-		<Id>7</Id>
+		<Id>4</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>B</SectionId>
+		<SectionName>Rational Numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>B.7 Add and subtract rational numbers: word problems</SubSectionName>
+		<UrlKey>add-and-subtract-rational-numbers-word-problems</UrlKey>
+		<ResultsUrl>2001000679</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>5</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>C</SectionId>
+		<SectionName>Exponents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>C.7 Evaluate powers with negative exponents</SubSectionName>
+		<UrlKey>evaluate-powers-with-negative-exponents</UrlKey>
+		<ResultsUrl>2001000690</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>6</Id>
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionId>A</SectionId>
 		<SectionName>Integers</SectionName>
 		<Enabled>1</Enabled>
-		<SubSectionId>1</SubSectionId>
-		<SubSectionName>A.1 Compare and order integers</SubSectionName>
-		<UrlKey>compare-and-order-integers</UrlKey>
-		<ResultsUrl>2001000658</ResultsUrl>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>A.7 Integer multiplication and division rules</SubSectionName>
+		<UrlKey>integer-multiplication-and-division-rules</UrlKey>
+		<ResultsUrl>2001000665</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>7</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>E</SectionId>
+		<SectionName>Square Roots and Cube Roots</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>E.6 Solve equations using square roots</SubSectionName>
+		<UrlKey>solve-equations-using-square-roots</UrlKey>
+		<ResultsUrl>2001000759</ResultsUrl>
 		<Verified>0</Verified>
 		<Status>0</Status>
 		<QuestionId>3</QuestionId>
@@ -120,6 +120,176 @@
 	</Question>
 	<Question>
 		<Id>8</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>A</SectionId>
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>A.6 Add and subtract integers: word problems</SubSectionName>
+		<UrlKey>add-and-subtract-integers-word-problems</UrlKey>
+		<ResultsUrl>2001000664</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>9</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>F</SectionId>
+		<SectionName>Rational and irrational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>F.6 Checkpoint: Rational and irrational numbers</SubSectionName>
+		<UrlKey>checkpoint-rational-and-irrational-numbers</UrlKey>
+		<ResultsUrl>2020039194</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>10</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>Q</SectionId>
+		<SectionName>Two-Dimensional Figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>Q.5 Classify quadrilaterals II</SubSectionName>
+		<UrlKey>classify-quadrilaterals-ii</UrlKey>
+		<ResultsUrl>2020035947</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>11</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>H.10 Percent of change</SubSectionName>
+		<UrlKey>percent-of-change</UrlKey>
+		<ResultsUrl>2001000735</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>12</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>U</SectionId>
+		<SectionName>Three-Dimensional Figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>U.3 Front, side, and top view</SubSectionName>
+		<UrlKey>front-side-and-top-view</UrlKey>
+		<ResultsUrl>2001000825</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>13</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>Q</SectionId>
+		<SectionName>Two-Dimensional Figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>Q.3 Identify trapezoids</SubSectionName>
+		<UrlKey>identify-trapezoids</UrlKey>
+		<ResultsUrl>2020023627</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>14</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>C</SectionId>
+		<SectionName>Exponents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>C.6 Understanding negative exponents</SubSectionName>
+		<UrlKey>understanding-negative-exponents</UrlKey>
+		<ResultsUrl>2001000689</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>15</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>C</SectionId>
+		<SectionName>Exponents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>C.1 Understanding exponents</SubSectionName>
+		<UrlKey>understanding-exponents</UrlKey>
+		<ResultsUrl>2001000684</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>16</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Consumer Math</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>I.2 Unit prices</SubSectionName>
+		<UrlKey>unit-prices</UrlKey>
+		<ResultsUrl>2001000738</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>17</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>H.1 Convert between percents, fractions, and decimals</SubSectionName>
+		<UrlKey>convert-between-percents-fractions-and-decimals</UrlKey>
+		<ResultsUrl>2001000726</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>18</Id>
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionId>A</SectionId>
@@ -136,16 +306,16 @@
 		<QuestionName>Grade-8 Test A</QuestionName>
 	</Question>
 	<Question>
-		<Id>9</Id>
+		<Id>19</Id>
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
-		<SectionId>B</SectionId>
-		<SectionName>Rational Numbers</SectionName>
+		<SectionId>C</SectionId>
+		<SectionName>Exponents</SectionName>
 		<Enabled>1</Enabled>
-		<SubSectionId>7</SubSectionId>
-		<SubSectionName>B.7 Add and subtract rational numbers: word problems</SubSectionName>
-		<UrlKey>add-and-subtract-rational-numbers-word-problems</UrlKey>
-		<ResultsUrl>2001000679</ResultsUrl>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>C.3 Solve equations with variable exponents</SubSectionName>
+		<UrlKey>solve-equations-with-variable-exponents</UrlKey>
+		<ResultsUrl>2001000686</ResultsUrl>
 		<Verified>0</Verified>
 		<Status>0</Status>
 		<QuestionId>3</QuestionId>
@@ -153,7 +323,41 @@
 		<QuestionName>Grade-8 Test A</QuestionName>
 	</Question>
 	<Question>
-		<Id>10</Id>
+		<Id>20</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Proportions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>G.1 Solve proportions</SubSectionName>
+		<UrlKey>solve-proportions</UrlKey>
+		<ResultsUrl>2001000714</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>21</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Consumer Math</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>I.6 Find the percent: tax, discount, and more</SubSectionName>
+		<UrlKey>find-the-percent-tax-discount-and-more</UrlKey>
+		<ResultsUrl>2001000742</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>22</Id>
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionId>B</SectionId>
@@ -170,143 +374,7 @@
 		<QuestionName>Grade-8 Test A</QuestionName>
 	</Question>
 	<Question>
-		<Id>11</Id>
-		<Subject>Math</Subject>
-		<Grade>8</Grade>
-		<SectionId>A</SectionId>
-		<SectionName>Integers</SectionName>
-		<Enabled>1</Enabled>
-		<SubSectionId>4</SubSectionId>
-		<SubSectionName>A.4 Add and subtract integers</SubSectionName>
-		<UrlKey>add-and-subtract-integers</UrlKey>
-		<ResultsUrl>2001000662</ResultsUrl>
-		<Verified>0</Verified>
-		<Status>0</Status>
-		<QuestionId>3</QuestionId>
-		<SetValue></SetValue>
-		<QuestionName>Grade-8 Test A</QuestionName>
-	</Question>
-	<Question>
-		<Id>12</Id>
-		<Subject>Math</Subject>
-		<Grade>8</Grade>
-		<SectionId>A</SectionId>
-		<SectionName>Integers</SectionName>
-		<Enabled>1</Enabled>
-		<SubSectionId>6</SubSectionId>
-		<SubSectionName>A.6 Add and subtract integers: word problems</SubSectionName>
-		<UrlKey>add-and-subtract-integers-word-problems</UrlKey>
-		<ResultsUrl>2001000664</ResultsUrl>
-		<Verified>0</Verified>
-		<Status>0</Status>
-		<QuestionId>3</QuestionId>
-		<SetValue></SetValue>
-		<QuestionName>Grade-8 Test A</QuestionName>
-	</Question>
-	<Question>
-		<Id>13</Id>
-		<Subject>Math</Subject>
-		<Grade>8</Grade>
-		<SectionId>A</SectionId>
-		<SectionName>Integers</SectionName>
-		<Enabled>1</Enabled>
-		<SubSectionId>2</SubSectionId>
-		<SubSectionName>A.2 Integer addition and subtraction rules</SubSectionName>
-		<UrlKey>integer-addition-and-subtraction-rules</UrlKey>
-		<ResultsUrl>2001000660</ResultsUrl>
-		<Verified>0</Verified>
-		<Status>0</Status>
-		<QuestionId>3</QuestionId>
-		<SetValue></SetValue>
-		<QuestionName>Grade-8 Test A</QuestionName>
-	</Question>
-	<Question>
-		<Id>14</Id>
-		<Subject>Math</Subject>
-		<Grade>8</Grade>
-		<SectionId>B</SectionId>
-		<SectionName>Rational Numbers</SectionName>
-		<Enabled>1</Enabled>
-		<SubSectionId>3</SubSectionId>
-		<SubSectionName>B.3 Compare rational numbers</SubSectionName>
-		<UrlKey>compare-rational-numbers</UrlKey>
-		<ResultsUrl>2001000675</ResultsUrl>
-		<Verified>0</Verified>
-		<Status>0</Status>
-		<QuestionId>3</QuestionId>
-		<SetValue></SetValue>
-		<QuestionName>Grade-8 Test A</QuestionName>
-	</Question>
-	<Question>
-		<Id>15</Id>
-		<Subject>Math</Subject>
-		<Grade>8</Grade>
-		<SectionId>B</SectionId>
-		<SectionName>Rational Numbers</SectionName>
-		<Enabled>1</Enabled>
-		<SubSectionId>8</SubSectionId>
-		<SubSectionName>B.8 Apply addition and subtraction rules</SubSectionName>
-		<UrlKey>apply-addition-and-subtraction-rules</UrlKey>
-		<ResultsUrl>2020000185</ResultsUrl>
-		<Verified>0</Verified>
-		<Status>0</Status>
-		<QuestionId>3</QuestionId>
-		<SetValue></SetValue>
-		<QuestionName>Grade-8 Test A</QuestionName>
-	</Question>
-	<Question>
-		<Id>16</Id>
-		<Subject>Math</Subject>
-		<Grade>8</Grade>
-		<SectionId>B</SectionId>
-		<SectionName>Rational Numbers</SectionName>
-		<Enabled>1</Enabled>
-		<SubSectionId>1</SubSectionId>
-		<SubSectionName>B.1 Convert between repeating decimals and fractions</SubSectionName>
-		<UrlKey>convert-between-repeating-decimals-and-fractions</UrlKey>
-		<ResultsUrl>2020040440</ResultsUrl>
-		<Verified>0</Verified>
-		<Status>0</Status>
-		<QuestionId>3</QuestionId>
-		<SetValue></SetValue>
-		<QuestionName>Grade-8 Test A</QuestionName>
-	</Question>
-	<Question>
-		<Id>17</Id>
-		<Subject>Math</Subject>
-		<Grade>8</Grade>
-		<SectionId>B</SectionId>
-		<SectionName>Rational Numbers</SectionName>
-		<Enabled>1</Enabled>
-		<SubSectionId>4</SubSectionId>
-		<SubSectionName>B.4 Put rational numbers in order</SubSectionName>
-		<UrlKey>put-rational-numbers-in-order</UrlKey>
-		<ResultsUrl>2001000676</ResultsUrl>
-		<Verified>0</Verified>
-		<Status>0</Status>
-		<QuestionId>3</QuestionId>
-		<SetValue></SetValue>
-		<QuestionName>Grade-8 Test A</QuestionName>
-	</Question>
-	<Question>
-		<Id>18</Id>
-		<Subject>Math</Subject>
-		<Grade>8</Grade>
-		<SectionId>B</SectionId>
-		<SectionName>Rational Numbers</SectionName>
-		<Enabled>1</Enabled>
-		<SubSectionId>10</SubSectionId>
-		<SubSectionName>B.10 Multiply and divide rational numbers: word problems</SubSectionName>
-		<UrlKey>multiply-and-divide-rational-numbers-word-problems</UrlKey>
-		<ResultsUrl>2001000681</ResultsUrl>
-		<Verified>0</Verified>
-		<Status>0</Status>
-		<QuestionId>3</QuestionId>
-		<SetValue></SetValue>
-		<QuestionName>Grade-8 Test A</QuestionName>
-	</Question>
-	<Question>
-		<Id>19</Id>
+		<Id>23</Id>
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionId>B</SectionId>
@@ -323,16 +391,16 @@
 		<QuestionName>Grade-8 Test A</QuestionName>
 	</Question>
 	<Question>
-		<Id>20</Id>
+		<Id>24</Id>
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
 		<SectionId>B</SectionId>
 		<SectionName>Rational Numbers</SectionName>
 		<Enabled>1</Enabled>
-		<SubSectionId>2</SubSectionId>
-		<SubSectionName>B.2 Convert between decimals and fractions or mixed numbers</SubSectionName>
-		<UrlKey>convert-between-decimals-and-fractions-or-mixed-numbers</UrlKey>
-		<ResultsUrl>2001000674</ResultsUrl>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>B.11 Apply multiplication and division rules</SubSectionName>
+		<UrlKey>apply-multiplication-and-division-rules</UrlKey>
+		<ResultsUrl>2020000186</ResultsUrl>
 		<Verified>0</Verified>
 		<Status>0</Status>
 		<QuestionId>3</QuestionId>
@@ -340,16 +408,50 @@
 		<QuestionName>Grade-8 Test A</QuestionName>
 	</Question>
 	<Question>
-		<Id>21</Id>
+		<Id>25</Id>
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
-		<SectionId>B</SectionId>
-		<SectionName>Rational Numbers</SectionName>
+		<SectionId>Q</SectionId>
+		<SectionName>Two-Dimensional Figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>Q.10 Find missing angles in quadrilaterals I</SubSectionName>
+		<UrlKey>find-missing-angles-in-quadrilaterals</UrlKey>
+		<ResultsUrl>2020019639</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>26</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>E</SectionId>
+		<SectionName>Square Roots and Cube Roots</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>E.1 Square roots of perfect squares</SubSectionName>
+		<UrlKey>square-roots-of-perfect-squares</UrlKey>
+		<ResultsUrl>2001000695</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>27</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Percents</SectionName>
 		<Enabled>1</Enabled>
 		<SubSectionId>9</SubSectionId>
-		<SubSectionName>B.9 Multiply and divide rational numbers</SubSectionName>
-		<UrlKey>multiply-and-divide-rational-numbers</UrlKey>
-		<ResultsUrl>2001000680</ResultsUrl>
+		<SubSectionName>H.9 Solve percent equations</SubSectionName>
+		<UrlKey>solve-percent-equations</UrlKey>
+		<ResultsUrl>2001000734</ResultsUrl>
 		<Verified>0</Verified>
 		<Status>0</Status>
 		<QuestionId>3</QuestionId>
@@ -357,16 +459,152 @@
 		<QuestionName>Grade-8 Test A</QuestionName>
 	</Question>
 	<Question>
-		<Id>22</Id>
+		<Id>28</Id>
 		<Subject>Math</Subject>
 		<Grade>8</Grade>
-		<SectionId>B</SectionId>
-		<SectionName>Rational Numbers</SectionName>
+		<SectionId>E</SectionId>
+		<SectionName>Square Roots and Cube Roots</SectionName>
 		<Enabled>1</Enabled>
-		<SubSectionId>6</SubSectionId>
-		<SubSectionName>B.6 Add and subtract rational numbers</SubSectionName>
-		<UrlKey>add-and-subtract-rational-numbers</UrlKey>
-		<ResultsUrl>2001000678</ResultsUrl>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>E.4 Estimate positive and negative square roots</SubSectionName>
+		<UrlKey>estimate-positive-and-negative-square-roots</UrlKey>
+		<ResultsUrl>2001000697</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>29</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>E</SectionId>
+		<SectionName>Square Roots and Cube Roots</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>E.3 Positive and negative square roots</SubSectionName>
+		<UrlKey>positive-and-negative-square-roots</UrlKey>
+		<ResultsUrl>2001000696</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>30</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Consumer Math</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>I.4 Unit prices: find the total price</SubSectionName>
+		<UrlKey>unit-prices-find-the-total-price</UrlKey>
+		<ResultsUrl>2001000740</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>31</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>H.8 Compare percents of numbers</SubSectionName>
+		<UrlKey>compare-percents-of-numbers</UrlKey>
+		<ResultsUrl>2001000733</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>32</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>12</SubSectionId>
+		<SubSectionName>H.12 Percent of change: find the original amount word problems</SubSectionName>
+		<UrlKey>percent-of-change-find-the-original-amount-word-problems</UrlKey>
+		<ResultsUrl>2020036031</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>33</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>H.2 Compare percents to fractions and decimals</SubSectionName>
+		<UrlKey>compare-percents-to-fractions-and-decimals</UrlKey>
+		<ResultsUrl>2001000727</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>34</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>H.4 Find what percent one number is of another: word problems</SubSectionName>
+		<UrlKey>find-what-percent-one-number-is-of-another-word-problems</UrlKey>
+		<ResultsUrl>2001000729</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>35</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Proportions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>G.5 Scale drawings: scale factor word problems</SubSectionName>
+		<UrlKey>scale-drawings-scale-factor-word-problems</UrlKey>
+		<ResultsUrl>2020035737</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>3</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-8 Test A</QuestionName>
+	</Question>
+	<Question>
+		<Id>36</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>H.3 Find what percent one number is of another</SubSectionName>
+		<UrlKey>find-what-percent-one-number-is-of-another</UrlKey>
+		<ResultsUrl>2001000728</ResultsUrl>
 		<Verified>0</Verified>
 		<Status>0</Status>
 		<QuestionId>3</QuestionId>
