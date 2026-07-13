@@ -28,11 +28,12 @@ import java.nio.file.Path;
 import java.nio.file.StandardOpenOption;
 import java.time.Duration;
 import java.time.LocalDateTime;
-import java.time.LocalTime;
 import java.util.*;
 import java.util.Map.Entry;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.function.Function;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 @Controller
@@ -790,8 +791,8 @@ public class IxlController {
 			e.printStackTrace();
 		}
 	}
-	
-	private Function<List<Question>, List<Question>> sortData = (List<Question> data) -> {
+
+	private Function<List<Question>, List<Question>> sortData1 = (List<Question> data) -> {
 		Map<String, List<Question>> groupBySubject = data.stream()
 				.collect(Collectors.groupingBy(Question::getSectionId));
 		List<String> sortedQuestions = groupBySubject.keySet().stream().sorted().collect(Collectors.toList());
@@ -807,7 +808,35 @@ public class IxlController {
 		});
 		return finalLines;
 	};
-	
+
+	// Define the pattern to separate numbers from letters (e.g., "12b" -> "12" and "b")
+	Pattern xyzPattern = Pattern.compile("^(\\d+)([a-zA-Z]*)$");
+
+	private Function<List<Question>, List<Question>> sortData = (List<Question> data) -> {
+		List<Question> sortedList = data.stream()
+				.sorted(Comparator.comparing((Question obj) -> obj.getSectionId().length())
+						.thenComparing(Question::getSectionId)
+						.thenComparing((obj1, obj2) -> {
+							Matcher m1 = xyzPattern.matcher(obj1.getSubSectionId());
+							Matcher m2 = xyzPattern.matcher(obj2.getSubSectionId());
+
+							if (m1.matches() && m2.matches()) {
+								// 1. Extract and compare the numeric prefixes as integers
+								int num1 = Integer.parseInt(m1.group(1));
+								int num2 = Integer.parseInt(m2.group(1));
+								int numCompare = Integer.compare(num1, num2);
+								if (numCompare != 0) return numCompare;
+
+								// 2. Break ties using the trailing letters alphabetically
+								return m1.group(2).compareTo(m2.group(2));
+							}
+							// Fallback to standard string sort if a value doesn't match the pattern
+							return obj1.getSubSectionId().compareTo(obj2.getSubSectionId());
+						}))
+				.collect(Collectors.toList());
+		return sortedList;
+	};
+
 	private List<Question> sortItems(List<Question> dataList, Integer totalQuestions) {
 		List<Question> finalItems = new ArrayList<Question>();
 		List<Integer> excludeList = new ArrayList<Integer>();
