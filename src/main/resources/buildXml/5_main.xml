@@ -1693,7 +1693,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Decimal place value</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>W.1 What decimal number is illustrated?</SubSectionName>
         <UrlKey>what-decimal-number-is-illustrated</UrlKey>
         <ResultsUrl>2000026235</ResultsUrl>
@@ -1703,7 +1703,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Decimal place value</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>W.2 Place value models for decimal numbers</SubSectionName>
         <UrlKey>place-value-models-for-decimal-numbers</UrlKey>
         <ResultsUrl>2020124817</ResultsUrl>
@@ -1713,7 +1713,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Decimal place value</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>W.3 Understanding decimals expressed in words</SubSectionName>
         <UrlKey>understanding-decimals-expressed-in-words</UrlKey>
         <ResultsUrl>2000026236</ResultsUrl>
@@ -1723,7 +1723,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Decimal place value</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>W.4 Place values in decimal numbers</SubSectionName>
         <UrlKey>place-values-in-decimal-numbers</UrlKey>
         <ResultsUrl>2000026237</ResultsUrl>
@@ -1733,7 +1733,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Decimal place value</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>W.5 Relationship between decimal place values</SubSectionName>
         <UrlKey>relationship-between-decimal-place-values</UrlKey>
         <ResultsUrl>2020038367</ResultsUrl>
@@ -1743,7 +1743,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Decimal place value</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>W.6 Convert decimals between standard and expanded form</SubSectionName>
         <UrlKey>convert-decimals-between-standard-and-expanded-form</UrlKey>
         <ResultsUrl>2007000614</ResultsUrl>
@@ -1753,7 +1753,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Decimal place value</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>W.7 Convert decimals between standard and expanded form using fractions</SubSectionName>
         <UrlKey>convert-decimals-between-standard-and-expanded-form-using-fractions</UrlKey>
         <ResultsUrl>2007000613</ResultsUrl>
@@ -1763,7 +1763,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Decimal place value</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>W.8 Compose and decompose decimals in multiple ways</SubSectionName>
         <UrlKey>compose-and-decompose-decimals-in-multiple-ways</UrlKey>
         <ResultsUrl>2020411217</ResultsUrl>
@@ -1773,7 +1773,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Decimal place value</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>W.9 Round decimals</SubSectionName>
         <UrlKey>round-decimals</UrlKey>
         <ResultsUrl>2000026239</ResultsUrl>
@@ -1783,7 +1783,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Decimal place value</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>W.10 Decimal number lines</SubSectionName>
         <UrlKey>decimal-number-lines</UrlKey>
         <ResultsUrl>2000026240</ResultsUrl>
@@ -1793,7 +1793,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Compare decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>X.1 Equivalent decimals</SubSectionName>
         <UrlKey>equivalent-decimals</UrlKey>
         <ResultsUrl>2000026238</ResultsUrl>
@@ -1803,7 +1803,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Compare decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>X.2 Compare decimals using grids</SubSectionName>
         <UrlKey>compare-decimals-using-grids</UrlKey>
         <ResultsUrl>2020038225</ResultsUrl>
@@ -1813,7 +1813,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Compare decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>X.3 Compare decimals on number lines</SubSectionName>
         <UrlKey>compare-decimals-on-number-lines</UrlKey>
         <ResultsUrl>2007001161</ResultsUrl>
@@ -1823,7 +1823,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Compare decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>X.4 Compare decimal numbers</SubSectionName>
         <UrlKey>compare-decimal-numbers</UrlKey>
         <ResultsUrl>2000026241</ResultsUrl>
@@ -1833,7 +1833,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Compare decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>X.4a Put decimal numbers in order using number lines</SubSectionName>
         <UrlKey>put-decimal-numbers-in-order-using-number-lines</UrlKey>
         <ResultsUrl>2021397817</ResultsUrl>
@@ -1843,7 +1843,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Compare decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>X.5 Put decimal numbers in order</SubSectionName>
         <UrlKey>put-decimal-numbers-in-order</UrlKey>
         <ResultsUrl>2000026242</ResultsUrl>
@@ -1853,7 +1853,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Compare decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>X.6 Compare, order, and round decimals: word problems</SubSectionName>
         <UrlKey>compare-order-and-round-decimals-word-problems</UrlKey>
         <ResultsUrl>2020039469</ResultsUrl>
@@ -1863,7 +1863,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Convert between decimals and fractions</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>Y.1 Model decimals and fractions</SubSectionName>
         <UrlKey>model-decimals-and-fractions</UrlKey>
         <ResultsUrl>2009005277</ResultsUrl>
@@ -1873,7 +1873,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Convert between decimals and fractions</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>Y.2 Convert fractions to decimals</SubSectionName>
         <UrlKey>convert-fractions-to-decimals-ii</UrlKey>
         <ResultsUrl>2020033252</ResultsUrl>
@@ -1883,7 +1883,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Convert between decimals and fractions</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>Y.3 Convert mixed numbers to decimals</SubSectionName>
         <UrlKey>convert-mixed-numbers-to-decimals</UrlKey>
         <ResultsUrl>2000026243</ResultsUrl>
@@ -1893,7 +1893,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Convert between decimals and fractions</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>Y.4 Convert decimals to fractions</SubSectionName>
         <UrlKey>convert-decimals-to-fractions-ii</UrlKey>
         <ResultsUrl>2020033260</ResultsUrl>
@@ -1903,7 +1903,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Convert between decimals and fractions</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>Y.5 Convert decimals to mixed numbers</SubSectionName>
         <UrlKey>convert-decimals-to-mixed-numbers</UrlKey>
         <ResultsUrl>2000026244</ResultsUrl>
@@ -1913,7 +1913,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Compare decimals and fractions</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>Z.1 Compare decimals and fractions on number lines</SubSectionName>
         <UrlKey>compare-decimals-and-fractions-on-number-lines</UrlKey>
         <ResultsUrl>2007001162</ResultsUrl>
@@ -1923,7 +1923,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Compare decimals and fractions</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>Z.2 Compare decimals and fractions</SubSectionName>
         <UrlKey>compare-decimals-and-fractions</UrlKey>
         <ResultsUrl>2000026245</ResultsUrl>
@@ -1933,7 +1933,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Compare decimals and fractions</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>Z.3 Put a mix of decimals and fractions in order</SubSectionName>
         <UrlKey>put-a-mix-of-decimals-and-fractions-in-order</UrlKey>
         <ResultsUrl>2020035632</ResultsUrl>
@@ -1943,7 +1943,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Compare decimals and fractions</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>Z.4 Put a mix of decimals, fractions, and mixed numbers in order</SubSectionName>
         <UrlKey>put-a-mix-of-decimals-fractions-and-mixed-numbers-in-order</UrlKey>
         <ResultsUrl>2000026247</ResultsUrl>
@@ -1953,7 +1953,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Add and subtract decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>AA.1 Add decimal numbers using blocks</SubSectionName>
         <UrlKey>add-decimal-numbers-using-blocks</UrlKey>
         <ResultsUrl>2020044553</ResultsUrl>
@@ -1963,7 +1963,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Add and subtract decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>AA.2 Add decimal numbers</SubSectionName>
         <UrlKey>add-decimal-numbers</UrlKey>
         <ResultsUrl>2007001091</ResultsUrl>
@@ -1973,7 +1973,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Add and subtract decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>AA.3 Use properties to add three decimals</SubSectionName>
         <UrlKey>use-properties-to-add-three-decimals</UrlKey>
         <ResultsUrl>2020967217</ResultsUrl>
@@ -1983,7 +1983,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Add and subtract decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>AA.4 Subtract decimal numbers using blocks</SubSectionName>
         <UrlKey>subtract-decimal-numbers-using-blocks</UrlKey>
         <ResultsUrl>2020447017</ResultsUrl>
@@ -1993,7 +1993,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Add and subtract decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>AA.5 Subtract decimal numbers</SubSectionName>
         <UrlKey>subtract-decimal-numbers</UrlKey>
         <ResultsUrl>2007001092</ResultsUrl>
@@ -2003,7 +2003,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Add and subtract decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>AA.6 Add and subtract decimal numbers</SubSectionName>
         <UrlKey>add-and-subtract-decimal-numbers</UrlKey>
         <ResultsUrl>2000026259</ResultsUrl>
@@ -2013,7 +2013,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Add and subtract decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>AA.7 Use compensation to add and subtract decimals</SubSectionName>
         <UrlKey>use-compensation-to-add-and-subtract-decimals</UrlKey>
         <ResultsUrl>2020964917</ResultsUrl>
@@ -2023,7 +2023,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Add and subtract decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>AA.8 Add and subtract decimals: word problems</SubSectionName>
         <UrlKey>add-and-subtract-decimals-word-problems</UrlKey>
         <ResultsUrl>2000026260</ResultsUrl>
@@ -2033,7 +2033,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Add and subtract decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>AA.9 Choose decimals with a particular sum or difference</SubSectionName>
         <UrlKey>choose-decimals-with-a-particular-sum-or-difference</UrlKey>
         <ResultsUrl>2000026261</ResultsUrl>
@@ -2043,7 +2043,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Add and subtract decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>AA.10 Complete the decimal addition or subtraction sentence</SubSectionName>
         <UrlKey>complete-the-decimal-addition-or-subtraction-sentence</UrlKey>
         <ResultsUrl>2000026262</ResultsUrl>
@@ -2053,7 +2053,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Add and subtract decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>AA.11 Compare sums and differences of decimals</SubSectionName>
         <UrlKey>compare-sums-and-differences-of-decimals</UrlKey>
         <ResultsUrl>2000026263</ResultsUrl>
@@ -2063,7 +2063,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Add and subtract decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>AA.12 Number sequences involving decimals</SubSectionName>
         <UrlKey>number-sequences-involving-decimals</UrlKey>
         <ResultsUrl>2007001090</ResultsUrl>
@@ -2073,7 +2073,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Add and subtract decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>AA.13 Estimate sums and differences of decimals using rounding</SubSectionName>
         <UrlKey>estimate-sums-and-differences-of-decimals-using-rounding</UrlKey>
         <ResultsUrl>2000026264</ResultsUrl>
@@ -2083,7 +2083,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Add and subtract decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>AA.14 Estimate sums and differences of decimals using benchmarks</SubSectionName>
         <UrlKey>estimate-sums-and-differences-of-decimals-using-benchmarks</UrlKey>
         <ResultsUrl>2020038032</ResultsUrl>
@@ -2093,7 +2093,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals by powers of ten</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>BB.1 Multiply a decimal by a power of ten</SubSectionName>
         <UrlKey>multiply-a-decimal-by-a-power-of-ten</UrlKey>
         <ResultsUrl>2000026286</ResultsUrl>
@@ -2103,7 +2103,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals by powers of ten</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>BB.2 Multiply a decimal by a power of ten: with exponents</SubSectionName>
         <UrlKey>multiply-a-decimal-by-a-power-of-ten-with-exponents</UrlKey>
         <ResultsUrl>2020039602</ResultsUrl>
@@ -2113,7 +2113,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals by powers of ten</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>BB.3 Multiply by 0.1 or 0.01</SubSectionName>
         <UrlKey>multiply-by-0-1-or-0-01</UrlKey>
         <ResultsUrl>2020044672</ResultsUrl>
@@ -2123,7 +2123,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals by powers of ten</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>BB.4 Multiply by a power of ten with decimals: find the missing number</SubSectionName>
         <UrlKey>multiply-by-a-power-of-ten-with-decimals-find-the-missing-number</UrlKey>
         <ResultsUrl>2020038464</ResultsUrl>
@@ -2133,7 +2133,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals by whole numbers</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>CC.1 Estimate products of whole numbers and decimals</SubSectionName>
         <UrlKey>estimate-products-of-whole-numbers-and-decimals</UrlKey>
         <ResultsUrl>2020038822</ResultsUrl>
@@ -2143,7 +2143,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals by whole numbers</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>CC.2 Multiply a decimal by a one-digit whole number: tenths or hundredths</SubSectionName>
         <UrlKey>multiply-a-decimal-by-a-one-digit-whole-number-tenths-or-hundredths</UrlKey>
         <ResultsUrl>2020914117</ResultsUrl>
@@ -2153,7 +2153,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals by whole numbers</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>CC.3 Multiply a decimal by a one-digit whole number using blocks</SubSectionName>
         <UrlKey>multiply-a-decimal-by-a-one-digit-whole-number-using-blocks</UrlKey>
         <ResultsUrl>2020038538</ResultsUrl>
@@ -2163,7 +2163,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals by whole numbers</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>CC.4 Multiply a decimal by a one-digit whole number using the distributive property</SubSectionName>
         <UrlKey>multiply-a-decimal-by-a-one-digit-whole-number-using-the-distributive-property</UrlKey>
         <ResultsUrl>2020038390</ResultsUrl>
@@ -2173,7 +2173,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals by whole numbers</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>CC.5 Multiply a decimal by a one-digit whole number</SubSectionName>
         <UrlKey>multiply-a-decimal-by-a-one-digit-whole-number</UrlKey>
         <ResultsUrl>2000026287</ResultsUrl>
@@ -2183,7 +2183,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals by whole numbers</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>CC.6 Multiply a decimal by a two-digit whole number using area models</SubSectionName>
         <UrlKey>multiply-a-decimal-by-a-two-digit-whole-number-using-area-models</UrlKey>
         <ResultsUrl>2020038876</ResultsUrl>
@@ -2193,7 +2193,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals by whole numbers</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>CC.7 Multiply a decimal by a multi-digit whole number</SubSectionName>
         <UrlKey>multiply-a-decimal-by-a-multi-digit-whole-number</UrlKey>
         <ResultsUrl>2000026288</ResultsUrl>
@@ -2203,7 +2203,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals by whole numbers</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>CC.8 Multiply decimals and whole numbers: word problems</SubSectionName>
         <UrlKey>multiply-decimals-and-whole-numbers-word-problems</UrlKey>
         <ResultsUrl>2000026289</ResultsUrl>
@@ -2213,7 +2213,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals by whole numbers</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>CC.9 Multiply three or more numbers, one of which is a decimal</SubSectionName>
         <UrlKey>multiply-three-or-more-numbers-one-of-which-is-a-decimal</UrlKey>
         <ResultsUrl>2000026291</ResultsUrl>
@@ -2223,7 +2223,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>DD.1 Estimate products of decimals</SubSectionName>
         <UrlKey>estimate-products-of-decimals</UrlKey>
         <ResultsUrl>2000026285</ResultsUrl>
@@ -2233,7 +2233,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>DD.2 Multiply decimals less than one using grids</SubSectionName>
         <UrlKey>multiply-decimals-less-than-one-using-grids</UrlKey>
         <ResultsUrl>2000026292</ResultsUrl>
@@ -2243,7 +2243,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>DD.3 Multiply decimals using grids</SubSectionName>
         <UrlKey>multiply-decimals-using-grids</UrlKey>
         <ResultsUrl>2020038643</ResultsUrl>
@@ -2253,7 +2253,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>DD.4 Multiply two decimals: where does the decimal point go?</SubSectionName>
         <UrlKey>multiply-two-decimals-where-does-the-decimal-point-go</UrlKey>
         <ResultsUrl>2020038150</ResultsUrl>
@@ -2263,7 +2263,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>DD.5 Multiply decimals using area models</SubSectionName>
         <UrlKey>multiply-decimals-using-area-models</UrlKey>
         <ResultsUrl>2020910417</ResultsUrl>
@@ -2273,7 +2273,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>DD.6 Multiply two decimals: products up to hundredths</SubSectionName>
         <UrlKey>multiply-two-decimals-products-up-to-hundredths</UrlKey>
         <ResultsUrl>2000026293</ResultsUrl>
@@ -2283,7 +2283,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>DD.7 Multiply two decimals: products up to thousandths</SubSectionName>
         <UrlKey>multiply-two-decimals-products-up-to-thousandths</UrlKey>
         <ResultsUrl>2020036041</ResultsUrl>
@@ -2293,7 +2293,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>DD.8 Decimal multiplication: compare products up to hundredths</SubSectionName>
         <UrlKey>decimal-multiplication-compare-products-up-to-hundredths</UrlKey>
         <ResultsUrl>2000026294</ResultsUrl>
@@ -2303,7 +2303,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Multiply decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>DD.9 Decimal multiplication: compare products up to thousandths</SubSectionName>
         <UrlKey>decimal-multiplication-compare-products-up-to-thousandths</UrlKey>
         <ResultsUrl>2020036042</ResultsUrl>
@@ -2313,7 +2313,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Divide decimals by powers of ten</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>EE.1 Divide by powers of ten</SubSectionName>
         <UrlKey>divide-by-powers-of-ten</UrlKey>
         <ResultsUrl>2000026325</ResultsUrl>
@@ -2323,7 +2323,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Divide decimals by powers of ten</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>EE.2 Decimal division patterns over increasing place values</SubSectionName>
         <UrlKey>decimal-division-patterns-over-increasing-place-values</UrlKey>
         <ResultsUrl>2000026326</ResultsUrl>
@@ -2333,7 +2333,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Divide decimals by powers of ten</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>EE.3 Divide by a power of ten: with exponents</SubSectionName>
         <UrlKey>divide-by-a-power-of-ten-with-exponents</UrlKey>
         <ResultsUrl>2020039609</ResultsUrl>
@@ -2343,7 +2343,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Divide decimals by powers of ten</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>EE.4 Multiply and divide by a power of ten: with exponents</SubSectionName>
         <UrlKey>multiply-and-divide-by-a-power-of-ten-with-exponents</UrlKey>
         <ResultsUrl>2020039611</ResultsUrl>
@@ -2353,7 +2353,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Divide decimals by powers of ten</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>EE.5 Divide by a power of ten with decimals: find the missing number</SubSectionName>
         <UrlKey>divide-by-a-power-of-ten-with-decimals-find-the-missing-number</UrlKey>
         <ResultsUrl>2020038463</ResultsUrl>
@@ -2363,7 +2363,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Divide decimals by powers of ten</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>EE.6 Divide by 0.1 or 0.01</SubSectionName>
         <UrlKey>divide-by-0-1-or-0-01</UrlKey>
         <ResultsUrl>2020044709</ResultsUrl>
@@ -2373,7 +2373,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Divide decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>FF.1 Estimate decimal quotients</SubSectionName>
         <UrlKey>estimate-decimal-quotients</UrlKey>
         <ResultsUrl>2020038315</ResultsUrl>
@@ -2383,7 +2383,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Divide decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>FF.2 Divide decimals using blocks: complete the equation</SubSectionName>
         <UrlKey>divide-decimals-using-blocks-complete-the-equation</UrlKey>
         <ResultsUrl>2020038934</ResultsUrl>
@@ -2393,7 +2393,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Divide decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>FF.3 Divide decimals using area models: complete the equation</SubSectionName>
         <UrlKey>divide-decimals-using-area-models-complete-the-equation</UrlKey>
         <ResultsUrl>2020038877</ResultsUrl>
@@ -2403,7 +2403,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Divide decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>FF.4 Divide decimals by whole numbers using place value</SubSectionName>
         <UrlKey>divide-decimals-by-whole-numbers-using-place-value</UrlKey>
         <ResultsUrl>2020975817</ResultsUrl>
@@ -2413,7 +2413,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Divide decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>FF.5 Divide decimals by whole numbers without adding zeros</SubSectionName>
         <UrlKey>divide-decimals-by-whole-numbers-without-adding-zeros</UrlKey>
         <ResultsUrl>2020925117</ResultsUrl>
@@ -2423,7 +2423,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Divide decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>FF.6 Division with decimal quotients</SubSectionName>
         <UrlKey>division-with-decimal-quotients</UrlKey>
         <ResultsUrl>2000026327</ResultsUrl>
@@ -2433,7 +2433,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Divide decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>FF.7 Division with decimal quotients and rounding</SubSectionName>
         <UrlKey>division-with-decimal-quotients-and-rounding</UrlKey>
         <ResultsUrl>2000026328</ResultsUrl>
@@ -2443,7 +2443,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Divide decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>FF.8 Division with decimal quotients: word problems</SubSectionName>
         <UrlKey>division-with-decimal-quotients-word-problems</UrlKey>
         <ResultsUrl>2000026329</ResultsUrl>
@@ -2453,7 +2453,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Divide decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>FF.9 Divide by decimals using place value</SubSectionName>
         <UrlKey>divide-by-decimals-using-place-value</UrlKey>
         <ResultsUrl>2020956617</ResultsUrl>
@@ -2463,7 +2463,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Divide decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>FF.10 Divide by decimals without adding zeros</SubSectionName>
         <UrlKey>divide-by-decimals-without-adding-zeros</UrlKey>
         <ResultsUrl>2020039206</ResultsUrl>
@@ -2473,7 +2473,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Divide decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>FF.11 Divide by decimals</SubSectionName>
         <UrlKey>divide-by-decimals</UrlKey>
         <ResultsUrl>2020036043</ResultsUrl>
@@ -2483,7 +2483,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Mixed operations: decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>GG.1 Add, subtract, multiply, and divide decimals</SubSectionName>
         <UrlKey>add-subtract-multiply-and-divide-decimals</UrlKey>
         <ResultsUrl>2001000364</ResultsUrl>
@@ -2493,7 +2493,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Mixed operations: decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>GG.2 Add, subtract, multiply, and divide decimals: word problems</SubSectionName>
         <UrlKey>add-subtract-multiply-and-divide-decimals-word-problems</UrlKey>
         <ResultsUrl>2001000365</ResultsUrl>
@@ -2503,7 +2503,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Mixed operations: decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>GG.3 Add, subtract, multiply, and divide decimals: multi-step word problems</SubSectionName>
         <UrlKey>add-subtract-multiply-and-divide-decimals-multi-step-word-problems</UrlKey>
         <ResultsUrl>2021311117</ResultsUrl>
@@ -2513,7 +2513,7 @@
         <Subject>Math</Subject>
         <Grade>5</Grade>
         <SectionName>Mixed operations: decimals</SectionName>
-        <Enabled>0</Enabled>
+        <Enabled>1</Enabled>
         <SubSectionName>GG.4 Equations with mixed operations: true or false</SubSectionName>
         <UrlKey>equations-with-mixed-operations-true-or-false</UrlKey>
         <ResultsUrl>2020044503</ResultsUrl>
