@@ -535,29 +535,60 @@ public class IxlController {
 		finalData.values().forEach(x -> {
 			try {
 				Question question = new Question();
-				List<Question> tempList = getQuestionListByStatusNew(x, 1);
-				List<Question> tempComplexList = getQuestionListByStatusNew(x, 0);
-				List<Question> tempCompletedList = getQuestionListByStatusNew(x, 2);
-				List<Question> tempPracticeList = getQuestionListByStatusNew(x, 3);
-				if (!tempComplexList.isEmpty()) {
-					question = tempComplexList.get(0);
-				} else if (!tempCompletedList.isEmpty()) {
-					question = tempCompletedList.get(0);
-				} else if (!tempList.isEmpty()) {
-					question = tempList.get(0);
+				boolean flag = true;
+				int size_1 = 0;
+				int size_0 = 0;
+				int size_2 = 0;
+				int size_3 = 0;
+				List<Question> tempList_1 = getQuestionListByStatusNew(x, 1);
+				if (!tempList_1.isEmpty()) {
+					if(flag) {
+						question = tempList_1.get(0);
+						flag = false;
+					}
+					size_1 = tempList_1.size();
 				}
-				if (!tempComplexList.isEmpty()) {
-					question.setTotalComplexQuestions(tempComplexList.size());
+
+				List<Question> tempComplexList_0 = getQuestionListByStatusNew(x, 0);
+				if (!tempComplexList_0.isEmpty()) {
+					if(flag) {
+						question = tempComplexList_0.get(0);
+						flag = false;
+					}
+					size_0 = tempComplexList_0.size();
 				}
-				if (!tempCompletedList.isEmpty()) {
-					question.setTotalCompletedQuestions(tempCompletedList.size());
+
+				List<Question> tempCompletedList_2 = getQuestionListByStatusNew(x, 2);
+				if (!tempCompletedList_2.isEmpty()) {
+					if(flag) {
+						question = tempCompletedList_2.get(0);
+						flag = false;
+					}
+					size_2 = tempCompletedList_2.size();
 				}
-				if (!tempList.isEmpty()) {
-					question.setTotalCurrentQuestions(tempList.size());
+
+				List<Question> tempPracticeList_3 = getQuestionListByStatusNew(x, 3);
+				if (!tempPracticeList_3.isEmpty()) {
+					if(flag) {
+						question = tempPracticeList_3.get(0);
+						flag = false;
+					}
+					size_3 = tempPracticeList_3.size();
 				}
-				if (!tempPracticeList.isEmpty()) {
-					question.setTotalPracticeQuestions(tempPracticeList.size());
+
+				if(size_1>0) {
+					question.setTotalCurrentQuestions(size_1);
 				}
+				if(size_0>0) {
+					question.setTotalComplexQuestions(size_0);
+				}
+				if(size_2>0) {
+					question.setTotalCompletedQuestions(size_2);
+				}
+				if(size_3>0) {
+					question.setTotalPracticeQuestions(size_3);
+				}
+
 				question.setQuestionId(x.getQuestionId());
 				question.setQuestionName(x.getQuestionName());
 				dataList.add(question);
