@@ -1,0 +1,801 @@
+<Questions>
+	<Question>
+		<Id>1</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Scientific notation</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>D.7 Checkpoint: Scientific notation</SubSectionName>
+		<UrlKey>checkpoint-scientific-notation</UrlKey>
+		<ResultsUrl>2020039236</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>2</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>F</SectionId>
+		<SectionName>Rational and Irrational Numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>F.3 Classify numbers</SubSectionName>
+		<UrlKey>classify-numbers</UrlKey>
+		<ResultsUrl>2001000653</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>3</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>W</SectionId>
+		<SectionName>Surface Area and Volume</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>W.5 Surface area of cylinders</SubSectionName>
+		<UrlKey>surface-area-of-cylinders</UrlKey>
+		<ResultsUrl>2001000830</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>4</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>W</SectionId>
+		<SectionName>Surface Area and Volume</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>W.10 Checkpoint: Volume</SubSectionName>
+		<UrlKey>checkpoint-volume</UrlKey>
+		<ResultsUrl>2020039243</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>5</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>X</SectionId>
+		<SectionName>Proportional Relationships</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>X.1 Find the constant of proportionality from a table</SubSectionName>
+		<UrlKey>find-the-constant-of-proportionality-from-a-table</UrlKey>
+		<ResultsUrl>2020006553</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>6</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>HH</SectionId>
+		<SectionName>One-Variable Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>HH.4 Changes in mean, median, mode, and range</SubSectionName>
+		<UrlKey>changes-in-mean-median-mode-and-range</UrlKey>
+		<ResultsUrl>2001000897</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>7</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>Y</SectionId>
+		<SectionName>Direct Variation</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>Y.2 Identify direct variation</SubSectionName>
+		<UrlKey>identify-direct-variation</UrlKey>
+		<ResultsUrl>2020073917</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>8</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Proportions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>G.4 Scale drawings: word problems</SubSectionName>
+		<UrlKey>scale-drawings-word-problems</UrlKey>
+		<ResultsUrl>2001000718</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>9</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>W</SectionId>
+		<SectionName>Surface Area and Volume</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>W.11 Checkpoint: Surface area of prisms and cylinders</SubSectionName>
+		<UrlKey>checkpoint-surface-area-of-prisms-and-cylinders</UrlKey>
+		<ResultsUrl>2020852217</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>10</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>EE</SectionId>
+		<SectionName>Interpret Functions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>EE.2 Rate of change: graphs</SubSectionName>
+		<UrlKey>rate-of-change-graphs</UrlKey>
+		<ResultsUrl>2020034588</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>11</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Nonlinear Functions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>DD.3 Is (x, y) a solution to the nonlinear equation?</SubSectionName>
+		<UrlKey>is-x-y-a-solution-to-the-nonlinear-equation</UrlKey>
+		<ResultsUrl>2001000777</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>12</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>GG</SectionId>
+		<SectionName>Systems of Equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>GG.8 Solve a system of equations using substitution</SubSectionName>
+		<UrlKey>solve-a-system-of-equations-using-substitution</UrlKey>
+		<ResultsUrl>2002025912</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>13</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>HH</SectionId>
+		<SectionName>One-Variable Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>HH.5 Calculate mean absolute deviation</SubSectionName>
+		<UrlKey>calculate-mean-absolute-deviation</UrlKey>
+		<ResultsUrl>2020043352</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>14</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Scientific Notation</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>D.6 Divide numbers written in scientific notation</SubSectionName>
+		<UrlKey>divide-numbers-written-in-scientific-notation</UrlKey>
+		<ResultsUrl>2001000706</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>15</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>R</SectionId>
+		<SectionName>Transformations and Congruence</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>R.4 Translations: find the coordinates</SubSectionName>
+		<UrlKey>translations-find-the-coordinates</UrlKey>
+		<ResultsUrl>2001000838</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>16</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>W</SectionId>
+		<SectionName>Surface Area and Volume</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>W.4 Volume of cones</SubSectionName>
+		<UrlKey>volume-of-cones</UrlKey>
+		<ResultsUrl>2020024696</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>17</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>B</SectionId>
+		<SectionName>Rational Numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>B.1 Convert between repeating decimals and fractions</SubSectionName>
+		<UrlKey>convert-between-repeating-decimals-and-fractions</UrlKey>
+		<ResultsUrl>2020040440</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>18</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>C</SectionId>
+		<SectionName>Exponents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>C.1 Understanding exponents</SubSectionName>
+		<UrlKey>understanding-exponents</UrlKey>
+		<ResultsUrl>2001000684</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>19</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>S</SectionId>
+		<SectionName>Transformations and Similarity</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4a</SubSectionId>
+		<SubSectionName>S.4a Dilations: write the rule</SubSectionName>
+		<UrlKey>dilations-write-the-rule</UrlKey>
+		<ResultsUrl>2021656217</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>20</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>R</SectionId>
+		<SectionName>Transformations and Congruence</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>17</SubSectionId>
+		<SubSectionName>R.17 Congruence statements and corresponding parts</SubSectionName>
+		<UrlKey>congruence-statements-and-corresponding-parts</UrlKey>
+		<ResultsUrl>2001000816</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>21</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>V</SectionId>
+		<SectionName>Perimeter and Area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>V.4 Area and circumference of circles</SubSectionName>
+		<UrlKey>area-and-circumference-of-circles</UrlKey>
+		<ResultsUrl>2001000822</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>22</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Consumer Math</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>I.10 Simple interest</SubSectionName>
+		<UrlKey>simple-interest</UrlKey>
+		<ResultsUrl>2001000746</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>23</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>B</SectionId>
+		<SectionName>Rational Numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>B.2 Convert between decimals and fractions or mixed numbers</SubSectionName>
+		<UrlKey>convert-between-decimals-and-fractions-or-mixed-numbers</UrlKey>
+		<ResultsUrl>2001000674</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>24</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>X</SectionId>
+		<SectionName>Proportional Relationships</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>12</SubSectionId>
+		<SubSectionName>X.12 Compare proportional relationships represented in different ways</SubSectionName>
+		<UrlKey>compare-proportional-relationships-represented-in-different-ways</UrlKey>
+		<ResultsUrl>2020742817</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>25</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Two-Variable Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>12</SubSectionId>
+		<SubSectionName>II.12 Checkpoint: Scatter plots</SubSectionName>
+		<UrlKey>checkpoint-scatter-plots</UrlKey>
+		<ResultsUrl>2020039291</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>26</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>H.8 Compare percents of numbers</SubSectionName>
+		<UrlKey>compare-percents-of-numbers</UrlKey>
+		<ResultsUrl>2001000733</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>27</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>GG</SectionId>
+		<SectionName>Systems of Equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>GG.11 Solve a system of equations using elimination: word problems</SubSectionName>
+		<UrlKey>solve-a-system-of-equations-using-elimination-word-problems</UrlKey>
+		<ResultsUrl>2002025906</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>28</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Two-Variable Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>II.6 Make predictions with scatter plots</SubSectionName>
+		<UrlKey>make-predictions-with-scatter-plots</UrlKey>
+		<ResultsUrl>2020035847</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>29</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>Q</SectionId>
+		<SectionName>Two-Dimensional Figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>Q.3 Identify trapezoids</SubSectionName>
+		<UrlKey>identify-trapezoids</UrlKey>
+		<ResultsUrl>2020023627</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>30</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Two-Variable Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>II.8 Identify lines of best fit</SubSectionName>
+		<UrlKey>identify-lines-of-best-fit</UrlKey>
+		<ResultsUrl>2020291317</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>31</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>C</SectionId>
+		<SectionName>Exponents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>C.6 Understanding negative exponents</SubSectionName>
+		<UrlKey>understanding-negative-exponents</UrlKey>
+		<ResultsUrl>2001000689</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>32</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>P</SectionId>
+		<SectionName>Lines and Angles</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>P.3 Write and solve equations using angle relationships</SubSectionName>
+		<UrlKey>write-and-solve-equations-using-angle-relationships</UrlKey>
+		<ResultsUrl>2020399617</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>33</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>FF</SectionId>
+		<SectionName>Sequences</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>FF.6 Evaluate variable expressions for sequences</SubSectionName>
+		<UrlKey>evaluate-variable-expressions-for-sequences</UrlKey>
+		<ResultsUrl>2001000868</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>34</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>G</SectionId>
+		<SectionName>Proportions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>G.5 Scale drawings: scale factor word problems</SubSectionName>
+		<UrlKey>scale-drawings-scale-factor-word-problems</UrlKey>
+		<ResultsUrl>2020035737</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>35</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>A</SectionId>
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>A.1 Compare and order integers</SubSectionName>
+		<UrlKey>compare-and-order-integers</UrlKey>
+		<ResultsUrl>2001000658</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>36</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>W</SectionId>
+		<SectionName>Surface Area and Volume</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>W.9 Volume and surface area of similar solids</SubSectionName>
+		<UrlKey>volume-and-surface-area-of-similar-solids</UrlKey>
+		<ResultsUrl>2001000903</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>37</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>HH</SectionId>
+		<SectionName>One-Variable Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>HH.9 Identify an outlier and describe the effect of removing it</SubSectionName>
+		<UrlKey>identify-an-outlier-and-describe-the-effect-of-removing-it</UrlKey>
+		<ResultsUrl>2020006880</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>38</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Scientific Notation</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>D.1 Convert between standard and scientific notation</SubSectionName>
+		<UrlKey>convert-between-standard-and-scientific-notation</UrlKey>
+		<ResultsUrl>2001000703</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>39</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>C</SectionId>
+		<SectionName>Exponents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>C.2 Evaluate powers</SubSectionName>
+		<UrlKey>evaluate-powers</UrlKey>
+		<ResultsUrl>2001000685</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>40</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>E</SectionId>
+		<SectionName>Square Roots and Cube Roots</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>E.4 Estimate positive and negative square roots</SubSectionName>
+		<UrlKey>estimate-positive-and-negative-square-roots</UrlKey>
+		<ResultsUrl>2001000697</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>41</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>Q</SectionId>
+		<SectionName>Two-Dimensional Figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>Q.2 Classify triangles</SubSectionName>
+		<UrlKey>classify-triangles</UrlKey>
+		<ResultsUrl>2001000807</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>42</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Nonlinear Functions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>DD.2 Identify linear and nonlinear functions: tables</SubSectionName>
+		<UrlKey>identify-linear-and-nonlinear-functions-tables</UrlKey>
+		<ResultsUrl>2020035848</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>43</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>A</SectionId>
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>A.4 Add and subtract integers</SubSectionName>
+		<UrlKey>add-and-subtract-integers</UrlKey>
+		<ResultsUrl>2001000662</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>44</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>S</SectionId>
+		<SectionName>Transformations and Similarity</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>S.7 Side lengths and angle measures of similar triangles</SubSectionName>
+		<UrlKey>side-lengths-and-angle-measures-of-similar-triangles</UrlKey>
+		<ResultsUrl>2020040445</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>45</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>GG</SectionId>
+		<SectionName>Systems of Equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>GG.3 Solve a system of equations by graphing: word problems</SubSectionName>
+		<UrlKey>solve-a-system-of-equations-by-graphing-word-problems</UrlKey>
+		<ResultsUrl>2002025904</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>46</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>HH</SectionId>
+		<SectionName>One-Variable Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>HH.7 Box plots</SubSectionName>
+		<UrlKey>box-plots</UrlKey>
+		<ResultsUrl>2001000858</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+	<Question>
+		<Id>47</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>Q</SectionId>
+		<SectionName>Two-Dimensional Figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>Q.5 Classify quadrilaterals II</SubSectionName>
+		<UrlKey>classify-quadrilaterals-ii</UrlKey>
+		<ResultsUrl>2020035947</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>10</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter B</QuestionName>
+	</Question>
+</Questions>

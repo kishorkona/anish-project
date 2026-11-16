@@ -1,0 +1,801 @@
+<Questions>
+	<Question>
+		<Id>1</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>P</SectionId>
+		<SectionName>Lines and Angles</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>P.2 Find measures of complementary, supplementary, vertical, and adjacent angles</SubSectionName>
+		<UrlKey>find-measures-of-complementary-supplementary-vertical-and-adjacent-angles</UrlKey>
+		<ResultsUrl>2001000805</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>2</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>H.7 Percents of numbers: word problems</SubSectionName>
+		<UrlKey>percents-of-numbers-word-problems</UrlKey>
+		<ResultsUrl>2001000732</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>3</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>AA</SectionId>
+		<SectionName>Linear Equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>AA.5 Graph a line from an equation in point-slope form</SubSectionName>
+		<UrlKey>graph-a-line-from-an-equation-in-point-slope-form</UrlKey>
+		<ResultsUrl>2020040437</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>4</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>B</SectionId>
+		<SectionName>Rational Numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>B.7 Add and subtract rational numbers: word problems</SubSectionName>
+		<UrlKey>add-and-subtract-rational-numbers-word-problems</UrlKey>
+		<ResultsUrl>2001000679</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>5</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>R</SectionId>
+		<SectionName>Transformations and Congruence</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>18</SubSectionId>
+		<SubSectionName>R.18 Determine if two figures are congruent: justify your answer</SubSectionName>
+		<UrlKey>determine-if-two-figures-are-congruent-justify-your-answer</UrlKey>
+		<ResultsUrl>2020900017</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>6</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>V</SectionId>
+		<SectionName>Perimeter and Area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>V.3 Area and perimeter: word problems</SubSectionName>
+		<UrlKey>area-and-perimeter-word-problems</UrlKey>
+		<ResultsUrl>2001000820</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>7</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Two-Variable Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>II.5 Identify trends with scatter plots</SubSectionName>
+		<UrlKey>identify-trends-with-scatter-plots</UrlKey>
+		<ResultsUrl>2001000859</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>8</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>H</SectionId>
+		<SectionName>Percents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>H.5 Estimate percents of numbers</SubSectionName>
+		<UrlKey>estimate-percents-of-numbers</UrlKey>
+		<ResultsUrl>2001000730</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>9</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>B</SectionId>
+		<SectionName>Rational Numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>B.6 Add and subtract rational numbers</SubSectionName>
+		<UrlKey>add-and-subtract-rational-numbers</UrlKey>
+		<ResultsUrl>2001000678</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>10</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>V</SectionId>
+		<SectionName>Perimeter and Area</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>V.2 Area</SubSectionName>
+		<UrlKey>area</UrlKey>
+		<ResultsUrl>2001000819</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>11</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>S</SectionId>
+		<SectionName>Transformations and Similarity</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>S.1 Similar and congruent figures</SubSectionName>
+		<UrlKey>similar-and-congruent-figures</UrlKey>
+		<ResultsUrl>2001000812</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>12</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>Q</SectionId>
+		<SectionName>Two-Dimensional Figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>Q.10 Find missing angles in quadrilaterals I</SubSectionName>
+		<UrlKey>find-missing-angles-in-quadrilaterals</UrlKey>
+		<ResultsUrl>2020019639</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>13</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>S</SectionId>
+		<SectionName>Transformations and Similarity</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>S.11 Find missing side lengths in proportional triangles</SubSectionName>
+		<UrlKey>find-missing-side-lengths-in-proportional-triangles</UrlKey>
+		<ResultsUrl>2020040447</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>14</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>R</SectionId>
+		<SectionName>Transformations and Congruence</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>19</SubSectionId>
+		<SubSectionName>R.19 Side lengths and angle measures of congruent figures</SubSectionName>
+		<UrlKey>side-lengths-and-angle-measures-of-congruent-figures</UrlKey>
+		<ResultsUrl>2001000815</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>15</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>R</SectionId>
+		<SectionName>Transformations and Congruence</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>R.7 Reflections over the x- and y-axes: find the coordinates</SubSectionName>
+		<UrlKey>reflections-over-the-x-and-y-axes-find-the-coordinates</UrlKey>
+		<ResultsUrl>2020035722</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>16</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>R</SectionId>
+		<SectionName>Transformations and Congruence</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>R.8 Reflections: graph the image</SubSectionName>
+		<UrlKey>reflections-graph-the-image</UrlKey>
+		<ResultsUrl>2001000839</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>17</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>F</SectionId>
+		<SectionName>Rational and Irrational Numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>F.5 Compare and order rational and irrational numbers</SubSectionName>
+		<UrlKey>compare-and-order-rational-and-irrational-numbers</UrlKey>
+		<ResultsUrl>2020978417</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>18</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>Q</SectionId>
+		<SectionName>Two-Dimensional Figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>Q.7 Find missing angles in triangles</SubSectionName>
+		<UrlKey>find-missing-angles-in-triangles</UrlKey>
+		<ResultsUrl>2001000809</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>19</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>S</SectionId>
+		<SectionName>Transformations and Similarity</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>S.3 Dilations: find the coordinates</SubSectionName>
+		<UrlKey>dilations-find-the-coordinates</UrlKey>
+		<ResultsUrl>2001000844</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>20</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>AA</SectionId>
+		<SectionName>Linear Equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>AA.3 Slope-intercept form: find the slope and y-intercept</SubSectionName>
+		<UrlKey>slope-intercept-form-find-the-slope-and-y-intercept</UrlKey>
+		<ResultsUrl>2001000773</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>21</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>F</SectionId>
+		<SectionName>Rational and irrational numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>F.7 Checkpoint: Approximate irrational numbers</SubSectionName>
+		<UrlKey>checkpoint-approximate-irrational-numbers</UrlKey>
+		<ResultsUrl>2020039270</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>22</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>FF</SectionId>
+		<SectionName>Sequences</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>FF.4 Sequences: mixed review</SubSectionName>
+		<UrlKey>sequences-mixed-review</UrlKey>
+		<ResultsUrl>2001000866</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>23</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>AA</SectionId>
+		<SectionName>Linear Equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>AA.2 Relate the graph of an equation to its solutions</SubSectionName>
+		<UrlKey>relate-the-graph-of-an-equation-to-its-solutions</UrlKey>
+		<ResultsUrl>2020106717</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>24</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>JJ</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>JJ.3 Experimental probability</SubSectionName>
+		<UrlKey>experimental-probability</UrlKey>
+		<ResultsUrl>2001000885</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>25</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>Q</SectionId>
+		<SectionName>Two-Dimensional Figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>Q.11 Find missing angles in quadrilaterals II</SubSectionName>
+		<UrlKey>find-missing-angles-in-quadrilaterals-ii</UrlKey>
+		<ResultsUrl>2020035950</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>26</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>EE</SectionId>
+		<SectionName>Interpret Functions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>EE.3 Identify graphs: word problems</SubSectionName>
+		<UrlKey>identify-graphs-word-problems</UrlKey>
+		<ResultsUrl>2020568517</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>27</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>JJ</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>JJ.2 Probability of opposite, mutually exclusive, and overlapping events</SubSectionName>
+		<UrlKey>probability-of-opposite-mutually-exclusive-and-overlapping-events</UrlKey>
+		<ResultsUrl>2001000884</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>28</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Two-Variable Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>II.10 Interpret lines of best fit: word problems</SubSectionName>
+		<UrlKey>interpret-lines-of-best-fit-word-problems</UrlKey>
+		<ResultsUrl>2020752717</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>29</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>A</SectionId>
+		<SectionName>Integers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>A.8 Multiply and divide integers</SubSectionName>
+		<UrlKey>multiply-and-divide-integers</UrlKey>
+		<ResultsUrl>2001000666</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>30</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>X</SectionId>
+		<SectionName>Proportional Relationships</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>X.4 Find the constant of proportionality from a graph</SubSectionName>
+		<UrlKey>find-the-constant-of-proportionality-from-a-graph</UrlKey>
+		<ResultsUrl>2001000721</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>31</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>B</SectionId>
+		<SectionName>Rational Numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>B.9 Multiply and divide rational numbers</SubSectionName>
+		<UrlKey>multiply-and-divide-rational-numbers</UrlKey>
+		<ResultsUrl>2001000680</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>32</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>I</SectionId>
+		<SectionName>Consumer Math</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>I.3 Unit prices with unit conversions</SubSectionName>
+		<UrlKey>unit-prices-with-unit-conversions</UrlKey>
+		<ResultsUrl>2001000739</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>33</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>GG</SectionId>
+		<SectionName>Systems of Equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>13</SubSectionId>
+		<SubSectionName>GG.13 Solve a system of equations using any method: word problems</SubSectionName>
+		<UrlKey>solve-a-system-of-equations-using-any-method-word-problems</UrlKey>
+		<ResultsUrl>2020040438</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue>1</SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>34</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Two-Variable Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>II.9 Write equations for lines of best fit</SubSectionName>
+		<UrlKey>write-equations-for-lines-of-best-fit</UrlKey>
+		<ResultsUrl>2020019600</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>35</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>JJ</SectionId>
+		<SectionName>Probability</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>JJ.6 Compound events: find the number of outcomes</SubSectionName>
+		<UrlKey>compound-events-find-the-number-of-outcomes</UrlKey>
+		<ResultsUrl>2001000887</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>36</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>Q</SectionId>
+		<SectionName>Two-Dimensional Figures</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>Q.1 Identify and classify polygons</SubSectionName>
+		<UrlKey>identify-and-classify-polygons</UrlKey>
+		<ResultsUrl>2001000810</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>37</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>C</SectionId>
+		<SectionName>Exponents</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>C.7 Evaluate powers with negative exponents</SubSectionName>
+		<UrlKey>evaluate-powers-with-negative-exponents</UrlKey>
+		<ResultsUrl>2001000690</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>38</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>X</SectionId>
+		<SectionName>Proportional Relationships</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>X.7 Identify proportional relationships from tables</SubSectionName>
+		<UrlKey>identify-proportional-relationships-from-tables</UrlKey>
+		<ResultsUrl>2020035953</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>39</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>R</SectionId>
+		<SectionName>Transformations and Congruence</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>R.1 Identify reflections, rotations, and translations</SubSectionName>
+		<UrlKey>identify-reflections-rotations-and-translations</UrlKey>
+		<ResultsUrl>2001000836</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>40</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>R</SectionId>
+		<SectionName>Transformations and Congruence</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>20</SubSectionId>
+		<SubSectionName>R.20 Checkpoint: Congruence transformations</SubSectionName>
+		<UrlKey>checkpoint-congruence-transformations</UrlKey>
+		<ResultsUrl>2020039238</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>41</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>GG</SectionId>
+		<SectionName>Systems of Equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>GG.4 Find the number of solutions to a system of equations by graphing</SubSectionName>
+		<UrlKey>find-the-number-of-solutions-to-a-system-of-equations-by-graphing</UrlKey>
+		<ResultsUrl>2002025908</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>42</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>AA</SectionId>
+		<SectionName>Linear Equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>AA.7 Write a linear equation from a graph</SubSectionName>
+		<UrlKey>write-a-linear-equation-from-a-graph</UrlKey>
+		<ResultsUrl>2020000875</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>43</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>HH</SectionId>
+		<SectionName>One-Variable Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>HH.6 Calculate quartiles and interquartile range</SubSectionName>
+		<UrlKey>calculate-quartiles-and-interquartile-range</UrlKey>
+		<ResultsUrl>2001000898</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>44</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>E</SectionId>
+		<SectionName>Square Roots and Cube Roots</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>E.5 Relationship between squares and square roots</SubSectionName>
+		<UrlKey>relationship-between-squares-and-square-roots</UrlKey>
+		<ResultsUrl>2001000698</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>45</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>II</SectionId>
+		<SectionName>Two-Variable Statistics</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>II.4 Create scatter plots</SubSectionName>
+		<UrlKey>create-scatter-plots</UrlKey>
+		<ResultsUrl>2020039268</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>46</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>GG</SectionId>
+		<SectionName>Systems of Equations</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>GG.5 Find the number of solutions to a system of equations</SubSectionName>
+		<UrlKey>find-the-number-of-solutions-to-a-system-of-equations</UrlKey>
+		<ResultsUrl>2002025909</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+	<Question>
+		<Id>47</Id>
+		<Subject>Math</Subject>
+		<Grade>8</Grade>
+		<SectionId>Y</SectionId>
+		<SectionName>Direct Variation</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>Y.4 Write and solve direct variation equations</SubSectionName>
+		<UrlKey>write-and-solve-direct-variation-equations</UrlKey>
+		<ResultsUrl>2020134817</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>12</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-8 Quarter C</QuestionName>
+	</Question>
+</Questions>
