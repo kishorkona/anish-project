@@ -1,0 +1,750 @@
+<Questions>
+	<Question>
+		<Id>1</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Multiply decimals by whole numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>CC.7 Multiply a decimal by a multi-digit whole number</SubSectionName>
+		<UrlKey>multiply-a-decimal-by-a-multi-digit-whole-number</UrlKey>
+		<ResultsUrl>2000026288</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>2</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>M</SectionId>
+		<SectionName>Add and subtract mixed numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>M.5 Add and subtract mixed numbers</SubSectionName>
+		<UrlKey>add-and-subtract-mixed-numbers</UrlKey>
+		<ResultsUrl>2020702117</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>3</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>M</SectionId>
+		<SectionName>Add and subtract mixed numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>M.9 Complete addition and subtraction sentences with mixed numbers</SubSectionName>
+		<UrlKey>complete-addition-and-subtraction-sentences-with-mixed-numbers</UrlKey>
+		<ResultsUrl>2000026479</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>4</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Multiply decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>DD.1 Estimate products of decimals</SubSectionName>
+		<UrlKey>estimate-products-of-decimals</UrlKey>
+		<ResultsUrl>2000026285</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>5</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Multiplication</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>13</SubSectionId>
+		<SubSectionName>D.13 Multiply by 2-digit numbers: word problems</SubSectionName>
+		<UrlKey>multiply-by-2-digit-numbers-word-problems</UrlKey>
+		<ResultsUrl>2000026277</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>6</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>L</SectionId>
+		<SectionName>Add and subtract fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>L.6 Add and subtract fractions with unlike denominators</SubSectionName>
+		<UrlKey>add-and-subtract-fractions-with-unlike-denominators-no-simplify</UrlKey>
+		<ResultsUrl>2020043234</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>7</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>L</SectionId>
+		<SectionName>Add and subtract fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>L.8 Add 3 or more fractions with unlike denominators</SubSectionName>
+		<UrlKey>add-3-or-more-fractions-with-unlike-denominators</UrlKey>
+		<ResultsUrl>2000026471</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>8</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Multiply decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>DD.8 Decimal multiplication: compare products up to hundredths</SubSectionName>
+		<UrlKey>decimal-multiplication-compare-products-up-to-hundredths</UrlKey>
+		<ResultsUrl>2000026294</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>9</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Multiplication</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>D.7 Multiply by 1-digit numbers</SubSectionName>
+		<UrlKey>multiply-by-1-digit-numbers</UrlKey>
+		<ResultsUrl>2000026265</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>10</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>L</SectionId>
+		<SectionName>Add and subtract fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>L.11 Compare sums and differences of fractions</SubSectionName>
+		<UrlKey>compare-sums-and-differences-of-fractions</UrlKey>
+		<ResultsUrl>2000026474</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>11</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>L</SectionId>
+		<SectionName>Add and subtract fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>L.9 Add 3 or more fractions: word problems</SubSectionName>
+		<UrlKey>add-3-or-more-fractions-word-problems</UrlKey>
+		<ResultsUrl>2000026472</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>12</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>M</SectionId>
+		<SectionName>Add and subtract mixed numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>M.10 Compare sums and differences of mixed numbers</SubSectionName>
+		<UrlKey>compare-sums-and-differences-with-mixed-numbers</UrlKey>
+		<ResultsUrl>2000026485</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>13</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Multiplication</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>D.11 Multiply 2-digit numbers by 3-digit numbers</SubSectionName>
+		<UrlKey>multiply-2-digit-numbers-by-3-digit-numbers</UrlKey>
+		<ResultsUrl>2007001230</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>14</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>L</SectionId>
+		<SectionName>Add and subtract fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>L.10 Complete addition and subtraction sentences with fractions</SubSectionName>
+		<UrlKey>complete-addition-and-subtraction-sentences-with-fractions</UrlKey>
+		<ResultsUrl>2000026473</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>15</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>M</SectionId>
+		<SectionName>Add and subtract mixed numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>M.8 Add and subtract fractions and mixed numbers: multi-step word problems</SubSectionName>
+		<UrlKey>add-and-subtract-fractions-and-mixed-numbers-multi-step-word-problems</UrlKey>
+		<ResultsUrl>2021280517</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>16</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>M</SectionId>
+		<SectionName>Add and subtract mixed numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>M.4 Subtract mixed numbers with unlike denominators</SubSectionName>
+		<UrlKey>subtract-mixed-numbers-with-unlike-denominators</UrlKey>
+		<ResultsUrl>2000026477</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>17</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Multiplication</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>14</SubSectionId>
+		<SubSectionName>D.14 Multiply by 3-digit numbers</SubSectionName>
+		<UrlKey>multiply-by-3-digit-numbers</UrlKey>
+		<ResultsUrl>2000026279</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>18</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Multiply decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>DD.4 Multiply two decimals: where does the decimal point go?</SubSectionName>
+		<UrlKey>multiply-two-decimals-where-does-the-decimal-point-go</UrlKey>
+		<ResultsUrl>2020038150</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>19</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Multiply decimals by powers of ten</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>BB.3 Multiply by 0.1 or 0.01</SubSectionName>
+		<UrlKey>multiply-by-0-1-or-0-01</UrlKey>
+		<ResultsUrl>2020044672</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>20</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Multiply decimals by powers of ten</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>BB.4 Multiply by a power of ten with decimals: find the missing number</SubSectionName>
+		<UrlKey>multiply-by-a-power-of-ten-with-decimals-find-the-missing-number</UrlKey>
+		<ResultsUrl>2020038464</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>21</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>L</SectionId>
+		<SectionName>Add and subtract fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>L.5 Subtract fractions with unlike denominators</SubSectionName>
+		<UrlKey>subtract-fractions-with-unlike-denominators</UrlKey>
+		<ResultsUrl>2000026469</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>22</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Multiply decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>DD.6 Multiply two decimals: products up to hundredths</SubSectionName>
+		<UrlKey>multiply-two-decimals-products-up-to-hundredths</UrlKey>
+		<ResultsUrl>2000026293</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>23</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Multiply decimals by powers of ten</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>BB.1 Multiply a decimal by a power of ten</SubSectionName>
+		<UrlKey>multiply-a-decimal-by-a-power-of-ten</UrlKey>
+		<ResultsUrl>2000026286</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>24</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Multiply decimals by whole numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>CC.1 Estimate products of whole numbers and decimals</SubSectionName>
+		<UrlKey>estimate-products-of-whole-numbers-and-decimals</UrlKey>
+		<ResultsUrl>2020038822</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>25</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>U</SectionId>
+		<SectionName>Divide unit fractions and whole numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>U.3 Divide unit fractions and whole numbers</SubSectionName>
+		<UrlKey>divide-unit-fractions-and-whole-numbers-denominators-to-12</UrlKey>
+		<ResultsUrl>2009005397</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>26</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Multiply decimals by powers of ten</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>BB.2 Multiply a decimal by a power of ten: with exponents</SubSectionName>
+		<UrlKey>multiply-a-decimal-by-a-power-of-ten-with-exponents</UrlKey>
+		<ResultsUrl>2020039602</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>27</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Multiply decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>DD.3 Multiply decimals using grids</SubSectionName>
+		<UrlKey>multiply-decimals-using-grids</UrlKey>
+		<ResultsUrl>2020038643</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>28</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Multiply decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>DD.2 Multiply decimals less than one using grids</SubSectionName>
+		<UrlKey>multiply-decimals-less-than-one-using-grids</UrlKey>
+		<ResultsUrl>2000026292</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>29</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Multiplication</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>D.8 Multiply by 1-digit numbers: word problems</SubSectionName>
+		<UrlKey>multiply-by-1-digit-numbers-word-problems</UrlKey>
+		<ResultsUrl>2000026266</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>30</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>D</SectionId>
+		<SectionName>Multiplication</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>12</SubSectionId>
+		<SubSectionName>D.12 Multiply 2-digit numbers by larger numbers</SubSectionName>
+		<UrlKey>multiply-2-digit-numbers-by-larger-numbers</UrlKey>
+		<ResultsUrl>2000026276</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>31</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>M</SectionId>
+		<SectionName>Add and subtract mixed numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>M.3 Add mixed numbers with unlike denominators</SubSectionName>
+		<UrlKey>add-mixed-numbers-with-unlike-denominators</UrlKey>
+		<ResultsUrl>2000026476</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>32</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>M</SectionId>
+		<SectionName>Add and subtract mixed numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>M.1 Estimate sums and differences of mixed numbers</SubSectionName>
+		<UrlKey>estimate-sums-and-differences-of-mixed-numbers</UrlKey>
+		<ResultsUrl>2000026475</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>33</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>M</SectionId>
+		<SectionName>Add and subtract mixed numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>M.2 Add and subtract mixed numbers with unlike denominators: without regrouping</SubSectionName>
+		<UrlKey>add-and-subtract-mixed-numbers-with-unlike-denominators-without-regrouping</UrlKey>
+		<ResultsUrl>2020044490</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>34</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>U</SectionId>
+		<SectionName>Divide unit fractions and whole numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>U.1 Divide unit fractions by whole numbers</SubSectionName>
+		<UrlKey>divide-unit-fractions-by-whole-numbers</UrlKey>
+		<ResultsUrl>2009005395</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>35</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Multiply decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>DD.5 Multiply decimals using area models</SubSectionName>
+		<UrlKey>multiply-decimals-using-area-models</UrlKey>
+		<ResultsUrl>2020910417</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>36</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>M</SectionId>
+		<SectionName>Add and subtract mixed numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>M.6 Add and subtract mixed numbers: word problems</SubSectionName>
+		<UrlKey>add-and-subtract-mixed-numbers-word-problems</UrlKey>
+		<ResultsUrl>2000026478</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>37</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Multiply decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>DD.7 Multiply two decimals: products up to thousandths</SubSectionName>
+		<UrlKey>multiply-two-decimals-products-up-to-thousandths</UrlKey>
+		<ResultsUrl>2020036041</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>38</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>M</SectionId>
+		<SectionName>Add and subtract mixed numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>M.7 Add and subtract fractions and mixed numbers in recipes</SubSectionName>
+		<UrlKey>add-and-subtract-fractions-and-mixed-numbers-in-recipes</UrlKey>
+		<ResultsUrl>2007000536</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>39</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Multiply decimals</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>DD.9 Decimal multiplication: compare products up to thousandths</SubSectionName>
+		<UrlKey>decimal-multiplication-compare-products-up-to-thousandths</UrlKey>
+		<ResultsUrl>2020036042</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>40</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>L</SectionId>
+		<SectionName>Add and subtract fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>L.7 Add and subtract fractions with unlike denominators: word problems</SubSectionName>
+		<UrlKey>add-and-subtract-fractions-with-unlike-denominators-word-problems</UrlKey>
+		<ResultsUrl>2000026470</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>41</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>U</SectionId>
+		<SectionName>Divide unit fractions and whole numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>U.2 Divide whole numbers by unit fractions</SubSectionName>
+		<UrlKey>divide-whole-numbers-by-unit-fractions</UrlKey>
+		<ResultsUrl>2009005396</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>42</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Multiply decimals by whole numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>CC.5 Multiply a decimal by a one-digit whole number</SubSectionName>
+		<UrlKey>multiply-a-decimal-by-a-one-digit-whole-number</UrlKey>
+		<ResultsUrl>2000026287</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>43</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>U</SectionId>
+		<SectionName>Divide unit fractions and whole numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>U.4 Divide unit fractions and whole numbers: word problems</SubSectionName>
+		<UrlKey>divide-unit-fractions-and-whole-numbers-word-problems</UrlKey>
+		<ResultsUrl>2002025887</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+	<Question>
+		<Id>44</Id>
+		<Subject>Math</Subject>
+		<Grade>5</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Multiply decimals by whole numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>CC.9 Multiply three or more numbers, one of which is a decimal</SubSectionName>
+		<UrlKey>multiply-three-or-more-numbers-one-of-which-is-a-decimal</UrlKey>
+		<ResultsUrl>2000026291</ResultsUrl>
+		<Verified>0</Verified>
+		<Status>0</Status>
+		<QuestionId>59</QuestionId>
+		<SetValue></SetValue>
+		<QuestionName>Grade-5 Quarter A</QuestionName>
+	</Question>
+</Questions>
